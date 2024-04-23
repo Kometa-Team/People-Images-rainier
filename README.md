@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) (8855 Images)
+# Kometa People Images - Rainier (rainier) (8860 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -1192,7 +1192,7 @@
 * [Béla Tarr](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B%C3%A9la%20Tarr.jpg)
 * [Bérénice Bejo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B%C3%A9r%C3%A9nice%20Bejo.jpg)
 </details>
-<details><summary><a href="C">C (585 Images)</a></summary>
+<details><summary><a href="C">C (586 Images)</a></summary>
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
 * [C. S. Forester](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20S.%20Forester.jpg)
@@ -1703,6 +1703,7 @@
 * [Colm Meaney](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Colm%20Meaney.jpg)
 * [Colman Domingo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Colman%20Domingo.jpg)
 * [Colonel Burton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Colonel%20Burton.jpg)
+* [Colt Johnson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Colt%20Johnson.jpg)
 * [Colton Dunn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Colton%20Dunn.jpg)
 * [Colton Haynes](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Colton%20Haynes.jpg)
 * [Common](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Common.jpg)
@@ -3499,7 +3500,7 @@
 * [Izaac Wang](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Izaac%20Wang.jpg)
 * [Izabella Scorupco](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Izabella%20Scorupco.jpg)
 </details>
-<details><summary><a href="J">J (1094 Images)</a></summary>
+<details><summary><a href="J">J (1096 Images)</a></summary>
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -3611,6 +3612,7 @@
 * [Jake Tapper](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jake%20Tapper.jpg)
 * [Jake Weiner](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jake%20Weiner.jpg)
 * [Jakob Eklund](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jakob%20Eklund.jpg)
+* [Jakob Oftebro](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jakob%20Oftebro.jpg)
 * [Jameela Jamil](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jameela%20Jamil.jpg)
 * [James Acaster](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/James%20Acaster.jpg)
 * [James Algar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/James%20Algar.jpg)
@@ -4424,6 +4426,7 @@
 * [Josef Altin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Josef%20Altin.jpg)
 * [Josef Davies](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Josef%20Davies.jpg)
 * [Josef Sommer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Josef%20Sommer.jpg)
+* [Josefin Asplund](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Josefin%20Asplund.jpg)
 * [Joseph Balderrama](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Joseph%20Balderrama.jpg)
 * [Joseph Bono](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Joseph%20Bono.jpg)
 * [Joseph Cotten](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Joseph%20Cotten.jpg)
@@ -6905,7 +6908,7 @@
 * [Quinn Duffy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Q/Images/Quinn%20Duffy.jpg)
 * [Quinton Jackson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Q/Images/Quinton%20Jackson.jpg)
 </details>
-<details><summary><a href="R">R (571 Images)</a></summary>
+<details><summary><a href="R">R (572 Images)</a></summary>
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Lee%20Ermey.jpg)
 * [R. Madhavan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Madhavan.jpg)
@@ -7094,6 +7097,7 @@
 * [Richard Brooks](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Richard%20Brooks.jpg)
 * [Richard Burton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Richard%20Burton.jpg)
 * [Richard Carter](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Richard%20Carter.jpg)
+* [Richard Claus](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Richard%20Claus.jpg)
 * [Richard Conte](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Richard%20Conte.jpg)
 * [Richard Coyle](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Richard%20Coyle.jpg)
 * [Richard Curtis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Richard%20Curtis.jpg)
@@ -8101,7 +8105,7 @@
 * [Søren Pilmark](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S%C3%B8ren%20Pilmark.jpg)
 * [Sō Yamanaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S%C5%8D%20Yamanaka.jpg)
 </details>
-<details><summary><a href="T">T (424 Images)</a></summary>
+<details><summary><a href="T">T (425 Images)</a></summary>
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T.%20J.%20Miller.jpg)
 * [T. Love](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T.%20Love.jpg)
@@ -8323,6 +8327,7 @@
 * [Tobe Hooper](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tobe%20Hooper.jpg)
 * [Tobey Maguire](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tobey%20Maguire.jpg)
 * [Tobias Menzies](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tobias%20Menzies.jpg)
+* [Tobias Santelmann](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tobias%20Santelmann.jpg)
 * [Tobias Segal](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tobias%20Segal.jpg)
 * [Tobin Bell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tobin%20Bell.jpg)
 * [Toby Huss](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Toby%20Huss.jpg)

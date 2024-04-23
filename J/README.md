@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - J (1094 Images)
+# Kometa People Images - Rainier (rainier) - J (1096 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J%27Dvonte.jpg)
@@ -111,6 +111,7 @@
 * [Jake Tapper](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jake%20Tapper.jpg)
 * [Jake Weiner](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jake%20Weiner.jpg)
 * [Jakob Eklund](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jakob%20Eklund.jpg)
+* [Jakob Oftebro](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jakob%20Oftebro.jpg)
 * [Jameela Jamil](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jameela%20Jamil.jpg)
 * [James Acaster](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/James%20Acaster.jpg)
 * [James Algar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/James%20Algar.jpg)
@@ -924,6 +925,7 @@
 * [Josef Altin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Josef%20Altin.jpg)
 * [Josef Davies](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Josef%20Davies.jpg)
 * [Josef Sommer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Josef%20Sommer.jpg)
+* [Josefin Asplund](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Josefin%20Asplund.jpg)
 * [Joseph Balderrama](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Joseph%20Balderrama.jpg)
 * [Joseph Bono](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Joseph%20Bono.jpg)
 * [Joseph Cotten](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Joseph%20Cotten.jpg)

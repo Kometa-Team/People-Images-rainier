@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - R (571 Images)
+# Kometa People Images - Rainier (rainier) - R (572 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -188,6 +188,7 @@
 * [Richard Brooks](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Richard%20Brooks.jpg)
 * [Richard Burton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Richard%20Burton.jpg)
 * [Richard Carter](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Richard%20Carter.jpg)
+* [Richard Claus](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Richard%20Claus.jpg)
 * [Richard Conte](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Richard%20Conte.jpg)
 * [Richard Coyle](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Richard%20Coyle.jpg)
 * [Richard Curtis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Richard%20Curtis.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - C (585 Images)
+# Kometa People Images - Rainier (rainier) - C (586 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -510,6 +510,7 @@
 * [Colm Meaney](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Colm%20Meaney.jpg)
 * [Colman Domingo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Colman%20Domingo.jpg)
 * [Colonel Burton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Colonel%20Burton.jpg)
+* [Colt Johnson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Colt%20Johnson.jpg)
 * [Colton Dunn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Colton%20Dunn.jpg)
 * [Colton Haynes](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Colton%20Haynes.jpg)
 * [Common](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Common.jpg)
