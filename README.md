@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) (8884 Images)
+# Kometa People Images - Rainier (rainier) (8885 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -2885,7 +2885,7 @@
 * [Fritz Lang](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fritz%20Lang.jpg)
 * [Frédéric North](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fr%C3%A9d%C3%A9ric%20North.jpg)
 </details>
-<details><summary><a href="G">G (307 Images)</a></summary>
+<details><summary><a href="G">G (308 Images)</a></summary>
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/G-Eazy.jpg)
 * [G. D. Spradlin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/G.%20D.%20Spradlin.jpg)
@@ -3193,6 +3193,7 @@
 * [Gwyneth Paltrow](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gwyneth%20Paltrow.jpg)
 * [Gérard Depardieu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/G%C3%A9rard%20Depardieu.jpg)
 * [Götz Otto](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/G%C3%B6tz%20Otto.jpg)
+* [Günter Lamprecht](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/G%C3%BCnter%20Lamprecht.jpg)
 * [Günther Stoll](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/G%C3%BCnther%20Stoll.jpg)
 </details>
 <details><summary><a href="H">H (197 Images)</a></summary>

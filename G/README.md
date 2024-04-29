@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - G (307 Images)
+# Kometa People Images - Rainier (rainier) - G (308 Images)
 ![Grid](grid.jpg)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/G-Eazy.jpg)
@@ -307,4 +307,5 @@
 * [Gwyneth Paltrow](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gwyneth%20Paltrow.jpg)
 * [Gérard Depardieu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/G%C3%A9rard%20Depardieu.jpg)
 * [Götz Otto](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/G%C3%B6tz%20Otto.jpg)
+* [Günter Lamprecht](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/G%C3%BCnter%20Lamprecht.jpg)
 * [Günther Stoll](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/G%C3%BCnther%20Stoll.jpg)
