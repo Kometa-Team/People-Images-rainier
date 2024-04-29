@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - C (588 Images)
+# Kometa People Images - Rainier (rainier) - C (589 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -131,6 +131,7 @@
 * [Cathryn Michon](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Cathryn%20Michon.jpg)
 * [Cathy Ang](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Cathy%20Ang.jpg)
 * [Cathy Belton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Cathy%20Belton.jpg)
+* [Cathy Cavadini](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Cathy%20Cavadini.jpg)
 * [Cathy Konrad](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Cathy%20Konrad.jpg)
 * [Cathy Yan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Cathy%20Yan.jpg)
 * [Catriona MacColl](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Catriona%20MacColl.jpg)
