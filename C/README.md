@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - C (586 Images)
+# Kometa People Images - Rainier (rainier) - C (588 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -136,6 +136,7 @@
 * [Catriona MacColl](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Catriona%20MacColl.jpg)
 * [Cec Linder](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Cec%20Linder.jpg)
 * [Cecil B. DeMille](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Cecil%20B.%20DeMille.jpg)
+* [Cecily Strong](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Cecily%20Strong.jpg)
 * [Cedric Yarbrough](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Cedric%20Yarbrough.jpg)
 * [Cedric the Entertainer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Cedric%20the%20Entertainer.jpg)
 * [Celeste O'Connor](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Celeste%20O%27Connor.jpg)
@@ -177,6 +178,7 @@
 * [Charles Finch](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charles%20Finch.jpg)
 * [Charles Fournier](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charles%20Fournier.jpg)
 * [Charles Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charles%20Gray.jpg)
+* [Charles Grosvenor](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charles%20Grosvenor.jpg)
 * [Charles Lamont](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charles%20Lamont.jpg)
 * [Charles Laughton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charles%20Laughton.jpg)
 * [Charles M. Schulz](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charles%20M.%20Schulz.jpg)
