@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - H (197 Images)
+# Kometa People Images - Rainier (rainier) - H (199 Images)
 ![Grid](grid.jpg)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/H.%20Jon%20Benjamin.jpg)
@@ -59,6 +59,7 @@
 * [Harper Dill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Harper%20Dill.jpg)
 * [Harpo Marx](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Harpo%20Marx.jpg)
 * [Harriet Sansom Harris](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Harriet%20Sansom%20Harris.jpg)
+* [Harriet Slater](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Harriet%20Slater.jpg)
 * [Harriet Walter](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Harriet%20Walter.jpg)
 * [Harris Dickinson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Harris%20Dickinson.jpg)
 * [Harris Yulin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Harris%20Yulin.jpg)
@@ -170,6 +171,7 @@
 * [Hope Easterbrook](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hope%20Easterbrook.jpg)
 * [Horatio Sanz](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Horatio%20Sanz.jpg)
 * [Horst Buchholz](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Horst%20Buchholz.jpg)
+* [Hossam Fares](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hossam%20Fares.jpg)
 * [Hovik Keuchkerian](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hovik%20Keuchkerian.jpg)
 * [Howard Deutch](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Howard%20Deutch.jpg)
 * [Howard G. Kazanjian](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Howard%20G.%20Kazanjian.jpg)

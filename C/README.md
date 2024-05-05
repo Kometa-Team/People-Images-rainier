@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - C (589 Images)
+# Kometa People Images - Rainier (rainier) - C (590 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -535,6 +535,7 @@
 * [Coral Peña](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Coral%20Pe%C3%B1a.jpg)
 * [Corbin Bernsen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Corbin%20Bernsen.jpg)
 * [Corbin Bleu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Corbin%20Bleu.jpg)
+* [Cord Jefferson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Cord%20Jefferson.jpg)
 * [Corey Burton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Corey%20Burton.jpg)
 * [Corey Hawkins](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Corey%20Hawkins.jpg)
 * [Corey Hendrix](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Corey%20Hendrix.jpg)

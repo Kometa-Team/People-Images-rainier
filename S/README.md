@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - S (619 Images)
+# Kometa People Images - Rainier (rainier) - S (620 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -41,6 +41,7 @@
 * [Sam Hazeldine](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sam%20Hazeldine.jpg)
 * [Sam Heughan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sam%20Heughan.jpg)
 * [Sam Jaeger](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sam%20Jaeger.jpg)
+* [Sam Jaimes](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sam%20Jaimes.jpg)
 * [Sam Jay](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sam%20Jay.jpg)
 * [Sam Johnston](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sam%20Johnston.jpg)
 * [Sam Kinison](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sam%20Kinison.jpg)

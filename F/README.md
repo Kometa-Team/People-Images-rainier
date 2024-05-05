@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - F (164 Images)
+# Kometa People Images - Rainier (rainier) - F (166 Images)
 ![Grid](grid.jpg)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/F.%20Gary%20Gray.jpg)
@@ -17,6 +17,8 @@
 * [Fakkah Fuzz](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fakkah%20Fuzz.jpg)
 * [Famke Janssen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Famke%20Janssen.jpg)
 * [Faran Tahir](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Faran%20Tahir.jpg)
+* [Fares Fares](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fares%20Fares.jpg)
+* [Fares Rahoma](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fares%20Rahoma.jpg)
 * [Farida Dadi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Farida%20Dadi.jpg)
 * [Farrah Aviva](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Farrah%20Aviva.jpg)
 * [Farrah Forke](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Farrah%20Forke.jpg)
