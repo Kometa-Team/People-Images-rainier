@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - U (15 Images)
+# Kometa People Images - Rainier (rainier) - U (16 Images)
 ![Grid](grid.jpg)
 
 * [Uday Krishna](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Uday%20Krishna.jpg)
@@ -11,6 +11,7 @@
 * [Uma Thurman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Uma%20Thurman.jpg)
 * [Umberto Lenzi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Umberto%20Lenzi.jpg)
 * [Umit Ulgen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Umit%20Ulgen.jpg)
+* [Unsho Ishizuka](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Unsho%20Ishizuka.jpg)
 * [Urbano Barberini](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Urbano%20Barberini.jpg)
 * [Ursula Andress](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Ursula%20Andress.jpg)
 * [Utkarsh Ambudkar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Utkarsh%20Ambudkar.jpg)

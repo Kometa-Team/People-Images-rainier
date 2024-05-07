@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - T (428 Images)
+# Kometa People Images - Rainier (rainier) - T (430 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T.%20J.%20Miller.jpg)
@@ -12,6 +12,7 @@
 * [Taika Waititi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Taika%20Waititi.jpg)
 * [Tait Fletcher](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tait%20Fletcher.jpg)
 * [Takashi Miike](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takashi%20Miike.jpg)
+* [Takehito Koyasu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takehito%20Koyasu.jpg)
 * [Takeshi Kitano](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takeshi%20Kitano.jpg)
 * [Taku Yashiro](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Taku%20Yashiro.jpg)
 * [Talia Shire](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Talia%20Shire.jpg)
@@ -115,6 +116,7 @@
 * [Terry Winsor](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Terry%20Winsor.jpg)
 * [Teruo Ishii](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Teruo%20Ishii.jpg)
 * [Tessa Thompson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tessa%20Thompson.jpg)
+* [Tessyo Genda](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tessyo%20Genda.jpg)
 * [Tetsuro Kodama](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tetsuro%20Kodama.jpg)
 * [Teyonah Parris](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Teyonah%20Parris.jpg)
 * [Thandiwe Newton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Thandiwe%20Newton.jpg)

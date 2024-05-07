@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - K (402 Images)
+# Kometa People Images - Rainier (rainier) - K (404 Images)
 ![Grid](grid.jpg)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K%20Raghavendra%20Rao.jpg)
@@ -21,6 +21,7 @@
 * [Kaneto Shindō](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kaneto%20Shind%C5%8D.jpg)
 * [Kang Mal-geum](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kang%20Mal-geum.jpg)
 * [Kaori Taketani](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kaori%20Taketani.jpg)
+* [Kappei Yamaguchi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kappei%20Yamaguchi.jpg)
 * [Kara Wang](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kara%20Wang.jpg)
 * [Karamveer Choudhary](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Karamveer%20Choudhary.jpg)
 * [Karan Deol](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Karan%20Deol.jpg)
@@ -329,6 +330,7 @@
 * [Kirsty Mitchell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kirsty%20Mitchell.jpg)
 * [Kit Harington](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kit%20Harington.jpg)
 * [Kiti Mánver](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kiti%20M%C3%A1nver.jpg)
+* [Kiyoyuki Yanada](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kiyoyuki%20Yanada.jpg)
 * [Klaus Kinski](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Klaus%20Kinski.jpg)
 * [Klaus Maria Brandauer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Klaus%20Maria%20Brandauer.jpg)
 * [Knate Gwaltney](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Knate%20Gwaltney.jpg)

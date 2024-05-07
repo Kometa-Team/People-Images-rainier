@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - S (620 Images)
+# Kometa People Images - Rainier (rainier) - S (621 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -329,6 +329,7 @@
 * [Shooter Jennings](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shooter%20Jennings.jpg)
 * [Shuko Murase](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shuko%20Murase.jpg)
 * [Shun Oguri](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shun%20Oguri.jpg)
+* [Shunsuke Sakuya](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shunsuke%20Sakuya.jpg)
 * [Shusuke Kaneko](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shusuke%20Kaneko.jpg)
 * [Shweta Basu Prasad](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shweta%20Basu%20Prasad.jpg)
 * [Sian Brooke](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sian%20Brooke.jpg)
