@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - N (249 Images)
+# Kometa People Images - Rainier (rainier) - N (251 Images)
 ![Grid](grid.jpg)
 
 * [N.T. Rama Rao Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/N.T.%20Rama%20Rao%20Jr..jpg)
@@ -10,6 +10,7 @@
 * [Nadine Labaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Nadine%20Labaki.jpg)
 * [Nadja Regin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Nadja%20Regin.jpg)
 * [Nagisa Morimoto](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Nagisa%20Morimoto.jpg)
+* [Nagisa Ōshima](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Nagisa%20%C5%8Cshima.jpg)
 * [Naheem Garcia](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Naheem%20Garcia.jpg)
 * [Naika Toussaint](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Naika%20Toussaint.jpg)
 * [Najwa Nimri](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Najwa%20Nimri.jpg)
@@ -19,6 +20,7 @@
 * [Naoko Mori](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Naoko%20Mori.jpg)
 * [Naoko Yamada](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Naoko%20Yamada.jpg)
 * [Naomi Frenette](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Naomi%20Frenette.jpg)
+* [Naomi Kawase](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Naomi%20Kawase.jpg)
 * [Naomi Scott](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Naomi%20Scott.jpg)
 * [Naomi Watts](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Naomi%20Watts.jpg)
 * [Naomie Harris](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Naomie%20Harris.jpg)
