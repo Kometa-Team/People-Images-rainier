@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - T (430 Images)
+# Kometa People Images - Rainier (rainier) - T (432 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T.%20J.%20Miller.jpg)
@@ -11,6 +11,7 @@
 * [Tahmoh Penikett](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tahmoh%20Penikett.jpg)
 * [Taika Waititi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Taika%20Waititi.jpg)
 * [Tait Fletcher](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tait%20Fletcher.jpg)
+* [Takahisa Zeze](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takahisa%20Zeze.jpg)
 * [Takashi Miike](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takashi%20Miike.jpg)
 * [Takehito Koyasu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takehito%20Koyasu.jpg)
 * [Takeshi Kitano](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takeshi%20Kitano.jpg)
@@ -361,6 +362,7 @@
 * [Topo Wresniwiro](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Topo%20Wresniwiro.jpg)
 * [Tora Hallström](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tora%20Hallstr%C3%B6m.jpg)
 * [Tori Anderson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tori%20Anderson.jpg)
+* [Tori Matsuzaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tori%20Matsuzaka.jpg)
 * [Tori Spelling](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tori%20Spelling.jpg)
 * [Torrey DeVitto](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Torrey%20DeVitto.jpg)
 * [Tory Kittles](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tory%20Kittles.jpg)

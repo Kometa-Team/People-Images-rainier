@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - Y (49 Images)
+# Kometa People Images - Rainier (rainier) - Y (51 Images)
 ![Grid](grid.jpg)
 
 * [Y. Ravi Shankar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Y.%20Ravi%20Shankar.jpg)
@@ -20,6 +20,7 @@
 * [Yi Han](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yi%20Han.jpg)
 * [Yogi Babu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yogi%20Babu.jpg)
 * [Yoji Tanaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yoji%20Tanaka.jpg)
+* [Yoji Yamada](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yoji%20Yamada.jpg)
 * [Yolanda Lynes](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yolanda%20Lynes.jpg)
 * [Yon González](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yon%20Gonz%C3%A1lez.jpg)
 * [Yonas Kibreab](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yonas%20Kibreab.jpg)
@@ -33,6 +34,7 @@
 * [Yoson An](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yoson%20An.jpg)
 * [You Seong-joo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/You%20Seong-joo.jpg)
 * [Youssef Kerkour](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Youssef%20Kerkour.jpg)
+* [Yu Aoi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yu%20Aoi.jpg)
 * [Yuichi Nakamura](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yuichi%20Nakamura.jpg)
 * [Yuji Okumoto](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yuji%20Okumoto.jpg)
 * [Yuki Kaji](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yuki%20Kaji.jpg)

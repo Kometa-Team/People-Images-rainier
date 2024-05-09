@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - R (576 Images)
+# Kometa People Images - Rainier (rainier) - R (578 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -575,5 +575,7 @@
 * [Ryan Stiles](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ryan%20Stiles.jpg)
 * [Ryan Whitney](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ryan%20Whitney.jpg)
 * [Ryen McPherson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ryen%20McPherson.jpg)
+* [Ryo Kase](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ryo%20Kase.jpg)
+* [Ryuichi Hiroki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ryuichi%20Hiroki.jpg)
 * [Ryunosuke Kamiki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ryunosuke%20Kamiki.jpg)
 * [Ryusuke Hamaguchi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ryusuke%20Hamaguchi.jpg)
