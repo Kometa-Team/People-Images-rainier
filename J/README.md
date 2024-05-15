@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - J (1108 Images)
+# Kometa People Images - Rainier (rainier) - J (1110 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J%27Dvonte.jpg)
@@ -353,6 +353,8 @@
 * [Jeff Bennett](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jeff%20Bennett.jpg)
 * [Jeff Bridges](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jeff%20Bridges.jpg)
 * [Jeff Burkes](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jeff%20Burkes.jpg)
+* [Jeff Chan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jeff%20Chan.jpg)
+* [Jeff Chang](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jeff%20Chang.jpg)
 * [Jeff Corey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jeff%20Corey.jpg)
 * [Jeff Daniels](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jeff%20Daniels.jpg)
 * [Jeff Dunham](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jeff%20Dunham.jpg)

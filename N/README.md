@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - N (251 Images)
+# Kometa People Images - Rainier (rainier) - N (252 Images)
 ![Grid](grid.jpg)
 
 * [N.T. Rama Rao Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/N.T.%20Rama%20Rao%20Jr..jpg)
@@ -224,6 +224,7 @@
 * [Nobuaki Shimamoto](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Nobuaki%20Shimamoto.jpg)
 * [Nobunaga Shimazaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Nobunaga%20Shimazaki.jpg)
 * [Nobuyuki Takeuchi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Nobuyuki%20Takeuchi.jpg)
+* [Noel Fielding](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Noel%20Fielding.jpg)
 * [Noel Fisher](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Noel%20Fisher.jpg)
 * [Noel Gugliemi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Noel%20Gugliemi.jpg)
 * [Nolan North](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Nolan%20North.jpg)

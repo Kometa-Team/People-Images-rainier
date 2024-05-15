@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - C (590 Images)
+# Kometa People Images - Rainier (rainier) - C (591 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -32,6 +32,7 @@
 * [Camille Guaty](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Camille%20Guaty.jpg)
 * [Camille Kostek](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Camille%20Kostek.jpg)
 * [Camillo Mastrocinque](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Camillo%20Mastrocinque.jpg)
+* [Campbell Scott](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Campbell%20Scott.jpg)
 * [Candace Cameron Bure](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Candace%20Cameron%20Bure.jpg)
 * [Candi Milo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Candi%20Milo.jpg)
 * [Candice Bergen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Candice%20Bergen.jpg)
