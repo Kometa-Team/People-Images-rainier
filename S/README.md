@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - S (628 Images)
+# Kometa People Images - Rainier (rainier) - S (630 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -139,6 +139,7 @@
 * [Sasha Compère](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sasha%20Comp%C3%A8re.jpg)
 * [Sasha Hutchings](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sasha%20Hutchings.jpg)
 * [Sasha Lane](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sasha%20Lane.jpg)
+* [Sasha Roiz](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sasha%20Roiz.jpg)
 * [Satoshi Kon](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Satoshi%20Kon.jpg)
 * [Satoshi Tajiri](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Satoshi%20Tajiri.jpg)
 * [Satoshi Tsumabuki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Satoshi%20Tsumabuki.jpg)
@@ -162,6 +163,7 @@
 * [Scott Eastwood](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Scott%20Eastwood.jpg)
 * [Scott Frank](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Scott%20Frank.jpg)
 * [Scott Glenn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Scott%20Glenn.jpg)
+* [Scott Grimes](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Scott%20Grimes.jpg)
 * [Scott Lawrence](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Scott%20Lawrence.jpg)
 * [Scott M. Jefferson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Scott%20M.%20Jefferson.jpg)
 * [Scott MacDonald](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Scott%20MacDonald.jpg)

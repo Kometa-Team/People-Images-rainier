@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - R (578 Images)
+# Kometa People Images - Rainier (rainier) - R (580 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -108,10 +108,12 @@
 * [Ray Winstone](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ray%20Winstone.jpg)
 * [Ray Wise](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ray%20Wise.jpg)
 * [Raymond Ablack](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Raymond%20Ablack.jpg)
+* [Raymond Cruz](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Raymond%20Cruz.jpg)
 * [Raymond J. Barry](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Raymond%20J.%20Barry.jpg)
 * [Raymond Lee](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Raymond%20Lee.jpg)
 * [Raymond S. Persi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Raymond%20S.%20Persi.jpg)
 * [Rayner Bourton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rayner%20Bourton.jpg)
+* [Rayver Cruz](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rayver%20Cruz.jpg)
 * [Raúl Esparza](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ra%C3%BAl%20Esparza.jpg)
 * [Reb Brown](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Reb%20Brown.jpg)
 * [Rebecca Ferguson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rebecca%20Ferguson.jpg)

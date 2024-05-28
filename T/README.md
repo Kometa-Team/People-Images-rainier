@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - T (433 Images)
+# Kometa People Images - Rainier (rainier) - T (434 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T.%20J.%20Miller.jpg)
@@ -335,6 +335,7 @@
 * [Tony D. Head](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tony%20D.%20Head.jpg)
 * [Tony Dalton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tony%20Dalton.jpg)
 * [Tony Darrow](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tony%20Darrow.jpg)
+* [Tony Denison](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tony%20Denison.jpg)
 * [Tony Gardner](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tony%20Gardner.jpg)
 * [Tony Geiss](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tony%20Geiss.jpg)
 * [Tony Gilroy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tony%20Gilroy.jpg)

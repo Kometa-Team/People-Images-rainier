@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - C (591 Images)
+# Kometa People Images - Rainier (rainier) - C (592 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -542,6 +542,7 @@
 * [Corey Hendrix](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Corey%20Hendrix.jpg)
 * [Corey Holcomb](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Corey%20Holcomb.jpg)
 * [Corey Johnson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Corey%20Johnson.jpg)
+* [Corey Reynolds](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Corey%20Reynolds.jpg)
 * [Corey Rodrigues](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Corey%20Rodrigues.jpg)
 * [Corey Saucier](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Corey%20Saucier.jpg)
 * [Corey Sevier](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Corey%20Sevier.jpg)
