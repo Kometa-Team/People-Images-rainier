@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - W (158 Images)
+# Kometa People Images - Rainier (rainier) - W (160 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/W.%20Bruce%20Cameron.jpg)
@@ -108,6 +108,7 @@
 * [William Hootkins](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20Hootkins.jpg)
 * [William Hope](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20Hope.jpg)
 * [William Hurt](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20Hurt.jpg)
+* [William J. Kelly](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20J.%20Kelly.jpg)
 * [William Jackson Harper](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20Jackson%20Harper.jpg)
 * [William Joyce](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20Joyce.jpg)
 * [William Kircher](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20Kircher.jpg)
@@ -158,4 +159,5 @@
 * [Wyatt Oleff](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wyatt%20Oleff.jpg)
 * [Wyatt Russell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wyatt%20Russell.jpg)
 * [Wyck Godfrey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wyck%20Godfrey.jpg)
+* [Wynn Everett](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wynn%20Everett.jpg)
 * [Władysław Szpilman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/W%C5%82adys%C5%82aw%20Szpilman.jpg)

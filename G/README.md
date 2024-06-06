@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - G (309 Images)
+# Kometa People Images - Rainier (rainier) - G (311 Images)
 ![Grid](grid.jpg)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/G-Eazy.jpg)
@@ -92,6 +92,7 @@
 * [Geoffrey Holder](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Geoffrey%20Holder.jpg)
 * [Geoffrey Keen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Geoffrey%20Keen.jpg)
 * [Geoffrey Lewis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Geoffrey%20Lewis.jpg)
+* [Geoffrey Palmer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Geoffrey%20Palmer.jpg)
 * [Geoffrey Rush](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Geoffrey%20Rush.jpg)
 * [Geoffrey Whitehead](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Geoffrey%20Whitehead.jpg)
 * [George A. Romero](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/George%20A.%20Romero.jpg)
@@ -281,6 +282,7 @@
 * [Greta Gerwig](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Greta%20Gerwig.jpg)
 * [Gretchen Koerner](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gretchen%20Koerner.jpg)
 * [Grey DeLisle](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Grey%20DeLisle.jpg)
+* [Griff Rhys Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Griff%20Rhys%20Jones.jpg)
 * [Griffin Dunne](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Griffin%20Dunne.jpg)
 * [Griffin Kane](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Griffin%20Kane.jpg)
 * [Griffin Matthews](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Griffin%20Matthews.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - B (457 Images)
+# Kometa People Images - Rainier (rainier) - B (458 Images)
 ![Grid](grid.jpg)
 
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.J.%20Penn.jpg)
@@ -313,6 +313,7 @@
 * [Brendan Conroy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brendan%20Conroy.jpg)
 * [Brendan Fraser](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brendan%20Fraser.jpg)
 * [Brendan Gleeson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brendan%20Gleeson.jpg)
+* [Brendan Hines](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brendan%20Hines.jpg)
 * [Brendan Hunt](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brendan%20Hunt.jpg)
 * [Brendan Penny](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brendan%20Penny.jpg)
 * [Brendan Schaub](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brendan%20Schaub.jpg)

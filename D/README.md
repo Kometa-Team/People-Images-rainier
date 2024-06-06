@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - D (600 Images)
+# Kometa People Images - Rainier (rainier) - D (602 Images)
 ![Grid](grid.jpg)
 
 * [D.L. Hughley](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D.L.%20Hughley.jpg)
@@ -349,6 +349,7 @@
 * [Dean Stockwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dean%20Stockwell.jpg)
 * [Dean Winters](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dean%20Winters.jpg)
 * [Dean-Charles Chapman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dean-Charles%20Chapman.jpg)
+* [Deanna Russo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Deanna%20Russo.jpg)
 * [Debbie Isitt](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Debbie%20Isitt.jpg)
 * [Debbon Ayer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Debbon%20Ayer.jpg)
 * [Debi Derryberry](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Debi%20Derryberry.jpg)
@@ -568,6 +569,7 @@
 * [Dr. Seuss](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dr.%20Seuss.jpg)
 * [Drea de Matteo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Drea%20de%20Matteo.jpg)
 * [Drew Barrymore](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Drew%20Barrymore.jpg)
+* [Drew Carey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Drew%20Carey.jpg)
 * [Drew Matthews](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Drew%20Matthews.jpg)
 * [Drew Michael](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Drew%20Michael.jpg)
 * [Drew Pearce](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Drew%20Pearce.jpg)
