@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - A (738 Images)
+# Kometa People Images - Rainier (rainier) - A (739 Images)
 ![Grid](grid.jpg)
 
 * [Aamir Khan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aamir%20Khan.jpg)
@@ -624,6 +624,7 @@
 * [Aramis Knight](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aramis%20Knight.jpg)
 * [Arata Iura](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Arata%20Iura.jpg)
 * [Aravind SA](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aravind%20SA.jpg)
+* [Archie Panjabi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Archie%20Panjabi.jpg)
 * [Ardalan Esmaili](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Ardalan%20Esmaili.jpg)
 * [Ari Aster](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Ari%20Aster.jpg)
 * [Ari Eldjárn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Ari%20Eldj%C3%A1rn.jpg)
