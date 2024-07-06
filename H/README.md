@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - H (206 Images)
+# Kometa People Images - Rainier (rainier) - H (207 Images)
 ![Grid](grid.jpg)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/H.%20Jon%20Benjamin.jpg)
@@ -190,6 +190,7 @@
 * [Hoyte van Hoytema](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hoyte%20van%20Hoytema.jpg)
 * [Hubert Selby Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hubert%20Selby%20Jr..jpg)
 * [Hugh Bonneville](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hugh%20Bonneville.jpg)
+* [Hugh Coles](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hugh%20Coles.jpg)
 * [Hugh Dancy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hugh%20Dancy.jpg)
 * [Hugh Dennis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hugh%20Dennis.jpg)
 * [Hugh Grant](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hugh%20Grant.jpg)

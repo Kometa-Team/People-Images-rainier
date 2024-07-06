@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - K (414 Images)
+# Kometa People Images - Rainier (rainier) - K (415 Images)
 ![Grid](grid.jpg)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K%20Raghavendra%20Rao.jpg)
@@ -303,6 +303,7 @@
 * [Kim Dickens](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kim%20Dickens.jpg)
 * [Kim Dong-hyun](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kim%20Dong-hyun.jpg)
 * [Kim Fields](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kim%20Fields.jpg)
+* [Kim Jang-hoon](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kim%20Jang-hoon.jpg)
 * [Kim Jee-woon](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kim%20Jee-woon.jpg)
 * [Kim Joo-ryoung](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kim%20Joo-ryoung.jpg)
 * [Kim Kee-duk](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kim%20Kee-duk.jpg)

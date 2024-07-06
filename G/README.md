@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - G (311 Images)
+# Kometa People Images - Rainier (rainier) - G (313 Images)
 ![Grid](grid.jpg)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/G-Eazy.jpg)
@@ -121,6 +121,7 @@
 * [George Nolfi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/George%20Nolfi.jpg)
 * [George Pastell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/George%20Pastell.jpg)
 * [George Peppard](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/George%20Peppard.jpg)
+* [George Plimpton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/George%20Plimpton.jpg)
 * [George Roy Hill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/George%20Roy%20Hill.jpg)
 * [George Sanders](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/George%20Sanders.jpg)
 * [George Sear](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/George%20Sear.jpg)
@@ -168,6 +169,7 @@
 * [Gianpiero Pumo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gianpiero%20Pumo.jpg)
 * [Gigi Pritzker](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gigi%20Pritzker.jpg)
 * [Gigio Alberti](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gigio%20Alberti.jpg)
+* [Gil Bellows](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gil%20Bellows.jpg)
 * [Gil Perez-Abraham](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gil%20Perez-Abraham.jpg)
 * [Gilbert Gottfried](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gilbert%20Gottfried.jpg)
 * [Gill Dennis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gill%20Dennis.jpg)

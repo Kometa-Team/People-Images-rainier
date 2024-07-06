@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - B (458 Images)
+# Kometa People Images - Rainier (rainier) - B (459 Images)
 ![Grid](grid.jpg)
 
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.J.%20Penn.jpg)
@@ -152,6 +152,7 @@
 * [Bhushan Kumar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bhushan%20Kumar.jpg)
 * [Bianca Bethune](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bianca%20Bethune.jpg)
 * [Bianca Nappi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bianca%20Nappi.jpg)
+* [Bibo Bergeron](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bibo%20Bergeron.jpg)
 * [Biff Wiff](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Biff%20Wiff.jpg)
 * [Bilall Fallah](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bilall%20Fallah.jpg)
 * [Bill Allison](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bill%20Allison.jpg)

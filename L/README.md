@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - L (388 Images)
+# Kometa People Images - Rainier (rainier) - L (389 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/L.%20Q.%20Jones.jpg)
@@ -251,6 +251,7 @@
 * [Liu Yifei](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Liu%20Yifei.jpg)
 * [Liv Tyler](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Liv%20Tyler.jpg)
 * [Livvy Stubenrauch](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Livvy%20Stubenrauch.jpg)
+* [Liz Friedlander](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Liz%20Friedlander.jpg)
 * [Liz Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Liz%20Smith.jpg)
 * [Liza Chasin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Liza%20Chasin.jpg)
 * [Liza Colón-Zayas](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Liza%20Col%C3%B3n-Zayas.jpg)

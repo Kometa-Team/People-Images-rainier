@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - F (166 Images)
+# Kometa People Images - Rainier (rainier) - F (167 Images)
 ![Grid](grid.jpg)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/F.%20Gary%20Gray.jpg)
@@ -166,4 +166,5 @@
 * [Fridrik Thor Fridriksson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fridrik%20Thor%20Fridriksson.jpg)
 * [Friedrich von Thun](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Friedrich%20von%20Thun.jpg)
 * [Fritz Lang](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fritz%20Lang.jpg)
+* [Fritz von Friedl](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fritz%20von%20Friedl.jpg)
 * [Frédéric North](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fr%C3%A9d%C3%A9ric%20North.jpg)

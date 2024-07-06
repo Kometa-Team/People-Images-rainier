@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - W (160 Images)
+# Kometa People Images - Rainier (rainier) - W (161 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/W.%20Bruce%20Cameron.jpg)
@@ -69,6 +69,7 @@
 * [Will Ferrell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Will%20Ferrell.jpg)
 * [Will Fletcher](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Will%20Fletcher.jpg)
 * [Will Forte](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Will%20Forte.jpg)
+* [Will Friedle](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Will%20Friedle.jpg)
 * [Will Hare](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Will%20Hare.jpg)
 * [Will Hay](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Will%20Hay.jpg)
 * [Will Kemp](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Will%20Kemp.jpg)
