@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - M (840 Images)
+# Kometa People Images - Rainier (rainier) - M (841 Images)
 ![Grid](grid.jpg)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
@@ -317,6 +317,7 @@
 * [Mary Sheila](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Mary%20Sheila.jpg)
 * [Mary Steenburgen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Mary%20Steenburgen.jpg)
 * [Mary Tyler Moore](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Mary%20Tyler%20Moore.jpg)
+* [Mary Wiseman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Mary%20Wiseman.jpg)
 * [Mary-Margaret Humes](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Mary-Margaret%20Humes.jpg)
 * [Maryam d'Abo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Maryam%20d%27Abo.jpg)
 * [Maryann Plunkett](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Maryann%20Plunkett.jpg)

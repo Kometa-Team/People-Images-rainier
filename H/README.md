@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - H (207 Images)
+# Kometa People Images - Rainier (rainier) - H (210 Images)
 ![Grid](grid.jpg)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/H.%20Jon%20Benjamin.jpg)
@@ -81,6 +81,8 @@
 * [Hart Bochner](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hart%20Bochner.jpg)
 * [Haru Kuroki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Haru%20Kuroki.jpg)
 * [Haruka Ayase](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Haruka%20Ayase.jpg)
+* [Harve Bennett](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Harve%20Bennett.jpg)
+* [Harvey Kahn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Harvey%20Kahn.jpg)
 * [Harvey Keitel](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Harvey%20Keitel.jpg)
 * [Harvey Korman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Harvey%20Korman.jpg)
 * [Hasan Ceylan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hasan%20Ceylan.jpg)
@@ -137,6 +139,7 @@
 * [Herbert Lom](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Herbert%20Lom.jpg)
 * [Herbert Ross](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Herbert%20Ross.jpg)
 * [Herbert Siguenza](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Herbert%20Siguenza.jpg)
+* [Herizen F. Guardiola](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Herizen%20F.%20Guardiola.jpg)
 * [Hermione Norris](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hermione%20Norris.jpg)
 * [Hero Fiennes Tiffin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hero%20Fiennes%20Tiffin.jpg)
 * [Herschell Gordon Lewis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Herschell%20Gordon%20Lewis.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - P (361 Images)
+# Kometa People Images - Rainier (rainier) - P (362 Images)
 ![Grid](grid.jpg)
 
 * [P.H. Moriarty](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/P.H.%20Moriarty.jpg)
@@ -80,6 +80,7 @@
 * [Patrick Pinney](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Pinney.jpg)
 * [Patrick Stewart](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Stewart.jpg)
 * [Patrick Swayze](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Swayze.jpg)
+* [Patrick Troughton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Troughton.jpg)
 * [Patrick Warburton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Warburton.jpg)
 * [Patrick Wilson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Wilson.jpg)
 * [Patti Harrison](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patti%20Harrison.jpg)
