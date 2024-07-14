@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - W (161 Images)
+# Kometa People Images - Rainier (rainier) - W (162 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/W.%20Bruce%20Cameron.jpg)
@@ -30,6 +30,7 @@
 * [Warren Christie](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Warren%20Christie.jpg)
 * [Warren Kole](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Warren%20Kole.jpg)
 * [Warwick Davis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Warwick%20Davis.jpg)
+* [Wataru Takagi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wataru%20Takagi.jpg)
 * [Waylon Payne](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Waylon%20Payne.jpg)
 * [Waymond Lee](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Waymond%20Lee.jpg)
 * [Wayne Brady](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wayne%20Brady.jpg)
