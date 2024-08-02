@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - R (591 Images)
+# Kometa People Images - Rainier (rainier) - R (593 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -280,6 +280,7 @@
 * [Rio Hackford](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rio%20Hackford.jpg)
 * [Rip Taylor](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rip%20Taylor.jpg)
 * [Rip Torn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rip%20Torn.jpg)
+* [Risa Taneda](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Risa%20Taneda.jpg)
 * [Rish Shah](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rish%20Shah.jpg)
 * [Rishi Kapoor](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rishi%20Kapoor.jpg)
 * [Risteard Cooper](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Risteard%20Cooper.jpg)
@@ -586,6 +587,7 @@
 * [Ryan Stiles](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ryan%20Stiles.jpg)
 * [Ryan Whitney](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ryan%20Whitney.jpg)
 * [Ryen McPherson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ryen%20McPherson.jpg)
+* [Ryo Horikawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ryo%20Horikawa.jpg)
 * [Ryo Kase](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ryo%20Kase.jpg)
 * [Ryohei Kimura](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ryohei%20Kimura.jpg)
 * [Ryota Osaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ryota%20Osaka.jpg)
