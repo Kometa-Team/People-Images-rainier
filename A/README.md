@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - A (762 Images)
+# Kometa People Images - Rainier (rainier) - A (763 Images)
 ![Grid](grid.jpg)
 
 * [Aamir Khan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aamir%20Khan.jpg)
@@ -248,6 +248,7 @@
 * [Alex Sharpe](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alex%20Sharpe.jpg)
 * [Alex Sol](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alex%20Sol.jpg)
 * [Alex Solowitz](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alex%20Solowitz.jpg)
+* [Alex Trebek](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alex%20Trebek.jpg)
 * [Alex Winter](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alex%20Winter.jpg)
 * [Alex Winters](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alex%20Winters.jpg)
 * [Alex Wolff](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alex%20Wolff.jpg)

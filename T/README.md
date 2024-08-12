@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - T (451 Images)
+# Kometa People Images - Rainier (rainier) - T (452 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T.%20J.%20Miller.jpg)
@@ -431,6 +431,7 @@
 * [Troy Roberts](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Troy%20Roberts.jpg)
 * [Trystan Gravelle](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Trystan%20Gravelle.jpg)
 * [Tsai Chin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tsai%20Chin.jpg)
+* [Tsui Hark](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tsui%20Hark.jpg)
 * [Tuppence Middleton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tuppence%20Middleton.jpg)
 * [Turner Clay](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Turner%20Clay.jpg)
 * [Ty Burrell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Ty%20Burrell.jpg)
