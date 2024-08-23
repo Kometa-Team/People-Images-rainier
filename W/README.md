@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - W (166 Images)
+# Kometa People Images - Rainier (rainier) - W (167 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/W.%20Bruce%20Cameron.jpg)
@@ -142,6 +142,7 @@
 * [Willow Shields](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Willow%20Shields.jpg)
 * [Wilmar Zimosa](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wilmar%20Zimosa.jpg)
 * [Wilmer Valderrama](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wilmer%20Valderrama.jpg)
+* [Wilson Bethel](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wilson%20Bethel.jpg)
 * [Wilson Yip](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wilson%20Yip.jpg)
 * [Wim Wenders](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wim%20Wenders.jpg)
 * [Winona Ryder](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Winona%20Ryder.jpg)
