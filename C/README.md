@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - C (605 Images)
+# Kometa People Images - Rainier (rainier) - C (607 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -171,6 +171,7 @@
 * [Charithra Chandran](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charithra%20Chandran.jpg)
 * [Charlene Amoia](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charlene%20Amoia.jpg)
 * [Charlene McKenna](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charlene%20McKenna.jpg)
+* [Charles Addams](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charles%20Addams.jpg)
 * [Charles Baker](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charles%20Baker.jpg)
 * [Charles Band](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charles%20Band.jpg)
 * [Charles Barton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charles%20Barton.jpg)
@@ -257,6 +258,7 @@
 * [Chip Gaines](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chip%20Gaines.jpg)
 * [Chipo Chung](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chipo%20Chung.jpg)
 * [Chiranjeevi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chiranjeevi.jpg)
+* [Chishū Ryū](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chish%C5%AB%20Ry%C5%AB.jpg)
 * [Chiwetel Ejiofor](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chiwetel%20Ejiofor.jpg)
 * [Chloe Arrowsmith](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chloe%20Arrowsmith.jpg)
 * [Chloe Bennet](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chloe%20Bennet.jpg)

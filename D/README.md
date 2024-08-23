@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - D (610 Images)
+# Kometa People Images - Rainier (rainier) - D (612 Images)
 ![Grid](grid.jpg)
 
 * [D.B. Woodside](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D.B.%20Woodside.jpg)
@@ -37,6 +37,7 @@
 * [Damiano D'Innocenzo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Damiano%20D%27Innocenzo.jpg)
 * [Damien Chazelle](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Damien%20Chazelle.jpg)
 * [Damion Poitier](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Damion%20Poitier.jpg)
+* [Damián Alcázar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dami%C3%A1n%20Alc%C3%A1zar.jpg)
 * [Damon Driver](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Damon%20Driver.jpg)
 * [Damon Herriman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Damon%20Herriman.jpg)
 * [Damon Lawner](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Damon%20Lawner.jpg)
@@ -144,6 +145,7 @@
 * [Danny Elfman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Danny%20Elfman.jpg)
 * [Danny Glover](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Danny%20Glover.jpg)
 * [Danny Huston](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Danny%20Huston.jpg)
+* [Danny Kirrane](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Danny%20Kirrane.jpg)
 * [Danny Mann](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Danny%20Mann.jpg)
 * [Danny McBride](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Danny%20McBride.jpg)
 * [Danny McCarthy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Danny%20McCarthy.jpg)

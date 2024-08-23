@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - B (467 Images)
+# Kometa People Images - Rainier (rainier) - B (469 Images)
 ![Grid](grid.jpg)
 
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.J.%20Penn.jpg)
@@ -23,6 +23,7 @@
 * [Barbara De Fina](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Barbara%20De%20Fina.jpg)
 * [Barbara Eve Harris](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Barbara%20Eve%20Harris.jpg)
 * [Barbara Hershey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Barbara%20Hershey.jpg)
+* [Barbara Luddy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Barbara%20Luddy.jpg)
 * [Barbara Niven](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Barbara%20Niven.jpg)
 * [Barbara Stanwyck](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Barbara%20Stanwyck.jpg)
 * [Barbara Steele](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Barbara%20Steele.jpg)
@@ -303,6 +304,7 @@
 * [Bradley Hamilton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bradley%20Hamilton.jpg)
 * [Bradley Thomas](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bradley%20Thomas.jpg)
 * [Bradley Whitford](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bradley%20Whitford.jpg)
+* [Bram Stoker](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bram%20Stoker.jpg)
 * [Brande Roderick](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brande%20Roderick.jpg)
 * [Brandi Alexander](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brandi%20Alexander.jpg)
 * [Brandon Cronenberg](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brandon%20Cronenberg.jpg)

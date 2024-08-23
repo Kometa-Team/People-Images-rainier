@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - K (446 Images)
+# Kometa People Images - Rainier (rainier) - K (449 Images)
 ![Grid](grid.jpg)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K%20Raghavendra%20Rao.jpg)
@@ -351,6 +351,7 @@
 * [Kiran Shah](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kiran%20Shah.jpg)
 * [Kirby Howell-Baptiste](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kirby%20Howell-Baptiste.jpg)
 * [Kirill Nikiforov](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kirill%20Nikiforov.jpg)
+* [Kirin Kiki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kirin%20Kiki.jpg)
 * [Kirk Baily](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kirk%20Baily.jpg)
 * [Kirk Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kirk%20Cameron.jpg)
 * [Kirk DeMicco](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kirk%20DeMicco.jpg)
@@ -376,6 +377,7 @@
 * [Kofi Yiadom](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kofi%20Yiadom.jpg)
 * [Kohsuke Toriumi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kohsuke%20Toriumi.jpg)
 * [Koichi Yamadera](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Koichi%20Yamadera.jpg)
+* [Koji Yakusho](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Koji%20Yakusho.jpg)
 * [Koki Mitani](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Koki%20Mitani.jpg)
 * [Koki Uchiyama](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Koki%20Uchiyama.jpg)
 * [Kola Bokinni](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kola%20Bokinni.jpg)
@@ -447,3 +449,4 @@
 * [Kym Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kym%20Miller.jpg)
 * [Kyra Sedgwick](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kyra%20Sedgwick.jpg)
 * [Kyung Soo-jin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kyung%20Soo-jin.jpg)
+* [Kō Nakahira](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K%C5%8D%20Nakahira.jpg)

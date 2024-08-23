@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - A (763 Images)
+# Kometa People Images - Rainier (rainier) - A (764 Images)
 ![Grid](grid.jpg)
 
 * [Aamir Khan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aamir%20Khan.jpg)
@@ -686,6 +686,7 @@
 * [Arthur Lee](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Arthur%20Lee.jpg)
 * [Arthur Lubin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Arthur%20Lubin.jpg)
 * [Arthur M. Sarkissian](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Arthur%20M.%20Sarkissian.jpg)
+* [Arthur Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Arthur%20Miller.jpg)
 * [Arthur Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Arthur%20Penn.jpg)
 * [Arthur Q. Bryan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Arthur%20Q.%20Bryan.jpg)
 * [Arthur Rankin, Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Arthur%20Rankin%2C%20Jr..jpg)

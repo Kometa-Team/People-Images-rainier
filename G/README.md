@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - G (317 Images)
+# Kometa People Images - Rainier (rainier) - G (319 Images)
 ![Grid](grid.jpg)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/G-Eazy.jpg)
@@ -27,6 +27,7 @@
 * [Gal Gadot](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gal%20Gadot.jpg)
 * [Gale Anne Hurd](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gale%20Anne%20Hurd.jpg)
 * [Galen Howard](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Galen%20Howard.jpg)
+* [Gareth Dunnet-Alcocer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gareth%20Dunnet-Alcocer.jpg)
 * [Gareth Edwards](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gareth%20Edwards.jpg)
 * [Gareth Evans](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gareth%20Evans.jpg)
 * [Garret Dillahunt](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Garret%20Dillahunt.jpg)
@@ -238,6 +239,7 @@
 * [Govindan Kutty](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Govindan%20Kutty.jpg)
 * [Grace Gummer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Grace%20Gummer.jpg)
 * [Grace Kelly](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Grace%20Kelly.jpg)
+* [Grace Lee Whitney](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Grace%20Lee%20Whitney.jpg)
 * [Grace Park](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Grace%20Park.jpg)
 * [Grace Rex](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Grace%20Rex.jpg)
 * [Grace Zabriskie](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Grace%20Zabriskie.jpg)

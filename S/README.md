@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - S (669 Images)
+# Kometa People Images - Rainier (rainier) - S (671 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -76,6 +76,7 @@
 * [Sammi Rotibi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sammi%20Rotibi.jpg)
 * [Samuel Adewunmi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Samuel%20Adewunmi.jpg)
 * [Samuel Anderson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Samuel%20Anderson.jpg)
+* [Samuel Fuller](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Samuel%20Fuller.jpg)
 * [Samuel L. Jackson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Samuel%20L.%20Jackson.jpg)
 * [Samuel West](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Samuel%20West.jpg)
 * [Samuel Witwer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Samuel%20Witwer.jpg)
@@ -337,6 +338,7 @@
 * [Shin Ha-kyun](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shin%20Ha-kyun.jpg)
 * [Shin Joon-hyun](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shin%20Joon-hyun.jpg)
 * [Shin-ichiro Miki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shin-ichiro%20Miki.jpg)
+* [Shinichi Sekizawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shinichi%20Sekizawa.jpg)
 * [Shinnosuke Ikehata](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shinnosuke%20Ikehata.jpg)
 * [Shintaro Asanuma](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shintaro%20Asanuma.jpg)
 * [Shintarō Katsu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shintar%C5%8D%20Katsu.jpg)

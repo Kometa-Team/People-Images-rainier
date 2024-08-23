@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - M (866 Images)
+# Kometa People Images - Rainier (rainier) - M (868 Images)
 ![Grid](grid.jpg)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
@@ -58,6 +58,7 @@
 * [Maisie Williams](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Maisie%20Williams.jpg)
 * [Maja Bloom](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Maja%20Bloom.jpg)
 * [Maja Schöne](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Maja%20Sch%C3%B6ne.jpg)
+* [Majel Barrett](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Majel%20Barrett.jpg)
 * [Majid Majidi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Majid%20Majidi.jpg)
 * [Maki Kawase](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Maki%20Kawase.jpg)
 * [Makoto Furukawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Makoto%20Furukawa.jpg)
@@ -532,6 +533,7 @@
 * [Micael Borges](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Micael%20Borges.jpg)
 * [Micah A. Hauptman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Micah%20A.%20Hauptman.jpg)
 * [Michael A. Cook](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Michael%20A.%20Cook.jpg)
+* [Michael Anderson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Michael%20Anderson.jpg)
 * [Michael Angelis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Michael%20Angelis.jpg)
 * [Michael Apted](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Michael%20Apted.jpg)
 * [Michael Arndt](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Michael%20Arndt.jpg)

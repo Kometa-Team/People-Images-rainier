@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - P (368 Images)
+# Kometa People Images - Rainier (rainier) - P (369 Images)
 ![Grid](grid.jpg)
 
 * [P.H. Moriarty](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/P.H.%20Moriarty.jpg)
@@ -150,6 +150,7 @@
 * [Paul Soles](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Paul%20Soles.jpg)
 * [Paul Sorvino](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Paul%20Sorvino.jpg)
 * [Paul Sparks](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Paul%20Sparks.jpg)
+* [Paul Spera](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Paul%20Spera.jpg)
 * [Paul Sun-Hyung Lee](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Paul%20Sun-Hyung%20Lee.jpg)
 * [Paul Thomas Anderson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Paul%20Thomas%20Anderson.jpg)
 * [Paul Tinto](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Paul%20Tinto.jpg)
