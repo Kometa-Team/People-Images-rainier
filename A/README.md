@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - A (764 Images)
+# Kometa People Images - Rainier (rainier) - A (765 Images)
 ![Grid](grid.jpg)
 
 * [Aamir Khan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aamir%20Khan.jpg)
@@ -556,6 +556,7 @@
 * [Annabelle Wallis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Annabelle%20Wallis.jpg)
 * [Annaleigh Ashford](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Annaleigh%20Ashford.jpg)
 * [Annalisa Cochrane](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Annalisa%20Cochrane.jpg)
+* [Anndi McAfee](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Anndi%20McAfee.jpg)
 * [Anne Archer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Anne%20Archer.jpg)
 * [Anne Bancroft](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Anne%20Bancroft.jpg)
 * [Anne Baxter](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Anne%20Baxter.jpg)
