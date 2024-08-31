@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - R (596 Images)
+# Kometa People Images - Rainier (rainier) - R (599 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -48,6 +48,7 @@
 * [Rakie Ayola](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rakie%20Ayola.jpg)
 * [Rakul Preet Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rakul%20Preet%20Singh.jpg)
 * [Ralf Moeller](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ralf%20Moeller.jpg)
+* [Ralph Bakshi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ralph%20Bakshi.jpg)
 * [Ralph Brown](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ralph%20Brown.jpg)
 * [Ralph E. Winters](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ralph%20E.%20Winters.jpg)
 * [Ralph Fiennes](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ralph%20Fiennes.jpg)
@@ -101,6 +102,8 @@
 * [Ray Liotta](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ray%20Liotta.jpg)
 * [Ray Livingston](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ray%20Livingston.jpg)
 * [Ray McKinnon](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ray%20McKinnon.jpg)
+* [Ray Nicholas Hosack](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ray%20Nicholas%20Hosack.jpg)
+* [Ray Nicholas](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ray%20Nicholas.jpg)
 * [Ray Panthaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ray%20Panthaki.jpg)
 * [Ray Park](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ray%20Park.jpg)
 * [Ray Romano](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ray%20Romano.jpg)

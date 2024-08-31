@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - H (219 Images)
+# Kometa People Images - Rainier (rainier) - H (220 Images)
 ![Grid](grid.jpg)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/H.%20Jon%20Benjamin.jpg)
@@ -13,6 +13,7 @@
 * [Hakeem Kae-Kazim](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hakeem%20Kae-Kazim.jpg)
 * [Hal Ashby](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hal%20Ashby.jpg)
 * [Hal B. Wallis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hal%20B.%20Wallis.jpg)
+* [Hal Hartley](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hal%20Hartley.jpg)
 * [Hal Holbrook](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hal%20Holbrook.jpg)
 * [Hal Needham](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hal%20Needham.jpg)
 * [Hal Roach](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hal%20Roach.jpg)
