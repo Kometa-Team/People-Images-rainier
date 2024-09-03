@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - J (1155 Images)
+# Kometa People Images - Rainier (rainier) - J (1156 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J%27Dvonte.jpg)
@@ -357,6 +357,7 @@
 * [Jean-Pierre Melville](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jean-Pierre%20Melville.jpg)
 * [Jeanine Serralles](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jeanine%20Serralles.jpg)
 * [Jeanne Martin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jeanne%20Martin.jpg)
+* [Jeannie Elias](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jeannie%20Elias.jpg)
 * [Jeb Stuart](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jeb%20Stuart.jpg)
 * [Jed Brophy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jed%20Brophy.jpg)
 * [Jed Rees](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jed%20Rees.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - R (599 Images)
+# Kometa People Images - Rainier (rainier) - R (600 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -559,6 +559,7 @@
 * [Russell Tovey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Russell%20Tovey.jpg)
 * [Russell W. Howard](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Russell%20W.%20Howard.jpg)
 * [Russell Wong](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Russell%20Wong.jpg)
+* [Russi Taylor](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Russi%20Taylor.jpg)
 * [Ruta Gedmintas](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ruta%20Gedmintas.jpg)
 * [Rutger Hauer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rutger%20Hauer.jpg)
 * [Ruth Gordon](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ruth%20Gordon.jpg)
