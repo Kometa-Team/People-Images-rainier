@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - G (319 Images)
+# Kometa People Images - Rainier (rainier) - G (320 Images)
 ![Grid](grid.jpg)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/G-Eazy.jpg)
@@ -229,6 +229,7 @@
 * [Goran Kostić](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Goran%20Kosti%C4%87.jpg)
 * [Goran Visnjic](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Goran%20Visnjic.jpg)
 * [Gordon Danniels](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gordon%20Danniels.jpg)
+* [Gordon Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gordon%20Gray.jpg)
 * [Gordon Hessler](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gordon%20Hessler.jpg)
 * [Gordon Liu Chia-Hui](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gordon%20Liu%20Chia-Hui.jpg)
 * [Gordon Ramsay](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gordon%20Ramsay.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - C (607 Images)
+# Kometa People Images - Rainier (rainier) - C (608 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -197,6 +197,7 @@
 * [Charles Nelson Reilly](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charles%20Nelson%20Reilly.jpg)
 * [Charles Paraventi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charles%20Paraventi.jpg)
 * [Charles Parnell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charles%20Parnell.jpg)
+* [Charles Perrault](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charles%20Perrault.jpg)
 * [Charles Roven](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charles%20Roven.jpg)
 * [Charles S. Dutton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charles%20S.%20Dutton.jpg)
 * [Charles Scorsese](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charles%20Scorsese.jpg)
