@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - R (601 Images)
+# Kometa People Images - Rainier (rainier) - R (603 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -129,6 +129,7 @@
 * [Rebecca Staab](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rebecca%20Staab.jpg)
 * [Rebel Wilson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rebel%20Wilson.jpg)
 * [Redd Foxx](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Redd%20Foxx.jpg)
+* [Reed Diamond](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Reed%20Diamond.jpg)
 * [Reese Witherspoon](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Reese%20Witherspoon.jpg)
 * [Reeve Carney](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Reeve%20Carney.jpg)
 * [Reggie Lee](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Reggie%20Lee.jpg)
@@ -318,6 +319,7 @@
 * [Rob Reiner](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rob%20Reiner.jpg)
 * [Rob Riggle](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rob%20Riggle.jpg)
 * [Rob Schneider](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rob%20Schneider.jpg)
+* [Rob Stewart](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rob%20Stewart.jpg)
 * [Rob Zombie](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rob%20Zombie.jpg)
 * [Robbie Amell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Robbie%20Amell.jpg)
 * [Robbie Coltrane](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Robbie%20Coltrane.jpg)

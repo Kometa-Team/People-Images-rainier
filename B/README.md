@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - B (471 Images)
+# Kometa People Images - Rainier (rainier) - B (473 Images)
 ![Grid](grid.jpg)
 
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.J.%20Penn.jpg)
@@ -234,6 +234,7 @@
 * [Blanca Araceli](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Blanca%20Araceli.jpg)
 * [Blanca Portillo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Blanca%20Portillo.jpg)
 * [Blu Hunt](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Blu%20Hunt.jpg)
+* [Blu Mankuma](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Blu%20Mankuma.jpg)
 * [Blythe Danner](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Blythe%20Danner.jpg)
 * [Bo Burnham](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bo%20Burnham.jpg)
 * [Bo Hopkins](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bo%20Hopkins.jpg)
@@ -353,6 +354,7 @@
 * [Brian De Palma](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brian%20De%20Palma.jpg)
 * [Brian Dennehy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brian%20Dennehy.jpg)
 * [Brian Doyle-Murray](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brian%20Doyle-Murray.jpg)
+* [Brian Drummond](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brian%20Drummond.jpg)
 * [Brian Duffy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brian%20Duffy.jpg)
 * [Brian Eno](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brian%20Eno.jpg)
 * [Brian G. Hutton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brian%20G.%20Hutton.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - A (765 Images)
+# Kometa People Images - Rainier (rainier) - A (767 Images)
 ![Grid](grid.jpg)
 
 * [Aamir Khan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aamir%20Khan.jpg)
@@ -225,6 +225,7 @@
 * [Alesha Dixon](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alesha%20Dixon.jpg)
 * [Alessandra Mastronardi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alessandra%20Mastronardi.jpg)
 * [Alessandro Borghi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alessandro%20Borghi.jpg)
+* [Alessandro Juliani](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alessandro%20Juliani.jpg)
 * [Alessandro Nivola](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alessandro%20Nivola.jpg)
 * [Alex Brightman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alex%20Brightman.jpg)
 * [Alex Edelman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alex%20Edelman.jpg)
@@ -393,6 +394,7 @@
 * [Amy Aquino](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Amy%20Aquino.jpg)
 * [Amy Brenneman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Amy%20Brenneman.jpg)
 * [Amy Heckerling](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Amy%20Heckerling.jpg)
+* [Amy Hill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Amy%20Hill.jpg)
 * [Amy Landecker](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Amy%20Landecker.jpg)
 * [Amy Paffrath](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Amy%20Paffrath.jpg)
 * [Amy Pascal](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Amy%20Pascal.jpg)
