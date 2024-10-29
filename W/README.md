@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - W (167 Images)
+# Kometa People Images - Rainier (rainier) - W (169 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/W.%20Bruce%20Cameron.jpg)
@@ -92,6 +92,7 @@
 * [Willard Huyck](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Willard%20Huyck.jpg)
 * [Willem Dafoe](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Willem%20Dafoe.jpg)
 * [William A. Seiter](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20A.%20Seiter.jpg)
+* [William A. Wellman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20A.%20Wellman.jpg)
 * [William Asher](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20Asher.jpg)
 * [William Atherton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20Atherton.jpg)
 * [William B. Davis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20B.%20Davis.jpg)
@@ -133,6 +134,7 @@
 * [William Steig](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20Steig.jpg)
 * [William Teitler](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20Teitler.jpg)
 * [William W. Barbour](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20W.%20Barbour.jpg)
+* [William Wellman Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20Wellman%20Jr..jpg)
 * [William Wisher](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20Wisher.jpg)
 * [William Wyler](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20Wyler.jpg)
 * [William Zabka](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20Zabka.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - K (452 Images)
+# Kometa People Images - Rainier (rainier) - K (454 Images)
 ![Grid](grid.jpg)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K%20Raghavendra%20Rao.jpg)
@@ -220,8 +220,10 @@
 * [Kenichi Suzumura](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kenichi%20Suzumura.jpg)
 * [Kenichirou Matsuda](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kenichirou%20Matsuda.jpg)
 * [Kenji Matsuda](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kenji%20Matsuda.jpg)
+* [Kenji Misumi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kenji%20Misumi.jpg)
 * [Kenji Mizoguchi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kenji%20Mizoguchi.jpg)
 * [Kenjiro Tsuda](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kenjiro%20Tsuda.jpg)
+* [Kenneth Anger](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kenneth%20Anger.jpg)
 * [Kenneth Branagh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kenneth%20Branagh.jpg)
 * [Kenneth Choi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kenneth%20Choi.jpg)
 * [Kenneth Collard](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kenneth%20Collard.jpg)

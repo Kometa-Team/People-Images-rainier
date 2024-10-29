@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - R (603 Images)
+# Kometa People Images - Rainier (rainier) - R (605 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -81,6 +81,7 @@
 * [Randy Sklar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Randy%20Sklar.jpg)
 * [Randy Thom](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Randy%20Thom.jpg)
 * [Ranveer Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ranveer%20Singh.jpg)
+* [Raoul Walsh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Raoul%20Walsh.jpg)
 * [Raphael Alejandro](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Raphael%20Alejandro.jpg)
 * [Raquel Welch](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Raquel%20Welch.jpg)
 * [Rashad Evans](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rashad%20Evans.jpg)
@@ -191,6 +192,7 @@
 * [Richard Attenborough](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Richard%20Attenborough.jpg)
 * [Richard Ayoade](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Richard%20Ayoade.jpg)
 * [Richard Brake](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Richard%20Brake.jpg)
+* [Richard Briers](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Richard%20Briers.jpg)
 * [Richard Bright](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Richard%20Bright.jpg)
 * [Richard Brooks (2)](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Richard%20Brooks%20%282%29.jpg)
 * [Richard Brooks](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Richard%20Brooks.jpg)

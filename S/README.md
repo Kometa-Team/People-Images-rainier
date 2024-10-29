@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - S (671 Images)
+# Kometa People Images - Rainier (rainier) - S (672 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -248,6 +248,7 @@
 * [Ser'Darius Blain](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Ser%27Darius%20Blain.jpg)
 * [Serena Gordon](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Serena%20Gordon.jpg)
 * [Serena Rossi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Serena%20Rossi.jpg)
+* [Sergei Eisenstein](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sergei%20Eisenstein.jpg)
 * [Sergio Bini Bustric](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sergio%20Bini%20Bustric.jpg)
 * [Sergio Briones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sergio%20Briones.jpg)
 * [Sergio Corbucci](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sergio%20Corbucci.jpg)

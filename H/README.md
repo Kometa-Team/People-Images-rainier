@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - H (221 Images)
+# Kometa People Images - Rainier (rainier) - H (222 Images)
 ![Grid](grid.jpg)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/H.%20Jon%20Benjamin.jpg)
@@ -218,6 +218,7 @@
 * [Humphrey Bogart](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Humphrey%20Bogart.jpg)
 * [Hunter King](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hunter%20King.jpg)
 * [Hunter Schafer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hunter%20Schafer.jpg)
+* [Huntz Hall](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Huntz%20Hall.jpg)
 * [Hutch Parker](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hutch%20Parker.jpg)
 * [Hwang Jung-min](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hwang%20Jung-min.jpg)
 * [Héctor Aníbal](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/H%C3%A9ctor%20An%C3%ADbal.jpg)

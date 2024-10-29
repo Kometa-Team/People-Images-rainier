@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - N (263 Images)
+# Kometa People Images - Rainier (rainier) - N (264 Images)
 ![Grid](grid.jpg)
 
 * [N.T. Rama Rao Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/N.T.%20Rama%20Rao%20Jr..jpg)
@@ -132,6 +132,7 @@
 * [Nicholas Meyer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Nicholas%20Meyer.jpg)
 * [Nicholas Pileggi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Nicholas%20Pileggi.jpg)
 * [Nicholas Pinnock](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Nicholas%20Pinnock.jpg)
+* [Nicholas Ray](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Nicholas%20Ray.jpg)
 * [Nicholas Rowe](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Nicholas%20Rowe.jpg)
 * [Nicholas Stoller](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Nicholas%20Stoller.jpg)
 * [Nichole Brown](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Nichole%20Brown.jpg)
