@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - C (610 Images)
+# Kometa People Images - Rainier (rainier) - C (612 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -62,6 +62,7 @@
 * [Carlo Marks](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Carlo%20Marks.jpg)
 * [Carlos Alazraqui](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Carlos%20Alazraqui.jpg)
 * [Carlos Bernard](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Carlos%20Bernard.jpg)
+* [Carlos Ferro](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Carlos%20Ferro.jpg)
 * [Carlos Guerrero](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Carlos%20Guerrero.jpg)
 * [Carlos López Estrada](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Carlos%20L%C3%B3pez%20Estrada.jpg)
 * [Carlos Mencia](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Carlos%20Mencia.jpg)
@@ -225,6 +226,7 @@
 * [Charlotte Hope](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charlotte%20Hope.jpg)
 * [Charlotte Munck](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charlotte%20Munck.jpg)
 * [Charlotte Rampling](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charlotte%20Rampling.jpg)
+* [Charlotte Stent](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charlotte%20Stent.jpg)
 * [Charlotte Vega](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charlotte%20Vega.jpg)
 * [Charlotte Wells](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charlotte%20Wells.jpg)
 * [Charlton Heston](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charlton%20Heston.jpg)

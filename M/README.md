@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - M (877 Images)
+# Kometa People Images - Rainier (rainier) - M (878 Images)
 ![Grid](grid.jpg)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
@@ -498,6 +498,7 @@
 * [Melanie Griffith](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Melanie%20Griffith.jpg)
 * [Melanie Hill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Melanie%20Hill.jpg)
 * [Melanie Lynskey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Melanie%20Lynskey.jpg)
+* [Melanie Zanetti](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Melanie%20Zanetti.jpg)
 * [Melinda Clarke](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Melinda%20Clarke.jpg)
 * [Melinda McGraw](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Melinda%20McGraw.jpg)
 * [Melissa Benoist](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Melissa%20Benoist.jpg)

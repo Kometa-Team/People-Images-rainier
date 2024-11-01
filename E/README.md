@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - E (334 Images)
+# Kometa People Images - Rainier (rainier) - E (335 Images)
 ![Grid](grid.jpg)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/E.G.%20Marshall.jpg)
@@ -104,6 +104,7 @@
 * [Elizabeth Avellan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Elizabeth%20Avellan.jpg)
 * [Elizabeth Banks](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Elizabeth%20Banks.jpg)
 * [Elizabeth Bowen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Elizabeth%20Bowen.jpg)
+* [Elizabeth Daily](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Elizabeth%20Daily.jpg)
 * [Elizabeth Debicki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Elizabeth%20Debicki.jpg)
 * [Elizabeth Dulau](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Elizabeth%20Dulau.jpg)
 * [Elizabeth Faith Ludlow](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Elizabeth%20Faith%20Ludlow.jpg)

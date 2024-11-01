@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - B (474 Images)
+# Kometa People Images - Rainier (rainier) - B (475 Images)
 ![Grid](grid.jpg)
 
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.J.%20Penn.jpg)
@@ -391,6 +391,7 @@
 * [Brian Van Holt](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brian%20Van%20Holt.jpg)
 * [Brian Yuzna](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brian%20Yuzna.jpg)
 * [Brianna Brown](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brianna%20Brown.jpg)
+* [Brianna Gentilella](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brianna%20Gentilella.jpg)
 * [Brianna Hildebrand](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brianna%20Hildebrand.jpg)
 * [Brianne Howey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brianne%20Howey.jpg)
 * [Brianne Tju](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brianne%20Tju.jpg)
