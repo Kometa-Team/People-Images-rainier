@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - V (109 Images)
+# Kometa People Images - Rainier (rainier) - V (110 Images)
 ![Grid](grid.jpg)
 
 * [V.J. Foster](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/V.J.%20Foster.jpg)
@@ -30,6 +30,7 @@
 * [Varley Thomas](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Varley%20Thomas.jpg)
 * [Venantino Venantini](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Venantino%20Venantini.jpg)
 * [Vera Farmiga](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vera%20Farmiga.jpg)
+* [Vera Vitali](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vera%20Vitali.jpg)
 * [Verne Troyer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Verne%20Troyer.jpg)
 * [Vernon Dobtcheff](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vernon%20Dobtcheff.jpg)
 * [Veronica Cartwright](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Veronica%20Cartwright.jpg)

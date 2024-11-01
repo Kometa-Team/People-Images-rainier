@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - B (473 Images)
+# Kometa People Images - Rainier (rainier) - B (474 Images)
 ![Grid](grid.jpg)
 
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.J.%20Penn.jpg)
@@ -220,6 +220,7 @@
 * [Billy West](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Billy%20West.jpg)
 * [Billy Wilder](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Billy%20Wilder.jpg)
 * [Billy Zane](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Billy%20Zane.jpg)
+* [Birgitte Hjort Sørensen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Birgitte%20Hjort%20S%C3%B8rensen.jpg)
 * [Biswa Kalyan Rath](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Biswa%20Kalyan%20Rath.jpg)
 * [Bjorgvin Arnarson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bjorgvin%20Arnarson.jpg)
 * [Björk](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bj%C3%B6rk.jpg)

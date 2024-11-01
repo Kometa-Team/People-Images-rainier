@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - C (608 Images)
+# Kometa People Images - Rainier (rainier) - C (610 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -232,6 +232,7 @@
 * [Chase Mullins](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chase%20Mullins.jpg)
 * [Chase River McGhee](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chase%20River%20McGhee.jpg)
 * [Chase Victoria](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chase%20Victoria.jpg)
+* [Chaske Spencer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chaske%20Spencer.jpg)
 * [Chazz Palminteri](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chazz%20Palminteri.jpg)
 * [Cheech Marin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Cheech%20Marin.jpg)
 * [Chekesha Van Putten](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chekesha%20Van%20Putten.jpg)
@@ -365,6 +366,7 @@
 * [Christina Steinberg](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christina%20Steinberg.jpg)
 * [Christine Adams](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christine%20Adams.jpg)
 * [Christine Baranski](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christine%20Baranski.jpg)
+* [Christine Bottomley](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christine%20Bottomley.jpg)
 * [Christine Ebersole](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christine%20Ebersole.jpg)
 * [Christine Hollingsworth](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christine%20Hollingsworth.jpg)
 * [Christine Ko](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christine%20Ko.jpg)
