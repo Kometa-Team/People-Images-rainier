@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - L (403 Images)
+# Kometa People Images - Rainier (rainier) - L (405 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/L.%20Q.%20Jones.jpg)
@@ -119,6 +119,7 @@
 * [Lee Jung-eun](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lee%20Jung-eun.jpg)
 * [Lee Jung-jae](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lee%20Jung-jae.jpg)
 * [Lee Latchford](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lee%20Latchford.jpg)
+* [Lee Lik-chi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lee%20Lik-chi.jpg)
 * [Lee Mack](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lee%20Mack.jpg)
 * [Lee Marvin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lee%20Marvin.jpg)
 * [Lee Min-ho](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lee%20Min-ho.jpg)
@@ -353,6 +354,7 @@
 * [Lucian Perez](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lucian%20Perez.jpg)
 * [Luciana Paluzzi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Luciana%20Paluzzi.jpg)
 * [Lucie Laurier](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lucie%20Laurier.jpg)
+* [Lucille Ball](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lucille%20Ball.jpg)
 * [Lucio Fulci](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lucio%20Fulci.jpg)
 * [Lucrecia Martel](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lucrecia%20Martel.jpg)
 * [Lucy Boynton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lucy%20Boynton.jpg)

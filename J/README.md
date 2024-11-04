@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - J (1170 Images)
+# Kometa People Images - Rainier (rainier) - J (1172 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J%27Dvonte.jpg)
@@ -607,6 +607,8 @@
 * [Jin Hee-kyung](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jin%20Hee-kyung.jpg)
 * [Jin Hye-Kyung](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jin%20Hye-Kyung.jpg)
 * [Jin Kyung](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jin%20Kyung.jpg)
+* [Jing Wang](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jing%20Wang.jpg)
+* [Jing Wong](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jing%20Wong.jpg)
 * [Jisshu Sengupta](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jisshu%20Sengupta.jpg)
 * [Jiří Menzel](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Ji%C5%99%C3%AD%20Menzel.jpg)
 * [Jo Han-chul](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jo%20Han-chul.jpg)
