@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - N (264 Images)
+# Kometa People Images - Rainier (rainier) - N (266 Images)
 ![Grid](grid.jpg)
 
 * [N.T. Rama Rao Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/N.T.%20Rama%20Rao%20Jr..jpg)
@@ -250,6 +250,8 @@
 * [Nora Twomey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Nora%20Twomey.jpg)
 * [Norbert Leo Butz](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Norbert%20Leo%20Butz.jpg)
 * [Norbert Weisser](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Norbert%20Weisser.jpg)
+* [Noriaki Sugiyama](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Noriaki%20Sugiyama.jpg)
+* [Noriko Shitaya](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Noriko%20Shitaya.jpg)
 * [Norm Macdonald](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Norm%20Macdonald.jpg)
 * [Norma Alvarez](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Norma%20Alvarez.jpg)
 * [Norma Bengell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Norma%20Bengell.jpg)

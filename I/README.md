@@ -1,6 +1,7 @@
-# Kometa People Images - Rainier (rainier) - I (116 Images)
+# Kometa People Images - Rainier (rainier) - I (120 Images)
 ![Grid](grid.jpg)
 
+* [IU](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/IU.jpg)
 * [Iain Armitage](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Iain%20Armitage.jpg)
 * [Iain De Caestecker](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Iain%20De%20Caestecker.jpg)
 * [Iain Glen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Iain%20Glen.jpg)
@@ -105,6 +106,9 @@
 * [Issa Rae](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Issa%20Rae.jpg)
 * [Ithamar Enriquez](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Ithamar%20Enriquez.jpg)
 * [Itziar Ituño](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Itziar%20Itu%C3%B1o.jpg)
+* [Iulia Verdes](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Iulia%20Verdes.jpg)
+* [Iuri Saraiva](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Iuri%20Saraiva.jpg)
+* [Iurie Darie](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Iurie%20Darie.jpg)
 * [Ivan Atkinson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Ivan%20Atkinson.jpg)
 * [Ivan Mbakop](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Ivan%20Mbakop.jpg)
 * [Ivan Rassimov](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Ivan%20Rassimov.jpg)

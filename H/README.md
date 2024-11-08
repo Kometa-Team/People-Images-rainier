@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - H (224 Images)
+# Kometa People Images - Rainier (rainier) - H (226 Images)
 ![Grid](grid.jpg)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/H.%20Jon%20Benjamin.jpg)
@@ -139,6 +139,7 @@
 * [Henry Silva](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Henry%20Silva.jpg)
 * [Henry Winkler](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Henry%20Winkler.jpg)
 * [Henry Zaga](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Henry%20Zaga.jpg)
+* [Heo Joon-ho](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Heo%20Joon-ho.jpg)
 * [Heo Sung-tae](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Heo%20Sung-tae.jpg)
 * [Hera Hilmar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hera%20Hilmar.jpg)
 * [Herbert Lom](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Herbert%20Lom.jpg)
@@ -223,5 +224,6 @@
 * [Huntz Hall](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Huntz%20Hall.jpg)
 * [Hutch Parker](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hutch%20Parker.jpg)
 * [Hwang Jung-min](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hwang%20Jung-min.jpg)
+* [Hwang Min-hyung](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hwang%20Min-hyung.jpg)
 * [Héctor Aníbal](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/H%C3%A9ctor%20An%C3%ADbal.jpg)
 * [Héctor Mercado](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/H%C3%A9ctor%20Mercado.jpg)
