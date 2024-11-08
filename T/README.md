@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - T (463 Images)
+# Kometa People Images - Rainier (rainier) - T (464 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T.%20J.%20Miller.jpg)
@@ -88,6 +88,7 @@
 * [Ted Raimi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Ted%20Raimi.jpg)
 * [Ted Sears](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Ted%20Sears.jpg)
 * [Teddy Newton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Teddy%20Newton.jpg)
+* [Teddy Sears](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Teddy%20Sears.jpg)
 * [Telly Savalas](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Telly%20Savalas.jpg)
 * [Telma Hopkins](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Telma%20Hopkins.jpg)
 * [Temuera Morrison](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Temuera%20Morrison.jpg)

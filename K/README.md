@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - K (467 Images)
+# Kometa People Images - Rainier (rainier) - K (468 Images)
 ![Grid](grid.jpg)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K%20Raghavendra%20Rao.jpg)
@@ -384,6 +384,7 @@
 * [Kit Harington](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kit%20Harington.jpg)
 * [Kiti Mánver](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kiti%20M%C3%A1nver.jpg)
 * [Kiyoshi Kurosawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kiyoshi%20Kurosawa.jpg)
+* [Kiyotaka Oshiyama](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kiyotaka%20Oshiyama.jpg)
 * [Kiyoyuki Yanada](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kiyoyuki%20Yanada.jpg)
 * [Klaus Kinski](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Klaus%20Kinski.jpg)
 * [Klaus Maria Brandauer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Klaus%20Maria%20Brandauer.jpg)
