@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - J (1173 Images)
+# Kometa People Images - Rainier (rainier) - J (1176 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J%27Dvonte.jpg)
@@ -486,6 +486,7 @@
 * [Jerry Goldsmith](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jerry%20Goldsmith.jpg)
 * [Jerry Lee Lewis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jerry%20Lee%20Lewis.jpg)
 * [Jerry Lewis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jerry%20Lewis.jpg)
+* [Jerry Minor](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jerry%20Minor.jpg)
 * [Jerry Nelson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jerry%20Nelson.jpg)
 * [Jerry O'Connell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jerry%20O%27Connell.jpg)
 * [Jerry Seinfeld](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jerry%20Seinfeld.jpg)
@@ -640,7 +641,9 @@
 * [Jodie Comer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jodie%20Comer.jpg)
 * [Jodie Foster](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jodie%20Foster.jpg)
 * [Jodie Sweetin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jodie%20Sweetin.jpg)
+* [Jodie Turner-Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jodie%20Turner-Smith.jpg)
 * [Jody Carlson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jody%20Carlson.jpg)
+* [Jody Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jody%20Smith.jpg)
 * [Joe Alaskey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Joe%20Alaskey.jpg)
 * [Joe Anoa'i](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Joe%20Anoa%27i.jpg)
 * [Joe Berlinger](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Joe%20Berlinger.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - E (336 Images)
+# Kometa People Images - Rainier (rainier) - E (337 Images)
 ![Grid](grid.jpg)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/E.G.%20Marshall.jpg)
@@ -250,6 +250,7 @@
 * [Eric Stoltz](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eric%20Stoltz.jpg)
 * [Eric Stonestreet](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eric%20Stonestreet.jpg)
 * [Eric Stuart](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eric%20Stuart.jpg)
+* [Eric Wareheim](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eric%20Wareheim.jpg)
 * [Erica Beck](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Erica%20Beck.jpg)
 * [Erica Durance](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Erica%20Durance.jpg)
 * [Erica Lee](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Erica%20Lee.jpg)
