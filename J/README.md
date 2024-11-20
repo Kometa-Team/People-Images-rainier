@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - J (1176 Images)
+# Kometa People Images - Rainier (rainier) - J (1177 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J%27Dvonte.jpg)
@@ -640,6 +640,7 @@
 * [Jodi Lyn O'Keefe](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jodi%20Lyn%20O%27Keefe.jpg)
 * [Jodie Comer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jodie%20Comer.jpg)
 * [Jodie Foster](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jodie%20Foster.jpg)
+* [Jodie Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jodie%20Smith.jpg)
 * [Jodie Sweetin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jodie%20Sweetin.jpg)
 * [Jodie Turner-Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jodie%20Turner-Smith.jpg)
 * [Jody Carlson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jody%20Carlson.jpg)
