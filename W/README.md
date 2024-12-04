@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - W (171 Images)
+# Kometa People Images - Rainier (rainier) - W (172 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/W.%20Bruce%20Cameron.jpg)
@@ -42,6 +42,7 @@
 * [Wendi McLendon-Covey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wendi%20McLendon-Covey.jpg)
 * [Wendi McLendon](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wendi%20McLendon.jpg)
 * [Wendie Jo Sperber](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wendie%20Jo%20Sperber.jpg)
+* [Wendie Malick](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wendie%20Malick.jpg)
 * [Wendy Carlos](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wendy%20Carlos.jpg)
 * [Wendy Crewson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wendy%20Crewson.jpg)
 * [Wendy Makkena](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wendy%20Makkena.jpg)

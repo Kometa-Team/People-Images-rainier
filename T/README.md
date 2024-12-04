@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - T (464 Images)
+# Kometa People Images - Rainier (rainier) - T (466 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T.%20J.%20Miller.jpg)
@@ -42,6 +42,7 @@
 * [Tanner Buchanan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tanner%20Buchanan.jpg)
 * [Tanya Clarke](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tanya%20Clarke.jpg)
 * [Tanya Lee Pope](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tanya%20Lee%20Pope.jpg)
+* [Tanya Moodie](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tanya%20Moodie.jpg)
 * [Tanya Reynolds](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tanya%20Reynolds.jpg)
 * [Tara Reid](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tara%20Reid.jpg)
 * [Tara Strong](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tara%20Strong.jpg)
@@ -224,6 +225,7 @@
 * [Timothy Hutton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Timothy%20Hutton.jpg)
 * [Timothy Napier Moxon](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Timothy%20Napier%20Moxon.jpg)
 * [Timothy Olyphant](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Timothy%20Olyphant.jpg)
+* [Timothy Simons](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Timothy%20Simons.jpg)
 * [Timothy Spall](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Timothy%20Spall.jpg)
 * [Timothée Chalamet](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Timoth%C3%A9e%20Chalamet.jpg)
 * [Tina Benko](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tina%20Benko.jpg)

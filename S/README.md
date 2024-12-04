@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - S (681 Images)
+# Kometa People Images - Rainier (rainier) - S (682 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -111,6 +111,7 @@
 * [Sarafina King](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sarafina%20King.jpg)
 * [Sarah Bolger](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sarah%20Bolger.jpg)
 * [Sarah Burns](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sarah%20Burns.jpg)
+* [Sarah Chalke](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sarah%20Chalke.jpg)
 * [Sarah Crowden](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sarah%20Crowden.jpg)
 * [Sarah Dumont](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sarah%20Dumont.jpg)
 * [Sarah Fisher](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sarah%20Fisher.jpg)

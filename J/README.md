@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - J (1177 Images)
+# Kometa People Images - Rainier (rainier) - J (1178 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J%27Dvonte.jpg)
@@ -1137,6 +1137,7 @@
 * [Jun Fukuyama](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jun%20Fukuyama.jpg)
 * [Jun Kunimura](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jun%20Kunimura.jpg)
 * [June Christopher](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/June%20Christopher.jpg)
+* [June Diane Raphael](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/June%20Diane%20Raphael.jpg)
 * [June Foray](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/June%20Foray.jpg)
 * [June Squibb](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/June%20Squibb.jpg)
 * [Jung Ho-yeon](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jung%20Ho-yeon.jpg)
