@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - M (893 Images)
+# Kometa People Images - Rainier (rainier) - M (895 Images)
 ![Grid](grid.jpg)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
@@ -170,6 +170,7 @@
 * [Marianne Wibberley](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Marianne%20Wibberley.jpg)
 * [Maribel Verdú](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Maribel%20Verd%C3%BA.jpg)
 * [Marie Avgeropoulos](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Marie%20Avgeropoulos.jpg)
+* [Marie Göranzon](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Marie%20G%C3%B6ranzon.jpg)
 * [Marie Mouroum](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Marie%20Mouroum.jpg)
 * [Marie Wagenman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Marie%20Wagenman.jpg)
 * [Marie-Lyne Joncas](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Marie-Lyne%20Joncas.jpg)
@@ -395,6 +396,7 @@
 * [Matt Ryan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Matt%20Ryan.jpg)
 * [Matt Servitto](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Matt%20Servitto.jpg)
 * [Matt Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Matt%20Smith.jpg)
+* [Matt Stone](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Matt%20Stone.jpg)
 * [Matt Tolmach](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Matt%20Tolmach.jpg)
 * [Matt Walsh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Matt%20Walsh.jpg)
 * [Matt Ward](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Matt%20Ward.jpg)
