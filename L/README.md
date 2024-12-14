@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - L (411 Images)
+# Kometa People Images - Rainier (rainier) - L (412 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/L.%20Q.%20Jones.jpg)
@@ -55,6 +55,7 @@
 * [Lashana Lynch](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lashana%20Lynch.jpg)
 * [Lasse Hallström](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lasse%20Hallstr%C3%B6m.jpg)
 * [Lateef Crowder](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lateef%20Crowder.jpg)
+* [Lau Kar-leung](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lau%20Kar-leung.jpg)
 * [Laughton Parchment](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Laughton%20Parchment.jpg)
 * [Laura Bailey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Laura%20Bailey.jpg)
 * [Laura Birn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Laura%20Birn.jpg)
