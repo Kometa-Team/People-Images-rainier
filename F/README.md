@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - F (169 Images)
+# Kometa People Images - Rainier (rainier) - F (170 Images)
 ![Grid](grid.jpg)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/F.%20Gary%20Gray.jpg)
@@ -8,6 +8,7 @@
 * [Fabio D'Innocenzo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fabio%20D%27Innocenzo.jpg)
 * [Fabrice Gianfermi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fabrice%20Gianfermi.jpg)
 * [Fabrizio Bentivoglio](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fabrizio%20Bentivoglio.jpg)
+* [Fabrizio De Angelis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fabrizio%20De%20Angelis.jpg)
 * [Fabrizio Laurenti](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fabrizio%20Laurenti.jpg)
 * [Fahim Anwar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fahim%20Anwar.jpg)
 * [Fairuza Balk](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fairuza%20Balk.jpg)

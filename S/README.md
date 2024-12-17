@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - S (683 Images)
+# Kometa People Images - Rainier (rainier) - S (684 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -326,6 +326,7 @@
 * [Shawn Seward](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shawn%20Seward.jpg)
 * [Shawn Wayans](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shawn%20Wayans.jpg)
 * [Shay Hatten](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shay%20Hatten.jpg)
+* [Shazad Latif](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shazad%20Latif.jpg)
 * [Shea Whigham](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shea%20Whigham.jpg)
 * [Sheaun McKinney](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sheaun%20McKinney.jpg)
 * [Shefali Chowdhury](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shefali%20Chowdhury.jpg)
