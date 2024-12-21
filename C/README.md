@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - C (617 Images)
+# Kometa People Images - Rainier (rainier) - C (618 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -269,6 +269,7 @@
 * [Chloe Bennet](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chloe%20Bennet.jpg)
 * [Chloe Coleman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chloe%20Coleman.jpg)
 * [Chloe Driver](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chloe%20Driver.jpg)
+* [Chloe Lea](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chloe%20Lea.jpg)
 * [Chloe Pirrie](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chloe%20Pirrie.jpg)
 * [Chloé Zhao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chlo%C3%A9%20Zhao.jpg)
 * [Chloë Grace Moretz](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chlo%C3%AB%20Grace%20Moretz.jpg)

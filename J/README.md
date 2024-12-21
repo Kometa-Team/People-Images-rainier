@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - J (1178 Images)
+# Kometa People Images - Rainier (rainier) - J (1180 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J%27Dvonte.jpg)
@@ -95,6 +95,7 @@
 * [Jacques Rivette](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jacques%20Rivette.jpg)
 * [Jacques Tourneur](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jacques%20Tourneur.jpg)
 * [Jada Pinkett Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jada%20Pinkett%20Smith.jpg)
+* [Jade Anouka](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jade%20Anouka.jpg)
 * [Jade Ma](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jade%20Ma.jpg)
 * [Jade Xu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jade%20Xu.jpg)
 * [Jaeden Martell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jaeden%20Martell.jpg)
@@ -636,6 +637,7 @@
 * [Joaquín Cosío](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Joaqu%C3%ADn%20Cos%C3%ADo.jpg)
 * [Joaquín Martínez](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Joaqu%C3%ADn%20Mart%C3%ADnez.jpg)
 * [Jodelle Ferland](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jodelle%20Ferland.jpg)
+* [Jodhi May](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jodhi%20May.jpg)
 * [Jodi Benson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jodi%20Benson.jpg)
 * [Jodi Lyn O'Keefe](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jodi%20Lyn%20O%27Keefe.jpg)
 * [Jodie Comer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jodie%20Comer.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - G (322 Images)
+# Kometa People Images - Rainier (rainier) - G (323 Images)
 ![Grid](grid.jpg)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/G-Eazy.jpg)
@@ -143,6 +143,7 @@
 * [Georgie Henley](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Georgie%20Henley.jpg)
 * [Georgina Cates](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Georgina%20Cates.jpg)
 * [Georgina Leonidas](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Georgina%20Leonidas.jpg)
+* [Gerald Early](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gerald%20Early.jpg)
 * [Gerald McRaney](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gerald%20McRaney.jpg)
 * [Gerald R. Molen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gerald%20R.%20Molen.jpg)
 * [Gerald Thomas](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gerald%20Thomas.jpg)
