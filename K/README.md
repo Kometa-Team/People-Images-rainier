@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - K (468 Images)
+# Kometa People Images - Rainier (rainier) - K (469 Images)
 ![Grid](grid.jpg)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K%20Raghavendra%20Rao.jpg)
@@ -396,6 +396,7 @@
 * [Kofi Yiadom](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kofi%20Yiadom.jpg)
 * [Kohsuke Toriumi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kohsuke%20Toriumi.jpg)
 * [Koichi Yamadera](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Koichi%20Yamadera.jpg)
+* [Koji Morimoto](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Koji%20Morimoto.jpg)
 * [Koji Yakusho](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Koji%20Yakusho.jpg)
 * [Koki Mitani](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Koki%20Mitani.jpg)
 * [Koki Uchiyama](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Koki%20Uchiyama.jpg)

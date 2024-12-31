@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - B (478 Images)
+# Kometa People Images - Rainier (rainier) - B (479 Images)
 ![Grid](grid.jpg)
 
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.J.%20Penn.jpg)
@@ -352,6 +352,7 @@
 * [Brett Goldstein](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brett%20Goldstein.jpg)
 * [Brett Ratner](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brett%20Ratner.jpg)
 * [Brett Rice](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brett%20Rice.jpg)
+* [Brett Tucker](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brett%20Tucker.jpg)
 * [Brian Austin Green](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brian%20Austin%20Green.jpg)
 * [Brian Cox](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brian%20Cox.jpg)
 * [Brian De Palma](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brian%20De%20Palma.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - S (685 Images)
+# Kometa People Images - Rainier (rainier) - S (686 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -365,6 +365,7 @@
 * [Shizuka Itoh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shizuka%20Itoh.jpg)
 * [Sho Aikawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sho%20Aikawa.jpg)
 * [Shohreh Aghdashloo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shohreh%20Aghdashloo.jpg)
+* [Shoko Nakamura](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shoko%20Nakamura.jpg)
 * [Shooter Jennings](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shooter%20Jennings.jpg)
 * [Shota Sometani](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shota%20Sometani.jpg)
 * [Shuichi Okita](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shuichi%20Okita.jpg)

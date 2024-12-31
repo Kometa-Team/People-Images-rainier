@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - H (228 Images)
+# Kometa People Images - Rainier (rainier) - H (231 Images)
 ![Grid](grid.jpg)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/H.%20Jon%20Benjamin.jpg)
@@ -156,6 +156,7 @@
 * [Hideaki Anno](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hideaki%20Anno.jpg)
 * [Hideo Nakata](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hideo%20Nakata.jpg)
 * [Hidetoshi Nishijima](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hidetoshi%20Nishijima.jpg)
+* [Hikaru Yamaguchi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hikaru%20Yamaguchi.jpg)
 * [Hil Horvath](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hil%20Horvath.jpg)
 * [Hilarie Burton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hilarie%20Burton.jpg)
 * [Hilary Duff](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hilary%20Duff.jpg)
@@ -175,7 +176,9 @@
 * [Hiroshi Abe](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hiroshi%20Abe.jpg)
 * [Hiroshi Kamiya](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hiroshi%20Kamiya.jpg)
 * [Hiroshi Koizumi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hiroshi%20Koizumi.jpg)
+* [Hiroyuki Kitakubo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hiroyuki%20Kitakubo.jpg)
 * [Hiroyuki Morita](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hiroyuki%20Morita.jpg)
+* [Hiroyuki Okiura](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hiroyuki%20Okiura.jpg)
 * [Hiroyuki Sanada](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hiroyuki%20Sanada.jpg)
 * [Hiten Patel](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hiten%20Patel.jpg)
 * [Hitoshi Matsumoto](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hitoshi%20Matsumoto.jpg)
