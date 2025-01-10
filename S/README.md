@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - S (686 Images)
+# Kometa People Images - Rainier (rainier) - S (688 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -201,6 +201,7 @@
 * [Scott Wilson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Scott%20Wilson.jpg)
 * [Scott Wolf](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Scott%20Wolf.jpg)
 * [Scott Z. Burns](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Scott%20Z.%20Burns.jpg)
+* [Scout Taylor-Compton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Scout%20Taylor-Compton.jpg)
 * [Sea Shimooka](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sea%20Shimooka.jpg)
 * [Sean Anders](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sean%20Anders.jpg)
 * [Sean Anthony Moran](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sean%20Anthony%20Moran.jpg)
@@ -326,6 +327,7 @@
 * [Shawn Roberts](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shawn%20Roberts.jpg)
 * [Shawn Seward](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shawn%20Seward.jpg)
 * [Shawn Wayans](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shawn%20Wayans.jpg)
+* [Shawnee Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shawnee%20Smith.jpg)
 * [Shay Hatten](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shay%20Hatten.jpg)
 * [Shazad Latif](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shazad%20Latif.jpg)
 * [Shea Whigham](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shea%20Whigham.jpg)

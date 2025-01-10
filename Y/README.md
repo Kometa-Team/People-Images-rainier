@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - Y (80 Images)
+# Kometa People Images - Rainier (rainier) - Y (81 Images)
 ![Grid](grid.jpg)
 
 * [Y. Ravi Shankar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Y.%20Ravi%20Shankar.jpg)
@@ -75,6 +75,7 @@
 * [Yutaka Nakano](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yutaka%20Nakano.jpg)
 * [Yuuichirou Umehara](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yuuichirou%20Umehara.jpg)
 * [Yuya Yagira](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yuya%20Yagira.jpg)
+* [Yuzuru Tachikawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yuzuru%20Tachikawa.jpg)
 * [Yvetta Fisher](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yvetta%20Fisher.jpg)
 * [Yvette Nicole Brown](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yvette%20Nicole%20Brown.jpg)
 * [Yvonne Senat Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yvonne%20Senat%20Jones.jpg)

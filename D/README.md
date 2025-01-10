@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - D (617 Images)
+# Kometa People Images - Rainier (rainier) - D (619 Images)
 ![Grid](grid.jpg)
 
 * [D.B. Woodside](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D.B.%20Woodside.jpg)
@@ -135,6 +135,7 @@
 * [Daniela Bianchi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Daniela%20Bianchi.jpg)
 * [Daniella Pineda](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Daniella%20Pineda.jpg)
 * [Danielle Brooks](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Danielle%20Brooks.jpg)
+* [Danielle Harris](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Danielle%20Harris.jpg)
 * [Danielle Jalade](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Danielle%20Jalade.jpg)
 * [Danielle Ornelas](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Danielle%20Ornelas.jpg)
 * [Danielle Rose Russell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Danielle%20Rose%20Russell.jpg)
@@ -567,6 +568,7 @@
 * [Dorothy  Steel](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dorothy%20%20Steel.jpg)
 * [Dorothy Steel](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dorothy%20Steel.jpg)
 * [Doug Benson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Doug%20Benson.jpg)
+* [Doug Bradley](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Doug%20Bradley.jpg)
 * [Doug Hutchison](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Doug%20Hutchison.jpg)
 * [Doug Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Doug%20Jones.jpg)
 * [Doug Liman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Doug%20Liman.jpg)
