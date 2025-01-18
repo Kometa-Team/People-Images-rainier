@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - B (480 Images)
+# Kometa People Images - Rainier (rainier) - B (481 Images)
 ![Grid](grid.jpg)
 
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.J.%20Penn.jpg)
@@ -141,6 +141,7 @@
 * [Bertha Navarro](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bertha%20Navarro.jpg)
 * [Bertie Carvel](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bertie%20Carvel.jpg)
 * [Bess Flowers](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bess%20Flowers.jpg)
+* [Beth Behrs](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Beth%20Behrs.jpg)
 * [Beth Grant](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Beth%20Grant.jpg)
 * [Beth Riesgraf](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Beth%20Riesgraf.jpg)
 * [Bethany Joy Lenz](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bethany%20Joy%20Lenz.jpg)

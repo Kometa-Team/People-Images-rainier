@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - C (618 Images)
+# Kometa People Images - Rainier (rainier) - C (619 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -195,6 +195,7 @@
 * [Charles M. Schulz](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charles%20M.%20Schulz.jpg)
 * [Charles Martin Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charles%20Martin%20Smith.jpg)
 * [Charles Melton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charles%20Melton.jpg)
+* [Charles Mesure](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charles%20Mesure.jpg)
 * [Charles Napier](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charles%20Napier.jpg)
 * [Charles Nelson Reilly](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charles%20Nelson%20Reilly.jpg)
 * [Charles Paraventi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Charles%20Paraventi.jpg)
