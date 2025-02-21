@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - R (612 Images)
+# Kometa People Images - Rainier (rainier) - R (614 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -83,6 +83,7 @@
 * [Ranveer Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ranveer%20Singh.jpg)
 * [Raoul Walsh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Raoul%20Walsh.jpg)
 * [Raphael Alejandro](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Raphael%20Alejandro.jpg)
+* [Raquel Guerrero](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Raquel%20Guerrero.jpg)
 * [Raquel Welch](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Raquel%20Welch.jpg)
 * [Rashad Evans](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rashad%20Evans.jpg)
 * [Rashida Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rashida%20Jones.jpg)
@@ -119,6 +120,7 @@
 * [Rayner Bourton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rayner%20Bourton.jpg)
 * [Rayver Cruz](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rayver%20Cruz.jpg)
 * [Raúl Esparza](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ra%C3%BAl%20Esparza.jpg)
+* [Raúl Tejón](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ra%C3%BAl%20Tej%C3%B3n.jpg)
 * [Reb Brown](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Reb%20Brown.jpg)
 * [Rebecca Ferguson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rebecca%20Ferguson.jpg)
 * [Rebecca Front](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rebecca%20Front.jpg)

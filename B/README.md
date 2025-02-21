@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - B (481 Images)
+# Kometa People Images - Rainier (rainier) - B (483 Images)
 ![Grid](grid.jpg)
 
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.J.%20Penn.jpg)
@@ -427,6 +427,7 @@
 * [Bronte Carmichael](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bronte%20Carmichael.jpg)
 * [Brontis Jodorowsky](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brontis%20Jodorowsky.jpg)
 * [Brooke D'Orsay](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brooke%20D%27Orsay.jpg)
+* [Brooke Lyons](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brooke%20Lyons.jpg)
 * [Brooke Satchwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brooke%20Satchwell.jpg)
 * [Brooke Shields](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brooke%20Shields.jpg)
 * [Brooke Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brooke%20Smith.jpg)
@@ -444,6 +445,7 @@
 * [Bruce Lee](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bruce%20Lee.jpg)
 * [Bruce McGill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bruce%20McGill.jpg)
 * [Bruce Penhall](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bruce%20Penhall.jpg)
+* [Bruce Sinofsky](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bruce%20Sinofsky.jpg)
 * [Bruce Spence](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bruce%20Spence.jpg)
 * [Bruce Timm](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bruce%20Timm.jpg)
 * [Bruce Willis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bruce%20Willis.jpg)
