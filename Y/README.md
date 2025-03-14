@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - Y (84 Images)
+# Kometa People Images - Rainier (rainier) - Y (85 Images)
 ![Grid](grid.jpg)
 
 * [Y. Ravi Shankar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Y.%20Ravi%20Shankar.jpg)
@@ -23,6 +23,7 @@
 * [Yerin Ha](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yerin%20Ha.jpg)
 * [Yi Han](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yi%20Han.jpg)
 * [Yi Sang](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yi%20Sang.jpg)
+* [Yim Soon-rye](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yim%20Soon-rye.jpg)
 * [Yogi Babu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yogi%20Babu.jpg)
 * [Yoji Tanaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yoji%20Tanaka.jpg)
 * [Yoji Yamada](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yoji%20Yamada.jpg)

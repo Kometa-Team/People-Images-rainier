@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - W (174 Images)
+# Kometa People Images - Rainier (rainier) - W (176 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/W.%20Bruce%20Cameron.jpg)
@@ -80,6 +80,7 @@
 * [Will Kemp](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Will%20Kemp.jpg)
 * [Will Lyman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Will%20Lyman.jpg)
 * [Will McCormack](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Will%20McCormack.jpg)
+* [Will Merrick](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Will%20Merrick.jpg)
 * [Will Patton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Will%20Patton.jpg)
 * [Will Poulter](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Will%20Poulter.jpg)
 * [Will Pullen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Will%20Pullen.jpg)
@@ -93,6 +94,7 @@
 * [Willard E. Pugh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Willard%20E.%20Pugh.jpg)
 * [Willard Huyck](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Willard%20Huyck.jpg)
 * [Willem Dafoe](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Willem%20Dafoe.jpg)
+* [William 'Billy' Costello](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20%27Billy%27%20Costello.jpg)
 * [William A. Seiter](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20A.%20Seiter.jpg)
 * [William A. Wellman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20A.%20Wellman.jpg)
 * [William Asher](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20Asher.jpg)
