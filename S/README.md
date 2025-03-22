@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - S (704 Images)
+# Kometa People Images - Rainier (rainier) - S (705 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -498,6 +498,7 @@
 * [Stan Laurel](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Stan%20Laurel.jpg)
 * [Stan Lee](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Stan%20Lee.jpg)
 * [Stana Katic](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Stana%20Katic.jpg)
+* [Stanley Kramer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Stanley%20Kramer.jpg)
 * [Stanley Kubrick](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Stanley%20Kubrick.jpg)
 * [Stanley M. Brooks](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Stanley%20M.%20Brooks.jpg)
 * [Stanley Sopel](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Stanley%20Sopel.jpg)

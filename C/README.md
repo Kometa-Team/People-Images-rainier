@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - C (630 Images)
+# Kometa People Images - Rainier (rainier) - C (631 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -490,6 +490,7 @@
 * [Clay Kaytis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Clay%20Kaytis.jpg)
 * [Clayton English](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Clayton%20English.jpg)
 * [Clayton Townsend](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Clayton%20Townsend.jpg)
+* [Clayton Watson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Clayton%20Watson.jpg)
 * [Clem Caserta](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Clem%20Caserta.jpg)
 * [Clem So](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Clem%20So.jpg)
 * [Clemens Schick](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Clemens%20Schick.jpg)

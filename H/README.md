@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - H (237 Images)
+# Kometa People Images - Rainier (rainier) - H (238 Images)
 ![Grid](grid.jpg)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/H.%20Jon%20Benjamin.jpg)
@@ -223,6 +223,7 @@
 * [Hugh Dennis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hugh%20Dennis.jpg)
 * [Hugh Grant](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hugh%20Grant.jpg)
 * [Hugh Jackman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hugh%20Jackman.jpg)
+* [Hugh Keays-Byrne](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hugh%20Keays-Byrne.jpg)
 * [Hugh Laurie](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hugh%20Laurie.jpg)
 * [Hugh Lofting](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hugh%20Lofting.jpg)
 * [Hugh Quarshie](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hugh%20Quarshie.jpg)

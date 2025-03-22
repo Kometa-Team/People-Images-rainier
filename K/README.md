@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - K (485 Images)
+# Kometa People Images - Rainier (rainier) - K (486 Images)
 ![Grid](grid.jpg)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K%20Raghavendra%20Rao.jpg)
@@ -303,6 +303,7 @@
 * [Kevin Nealon](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kevin%20Nealon.jpg)
 * [Kevin O'Grady](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kevin%20O%27Grady.jpg)
 * [Kevin Pollak](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kevin%20Pollak.jpg)
+* [Kevin Rafferty](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kevin%20Rafferty.jpg)
 * [Kevin Rowland](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kevin%20Rowland.jpg)
 * [Kevin Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kevin%20Smith.jpg)
 * [Kevin Sorbo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kevin%20Sorbo.jpg)

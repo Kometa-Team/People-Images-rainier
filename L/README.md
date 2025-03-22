@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - L (425 Images)
+# Kometa People Images - Rainier (rainier) - L (426 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/L.%20Q.%20Jones.jpg)
@@ -419,6 +419,7 @@
 * [Lynn Cohen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lynn%20Cohen.jpg)
 * [Lynn Harris](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lynn%20Harris.jpg)
 * [Lynn Marocola](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lynn%20Marocola.jpg)
+* [Lynn Merrick](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lynn%20Merrick.jpg)
 * [Lynn Redgrave](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lynn%20Redgrave.jpg)
 * [Lynn-Holly Johnson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lynn-Holly%20Johnson.jpg)
 * [Lynne Marie Stewart](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lynne%20Marie%20Stewart.jpg)

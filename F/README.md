@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - F (177 Images)
+# Kometa People Images - Rainier (rainier) - F (179 Images)
 ![Grid](grid.jpg)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/F.%20Gary%20Gray.jpg)
@@ -109,6 +109,8 @@
 * [Francisco Rabal](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Francisco%20Rabal.jpg)
 * [Franco Citti](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Franco%20Citti.jpg)
 * [Franco Nero](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Franco%20Nero.jpg)
+* [Franco Pesce](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Franco%20Pesce.jpg)
+* [Franco Prosperi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Franco%20Prosperi.jpg)
 * [Franco Zeffirelli](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Franco%20Zeffirelli.jpg)
 * [Frank Adonis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Frank%20Adonis.jpg)
 * [Frank C. Turner](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Frank%20C.%20Turner.jpg)
