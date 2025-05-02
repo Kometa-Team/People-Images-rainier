@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - K (528 Images)
+# Kometa People Images - Rainier (rainier) - K (529 Images)
 ![Grid](grid.jpg)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K%20Raghavendra%20Rao.jpg)
@@ -170,6 +170,7 @@
 * [Kazuki Kitamura](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kazuki%20Kitamura.jpg)
 * [Kazuko Yanaga](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kazuko%20Yanaga.jpg)
 * [Kazunari Tanaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kazunari%20Tanaka.jpg)
+* [Kazuya Nomura](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kazuya%20Nomura.jpg)
 * [Kazuya Shiraishi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kazuya%20Shiraishi.jpg)
 * [Kazuya Tsurumaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kazuya%20Tsurumaki.jpg)
 * [Kazuyuki Okitsu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kazuyuki%20Okitsu.jpg)
