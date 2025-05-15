@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - H (280 Images)
+# Kometa People Images - Rainier (rainier) - H (281 Images)
 ![Grid](grid.jpg)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/H.%20Jon%20Benjamin.jpg)
@@ -110,6 +110,7 @@
 * [Hasan Ceylan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hasan%20Ceylan.jpg)
 * [Hasan Minhaj](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hasan%20Minhaj.jpg)
 * [Hassani Shapi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hassani%20Shapi.jpg)
+* [Hattie Kragten](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hattie%20Kragten.jpg)
 * [Hayao Miyazaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hayao%20Miyazaki.jpg)
 * [Hayden Christensen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hayden%20Christensen.jpg)
 * [Hayes MacArthur](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hayes%20MacArthur.jpg)

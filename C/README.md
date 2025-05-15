@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - C (697 Images)
+# Kometa People Images - Rainier (rainier) - C (699 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -303,6 +303,7 @@
 * [Chike Chan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chike%20Chan.jpg)
 * [Chin Han](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chin%20Han.jpg)
 * [China Chow](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/China%20Chow.jpg)
+* [Chino Darín](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chino%20Dar%C3%ADn.jpg)
 * [Chip Gaines](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chip%20Gaines.jpg)
 * [Chipo Chung](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chipo%20Chung.jpg)
 * [Chiranjeevi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chiranjeevi.jpg)
@@ -413,6 +414,7 @@
 * [Christie Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christie%20Smith.jpg)
 * [Christie Will](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christie%20Will.jpg)
 * [Christina Aguilera](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christina%20Aguilera.jpg)
+* [Christina Alexandra Voros](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christina%20Alexandra%20Voros.jpg)
 * [Christina Applegate](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christina%20Applegate.jpg)
 * [Christina Cabot](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christina%20Cabot.jpg)
 * [Christina Chong](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christina%20Chong.jpg)

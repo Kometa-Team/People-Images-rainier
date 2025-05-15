@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - G (374 Images)
+# Kometa People Images - Rainier (rainier) - G (376 Images)
 ![Grid](grid.jpg)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/G-Eazy.jpg)
@@ -203,6 +203,8 @@
 * [Gigio Alberti](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gigio%20Alberti.jpg)
 * [Gil Bellows](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gil%20Bellows.jpg)
 * [Gil Birmingham](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gil%20Birmingham.jpg)
+* [Gil Junger](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gil%20Junger.jpg)
+* [Gil McKinney](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gil%20McKinney.jpg)
 * [Gil Perez-Abraham](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gil%20Perez-Abraham.jpg)
 * [Gilbert Gottfried](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gilbert%20Gottfried.jpg)
 * [Gilbert R. Hill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gilbert%20R.%20Hill.jpg)

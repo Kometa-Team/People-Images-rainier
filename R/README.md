@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - R (692 Images)
+# Kometa People Images - Rainier (rainier) - R (693 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -204,6 +204,7 @@
 * [Ric Roman Waugh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ric%20Roman%20Waugh.jpg)
 * [Ric Young](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ric%20Young.jpg)
 * [Rica Matsumoto](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rica%20Matsumoto.jpg)
+* [Ricardo Darín](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ricardo%20Dar%C3%ADn.jpg)
 * [Riccardo Chemello](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Riccardo%20Chemello.jpg)
 * [Riccardo Freda](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Riccardo%20Freda.jpg)
 * [Riccardo Milani](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Riccardo%20Milani.jpg)
