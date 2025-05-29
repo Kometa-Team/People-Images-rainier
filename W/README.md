@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - W (190 Images)
+# Kometa People Images - Rainier (rainier) - W (192 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/W.%20Bruce%20Cameron.jpg)
@@ -150,6 +150,7 @@
 * [William Shatner](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20Shatner.jpg)
 * [William Squire](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20Squire.jpg)
 * [William Steig](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20Steig.jpg)
+* [William Sylvester](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20Sylvester.jpg)
 * [William Teitler](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20Teitler.jpg)
 * [William W. Barbour](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20W.%20Barbour.jpg)
 * [William Wellman Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20Wellman%20Jr..jpg)
@@ -188,6 +189,7 @@
 * [Wyatt Cenac](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wyatt%20Cenac.jpg)
 * [Wyatt Oleff](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wyatt%20Oleff.jpg)
 * [Wyatt Russell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wyatt%20Russell.jpg)
+* [Wyatt White](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wyatt%20White.jpg)
 * [Wyck Godfrey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wyck%20Godfrey.jpg)
 * [Wynn Everett](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wynn%20Everett.jpg)
 * [Władysław Szpilman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/W%C5%82adys%C5%82aw%20Szpilman.jpg)

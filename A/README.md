@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - A (894 Images)
+# Kometa People Images - Rainier (rainier) - A (896 Images)
 ![Grid](grid.jpg)
 
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/A.%20Edward%20Sutherland.jpg)
@@ -388,6 +388,7 @@
 * [Allen Covert](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Allen%20Covert.jpg)
 * [Allen Garfield](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Allen%20Garfield.jpg)
 * [Allen Maldonado](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Allen%20Maldonado.jpg)
+* [Allen Smithee](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Allen%20Smithee.jpg)
 * [Allison Janney](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Allison%20Janney.jpg)
 * [Allison Shearmur](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Allison%20Shearmur.jpg)
 * [Allison Tolman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Allison%20Tolman.jpg)
@@ -605,6 +606,7 @@
 * [Anjelica Huston](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Anjelica%20Huston.jpg)
 * [Anjli Mohindra](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Anjli%20Mohindra.jpg)
 * [Ann Akinjirin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Ann%20Akinjirin.jpg)
+* [Ann Altieri](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Ann%20Altieri.jpg)
 * [Ann Cusack](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Ann%20Cusack.jpg)
 * [Ann Dowd](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Ann%20Dowd.jpg)
 * [Ann Hui](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Ann%20Hui.jpg)

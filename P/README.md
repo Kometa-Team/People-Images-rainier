@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - P (427 Images)
+# Kometa People Images - Rainier (rainier) - P (428 Images)
 ![Grid](grid.jpg)
 
 * [P.H. Moriarty](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/P.H.%20Moriarty.jpg)
@@ -175,6 +175,7 @@
 * [Paul Rudd](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Paul%20Rudd.jpg)
 * [Paul Rudnick](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Paul%20Rudnick.jpg)
 * [Paul Rust](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Paul%20Rust.jpg)
+* [Paul Scheer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Paul%20Scheer.jpg)
 * [Paul Schrader](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Paul%20Schrader.jpg)
 * [Paul Sloan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Paul%20Sloan.jpg)
 * [Paul Soles](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Paul%20Soles.jpg)

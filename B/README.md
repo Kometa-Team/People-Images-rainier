@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - B (550 Images)
+# Kometa People Images - Rainier (rainier) - B (552 Images)
 ![Grid](grid.jpg)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.F.%20Blinn.jpg)
@@ -188,6 +188,7 @@
 * [Bilall Fallah](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bilall%20Fallah.jpg)
 * [Bill Allison](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bill%20Allison.jpg)
 * [Bill Bailey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bill%20Bailey.jpg)
+* [Bill Barretta](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bill%20Barretta.jpg)
 * [Bill Bellamy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bill%20Bellamy.jpg)
 * [Bill Block](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bill%20Block.jpg)
 * [Bill Burr](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bill%20Burr.jpg)
@@ -352,6 +353,7 @@
 * [Bradley Cooper](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bradley%20Cooper.jpg)
 * [Bradley Gregg](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bradley%20Gregg.jpg)
 * [Bradley Hamilton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bradley%20Hamilton.jpg)
+* [Bradley J. Fischer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bradley%20J.%20Fischer.jpg)
 * [Bradley Thomas](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bradley%20Thomas.jpg)
 * [Bradley Whitford](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bradley%20Whitford.jpg)
 * [Braeden Michael Baldwin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Braeden%20Michael%20Baldwin.jpg)

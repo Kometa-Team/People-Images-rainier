@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - G (376 Images)
+# Kometa People Images - Rainier (rainier) - G (378 Images)
 ![Grid](grid.jpg)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/G-Eazy.jpg)
@@ -57,6 +57,7 @@
 * [Gary Goldman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gary%20Goldman.jpg)
 * [Gary Gulman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gary%20Gulman.jpg)
 * [Gary Kurtz](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gary%20Kurtz.jpg)
+* [Gary Lockwood](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gary%20Lockwood.jpg)
 * [Gary Lucchesi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gary%20Lucchesi.jpg)
 * [Gary Lydon](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gary%20Lydon.jpg)
 * [Gary Nickens](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gary%20Nickens.jpg)
@@ -231,6 +232,7 @@
 * [Giorgio Cantarini](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Giorgio%20Cantarini.jpg)
 * [Giorgio Diritti](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Giorgio%20Diritti.jpg)
 * [Giovanna Ralli](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Giovanna%20Ralli.jpg)
+* [Giovanni Fusco](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Giovanni%20Fusco.jpg)
 * [Giovanni Lombardo Radice](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Giovanni%20Lombardo%20Radice.jpg)
 * [Giovanni Ribisi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Giovanni%20Ribisi.jpg)
 * [Giovanni Storti](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Giovanni%20Storti.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - L (487 Images)
+# Kometa People Images - Rainier (rainier) - L (488 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/L.%20Q.%20Jones.jpg)
@@ -237,6 +237,7 @@
 * [Lewis Tan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lewis%20Tan.jpg)
 * [Lewis Young](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lewis%20Young.jpg)
 * [Lex Shrapnel](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lex%20Shrapnel.jpg)
+* [Lexi Perri](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lexi%20Perri.jpg)
 * [Leythum](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Leythum.jpg)
 * [Li Jing](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Li%20Jing.jpg)
 * [Lia McHugh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lia%20McHugh.jpg)

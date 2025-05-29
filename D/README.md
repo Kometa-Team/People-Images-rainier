@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - D (705 Images)
+# Kometa People Images - Rainier (rainier) - D (706 Images)
 ![Grid](grid.jpg)
 
 * [D. David Morin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D.%20David%20Morin.jpg)
@@ -659,6 +659,7 @@
 * [Douglas Hodge](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Douglas%20Hodge.jpg)
 * [Douglas M. Griffin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Douglas%20M.%20Griffin.jpg)
 * [Douglas McGrath](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Douglas%20McGrath.jpg)
+* [Douglas Rain](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Douglas%20Rain.jpg)
 * [Douglas Silva](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Douglas%20Silva.jpg)
 * [Douglas Sirk](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Douglas%20Sirk.jpg)
 * [Douglas Spain](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Douglas%20Spain.jpg)

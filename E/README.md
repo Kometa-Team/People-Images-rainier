@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - E (392 Images)
+# Kometa People Images - Rainier (rainier) - E (394 Images)
 ![Grid](grid.jpg)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/E.G.%20Marshall.jpg)
@@ -81,6 +81,7 @@
 * [Edwin Lee Gibson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Edwin%20Lee%20Gibson.jpg)
 * [Efka Kvaraciejus](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Efka%20Kvaraciejus.jpg)
 * [Ehren Kruger](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Ehren%20Kruger.jpg)
+* [Ei Aoki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Ei%20Aoki.jpg)
 * [Eion Bailey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eion%20Bailey.jpg)
 * [Eiza González](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eiza%20Gonz%C3%A1lez.jpg)
 * [Eka Darville](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eka%20Darville.jpg)
@@ -273,6 +274,7 @@
 * [Eric Gold](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eric%20Gold.jpg)
 * [Eric Goldberg](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eric%20Goldberg.jpg)
 * [Eric Idle](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eric%20Idle.jpg)
+* [Eric Jacobson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eric%20Jacobson.jpg)
 * [Eric Johnson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eric%20Johnson.jpg)
 * [Eric Lange](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eric%20Lange.jpg)
 * [Eric Langevin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eric%20Langevin.jpg)
