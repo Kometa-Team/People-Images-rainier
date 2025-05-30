@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - A (896 Images)
+# Kometa People Images - Rainier (rainier) - A (897 Images)
 ![Grid](grid.jpg)
 
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/A.%20Edward%20Sutherland.jpg)
@@ -740,6 +740,7 @@
 * [Anya Taylor-Joy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Anya%20Taylor-Joy.jpg)
 * [Aoi Miyazaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aoi%20Miyazaki.jpg)
 * [Aoi Yuki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aoi%20Yuki.jpg)
+* [Aoi Yuuki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aoi%20Yuuki.jpg)
 * [Aparshakti Khurana](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aparshakti%20Khurana.jpg)
 * [April Grace](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/April%20Grace.jpg)
 * [April Telek](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/April%20Telek.jpg)
