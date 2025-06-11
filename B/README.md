@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - B (552 Images)
+# Kometa People Images - Rainier (rainier) - B (553 Images)
 ![Grid](grid.jpg)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.F.%20Blinn.jpg)
@@ -62,6 +62,7 @@
 * [Barry Sloane](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Barry%20Sloane.jpg)
 * [Barry Sonnenfeld](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Barry%20Sonnenfeld.jpg)
 * [Barry Watson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Barry%20Watson.jpg)
+* [Barry Williams](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Barry%20Williams.jpg)
 * [Bashir Salahuddin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bashir%20Salahuddin.jpg)
 * [Basil Iwanyk](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Basil%20Iwanyk.jpg)
 * [Basil Rathbone](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Basil%20Rathbone.jpg)

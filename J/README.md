@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - J (1349 Images)
+# Kometa People Images - Rainier (rainier) - J (1350 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J%27Dvonte.jpg)
@@ -521,6 +521,7 @@
 * [Jenson Button](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jenson%20Button.jpg)
 * [Jenson Cheng](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jenson%20Cheng.jpg)
 * [Jeon Eun-jin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jeon%20Eun-jin.jpg)
+* [Jerami Cruise](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jerami%20Cruise.jpg)
 * [Jeremiah Bitsui](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jeremiah%20Bitsui.jpg)
 * [Jeremy Allen White](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jeremy%20Allen%20White.jpg)
 * [Jeremy Bulloch](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jeremy%20Bulloch.jpg)
