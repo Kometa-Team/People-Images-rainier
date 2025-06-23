@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - C (705 Images)
+# Kometa People Images - Rainier (rainier) - C (707 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -398,6 +398,7 @@
 * [Chris Williams](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chris%20Williams.jpg)
 * [Chris Wood](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chris%20Wood.jpg)
 * [Chris van Allsburg](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chris%20van%20Allsburg.jpg)
+* [Christi Wolf](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christi%20Wolf.jpg)
 * [Christian Alvart](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christian%20Alvart.jpg)
 * [Christian Bale](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christian%20Bale.jpg)
 * [Christian Clavier](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christian%20Clavier.jpg)
@@ -416,6 +417,7 @@
 * [Christiane Seidel](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christiane%20Seidel.jpg)
 * [Christie Laing](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christie%20Laing.jpg)
 * [Christie Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christie%20Smith.jpg)
+* [Christie Will Wolf](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christie%20Will%20Wolf.jpg)
 * [Christie Will](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christie%20Will.jpg)
 * [Christina Aguilera](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christina%20Aguilera.jpg)
 * [Christina Alexandra Voros](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christina%20Alexandra%20Voros.jpg)

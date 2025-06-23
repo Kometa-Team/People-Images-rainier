@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - D (707 Images)
+# Kometa People Images - Rainier (rainier) - D (708 Images)
 ![Grid](grid.jpg)
 
 * [D. David Morin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D.%20David%20Morin.jpg)
@@ -249,6 +249,7 @@
 * [David Anders](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/David%20Anders.jpg)
 * [David Anderson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/David%20Anderson.jpg)
 * [David Andrews](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/David%20Andrews.jpg)
+* [David Anselmo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/David%20Anselmo.jpg)
 * [David Anthony Buglione](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/David%20Anthony%20Buglione.jpg)
 * [David Arquette](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/David%20Arquette.jpg)
 * [David Attenborough](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/David%20Attenborough.jpg)
