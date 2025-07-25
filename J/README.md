@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - J (1363 Images)
+# Kometa People Images - Rainier (rainier) - J (1364 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J%27Dvonte.jpg)
@@ -1330,6 +1330,7 @@
 * [Jung Young-sook](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jung%20Young-sook.jpg)
 * [Junichi Suwabe](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Junichi%20Suwabe.jpg)
 * [Junior dos Santos](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Junior%20dos%20Santos.jpg)
+* [Junji Shimizu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Junji%20Shimizu.jpg)
 * [Junko Takeuchi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Junko%20Takeuchi.jpg)
 * [Juno Temple](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Juno%20Temple.jpg)
 * [Junya Enoki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Junya%20Enoki.jpg)

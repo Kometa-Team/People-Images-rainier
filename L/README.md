@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - L (489 Images)
+# Kometa People Images - Rainier (rainier) - L (490 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/L.%20Q.%20Jones.jpg)
@@ -176,6 +176,7 @@
 * [Leire Marín](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Leire%20Mar%C3%ADn.jpg)
 * [Leland Palmer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Leland%20Palmer.jpg)
 * [Len Wein](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Len%20Wein.jpg)
+* [Len Wiseman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Len%20Wiseman.jpg)
 * [Lena Endre](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lena%20Endre.jpg)
 * [Lena Headey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lena%20Headey.jpg)
 * [Lena Olin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lena%20Olin.jpg)

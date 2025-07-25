@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - S (788 Images)
+# Kometa People Images - Rainier (rainier) - S (789 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -712,6 +712,7 @@
 * [Stewart Francis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Stewart%20Francis.jpg)
 * [Stewart Lee](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Stewart%20Lee.jpg)
 * [Stewart Scudamore](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Stewart%20Scudamore.jpg)
+* [Sticky Fingaz](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sticky%20Fingaz.jpg)
 * [Sting](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sting.jpg)
 * [Stockard Channing](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Stockard%20Channing.jpg)
 * [Storm Reid](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Storm%20Reid.jpg)
