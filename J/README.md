@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - J (1368 Images)
+# Kometa People Images - Rainier (rainier) - J (1370 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J%27Dvonte.jpg)
@@ -175,6 +175,7 @@
 * [James Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/James%20Gray.jpg)
 * [James Gunn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/James%20Gunn.jpg)
 * [James Hayter](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/James%20Hayter.jpg)
+* [James Hetfield](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/James%20Hetfield.jpg)
 * [James Hong](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/James%20Hong.jpg)
 * [James Horner](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/James%20Horner.jpg)
 * [James Ivory](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/James%20Ivory.jpg)
@@ -1030,6 +1031,7 @@
 * [Jon Bass](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jon%20Bass.jpg)
 * [Jon Berg](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jon%20Berg.jpg)
 * [Jon Bernthal](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jon%20Bernthal.jpg)
+* [Jon Buckland](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jon%20Buckland.jpg)
 * [Jon Cor](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jon%20Cor.jpg)
 * [Jon Cryer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jon%20Cryer.jpg)
 * [Jon Curry](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jon%20Curry.jpg)

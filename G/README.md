@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - G (383 Images)
+# Kometa People Images - Rainier (rainier) - G (384 Images)
 ![Grid](grid.jpg)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/G-Eazy.jpg)
@@ -365,6 +365,7 @@
 * [Gurdeep Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gurdeep%20Singh.jpg)
 * [Gus Lewis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gus%20Lewis.jpg)
 * [Gus Van Sant](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gus%20Van%20Sant.jpg)
+* [Guy Berryman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Guy%20Berryman.jpg)
 * [Guy Boyd](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Guy%20Boyd.jpg)
 * [Guy Fieri](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Guy%20Fieri.jpg)
 * [Guy Hamilton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Guy%20Hamilton.jpg)
