@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - L (491 Images)
+# Kometa People Images - Rainier (rainier) - L (492 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/L.%20Q.%20Jones.jpg)
@@ -231,6 +231,7 @@
 * [Lester Speight](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lester%20Speight.jpg)
 * [Letitia Wright](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Letitia%20Wright.jpg)
 * [Levente Molnár](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Levente%20Moln%C3%A1r.jpg)
+* [Lew Ayres](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lew%20Ayres.jpg)
 * [Lewin Lloyd](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lewin%20Lloyd.jpg)
 * [Lewis Black](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lewis%20Black.jpg)
 * [Lewis D. Wheeler](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lewis%20D.%20Wheeler.jpg)

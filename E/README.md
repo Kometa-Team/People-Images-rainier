@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - E (395 Images)
+# Kometa People Images - Rainier (rainier) - E (396 Images)
 ![Grid](grid.jpg)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/E.G.%20Marshall.jpg)
@@ -66,6 +66,7 @@
 * [Edward Coxen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Edward%20Coxen.jpg)
 * [Edward D. Wood Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Edward%20D.%20Wood%20Jr..jpg)
 * [Edward Drake](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Edward%20Drake.jpg)
+* [Edward F. Cline](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Edward%20F.%20Cline.jpg)
 * [Edward Fox](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Edward%20Fox.jpg)
 * [Edward Furlong](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Edward%20Furlong.jpg)
 * [Edward G. Robinson Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Edward%20G.%20Robinson%20Jr..jpg)
