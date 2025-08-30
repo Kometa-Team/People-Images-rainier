@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - C (711 Images)
+# Kometa People Images - Rainier (rainier) - C (712 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -358,6 +358,7 @@
 * [Chris Klein](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chris%20Klein.jpg)
 * [Chris L. McKenna](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chris%20L.%20McKenna.jpg)
 * [Chris Lilley](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chris%20Lilley.jpg)
+* [Chris Martin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chris%20Martin.jpg)
 * [Chris McKay](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chris%20McKay.jpg)
 * [Chris McKenna](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chris%20McKenna.jpg)
 * [Chris Meledandri](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chris%20Meledandri.jpg)
