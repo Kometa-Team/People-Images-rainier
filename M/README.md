@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - M (1043 Images)
+# Kometa People Images - Rainier (rainier) - M (1044 Images)
 ![Grid](grid.jpg)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
@@ -344,6 +344,7 @@
 * [Martin McDougall](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Martin%20McDougall.jpg)
 * [Martin Mull](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Martin%20Mull.jpg)
 * [Martin Razpopov](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Martin%20Razpopov.jpg)
+* [Martin Ritt](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Martin%20Ritt.jpg)
 * [Martin Roach](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Martin%20Roach.jpg)
 * [Martin Scorsese](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Martin%20Scorsese.jpg)
 * [Martin Shaw](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Martin%20Shaw.jpg)

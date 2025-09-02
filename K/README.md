@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - K (537 Images)
+# Kometa People Images - Rainier (rainier) - K (538 Images)
 ![Grid](grid.jpg)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K%20Raghavendra%20Rao.jpg)
@@ -413,6 +413,7 @@
 * [Kimberly Elise](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kimberly%20Elise.jpg)
 * [Kimmy Shields](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kimmy%20Shields.jpg)
 * [King Hu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/King%20Hu.jpg)
+* [King Vidor](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/King%20Vidor.jpg)
 * [Kinji Fukasaku](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kinji%20Fukasaku.jpg)
 * [Kip Chapman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kip%20Chapman.jpg)
 * [Kira Miró](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kira%20Mir%C3%B3.jpg)

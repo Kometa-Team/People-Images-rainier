@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - R (700 Images)
+# Kometa People Images - Rainier (rainier) - R (701 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -466,6 +466,7 @@
 * [Roberto De Feo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Roberto%20De%20Feo.jpg)
 * [Roberto Orci](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Roberto%20Orci.jpg)
 * [Roberto Proia](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Roberto%20Proia.jpg)
+* [Roberto Rossellini](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Roberto%20Rossellini.jpg)
 * [Roberto Sosa](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Roberto%20Sosa.jpg)
 * [Roberts Blossom](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Roberts%20Blossom.jpg)
 * [Robin Atkin Downes](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Robin%20Atkin%20Downes.jpg)
