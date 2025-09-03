@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - K (538 Images)
+# Kometa People Images - Rainier (rainier) - K (539 Images)
 ![Grid](grid.jpg)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K%20Raghavendra%20Rao.jpg)
@@ -7,6 +7,7 @@
 * [Kadan Rockett](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kadan%20Rockett.jpg)
 * [Kaede Hondo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kaede%20Hondo.jpg)
 * [Kaitlin Doubleday](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kaitlin%20Doubleday.jpg)
+* [Kaitlin Olson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kaitlin%20Olson.jpg)
 * [Kaitlyn Dever](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kaitlyn%20Dever.jpg)
 * [Kaitlyn Dias](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kaitlyn%20Dias.jpg)
 * [Kaitlyn Maher](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kaitlyn%20Maher.jpg)

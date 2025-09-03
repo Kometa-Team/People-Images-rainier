@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - S (789 Images)
+# Kometa People Images - Rainier (rainier) - S (790 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -487,6 +487,7 @@
 * [Siobhan Williams](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Siobhan%20Williams.jpg)
 * [Siobhán McSweeney](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Siobh%C3%A1n%20McSweeney.jpg)
 * [Sion Sono](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sion%20Sono.jpg)
+* [Sisa Grey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sisa%20Grey.jpg)
 * [Sissela Kyle](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sissela%20Kyle.jpg)
 * [Sissy Spacek](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sissy%20Spacek.jpg)
 * [Skeet Ulrich](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Skeet%20Ulrich.jpg)
