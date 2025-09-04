@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) (11124 Images)
+# Kometa People Images - Rainier (rainier) (11126 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -8186,7 +8186,7 @@
 * [Owen Teale](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/O/Images/Owen%20Teale.jpg)
 * [Owen Wilson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/O/Images/Owen%20Wilson.jpg)
 </details>
-<details><summary><a href="P">P (434 Images)</a></summary>
+<details><summary><a href="P">P (436 Images)</a></summary>
 
 * [P.H. Moriarty](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/P.H.%20Moriarty.jpg)
 * [P.J. Byrne](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/P.J.%20Byrne.jpg)
@@ -8281,6 +8281,7 @@
 * [Patrick Huard](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Huard.jpg)
 * [Patrick Hughes](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Hughes.jpg)
 * [Patrick Kennedy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Kennedy.jpg)
+* [Patrick Knapp Schwarzenegger](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Knapp%20Schwarzenegger.jpg)
 * [Patrick Leahy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Leahy.jpg)
 * [Patrick Macnee](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Macnee.jpg)
 * [Patrick Magee](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Magee.jpg)
@@ -8291,6 +8292,7 @@
 * [Patrick Mille](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Mille.jpg)
 * [Patrick Muldoon](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Muldoon.jpg)
 * [Patrick Pinney](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Pinney.jpg)
+* [Patrick Schwarzenegger](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Schwarzenegger.jpg)
 * [Patrick Stewart](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Stewart.jpg)
 * [Patrick Swayze](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Swayze.jpg)
 * [Patrick Troughton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Troughton.jpg)

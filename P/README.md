@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - P (434 Images)
+# Kometa People Images - Rainier (rainier) - P (436 Images)
 ![Grid](grid.jpg)
 
 * [P.H. Moriarty](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/P.H.%20Moriarty.jpg)
@@ -94,6 +94,7 @@
 * [Patrick Huard](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Huard.jpg)
 * [Patrick Hughes](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Hughes.jpg)
 * [Patrick Kennedy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Kennedy.jpg)
+* [Patrick Knapp Schwarzenegger](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Knapp%20Schwarzenegger.jpg)
 * [Patrick Leahy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Leahy.jpg)
 * [Patrick Macnee](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Macnee.jpg)
 * [Patrick Magee](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Magee.jpg)
@@ -104,6 +105,7 @@
 * [Patrick Mille](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Mille.jpg)
 * [Patrick Muldoon](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Muldoon.jpg)
 * [Patrick Pinney](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Pinney.jpg)
+* [Patrick Schwarzenegger](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Schwarzenegger.jpg)
 * [Patrick Stewart](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Stewart.jpg)
 * [Patrick Swayze](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Swayze.jpg)
 * [Patrick Troughton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Patrick%20Troughton.jpg)
