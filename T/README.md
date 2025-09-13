@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - T (542 Images)
+# Kometa People Images - Rainier (rainier) - T (544 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T.%20J.%20Miller.jpg)
@@ -25,6 +25,7 @@
 * [Takeshi Kitano](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takeshi%20Kitano.jpg)
 * [Takeshi Kusao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takeshi%20Kusao.jpg)
 * [Taku Yashiro](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Taku%20Yashiro.jpg)
+* [Takuya Eguchi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takuya%20Eguchi.jpg)
 * [Talia Shire](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Talia%20Shire.jpg)
 * [Talisa Soto](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Talisa%20Soto.jpg)
 * [Taliyah Blair](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Taliyah%20Blair.jpg)
@@ -410,6 +411,7 @@
 * [Tomoko Kawakami](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tomoko%20Kawakami.jpg)
 * [Tomomi Mochizuki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tomomi%20Mochizuki.jpg)
 * [Tomonori Sudo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tomonori%20Sudo.jpg)
+* [Tomoyo Kurosawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tomoyo%20Kurosawa.jpg)
 * [Tomoyuki Tanaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tomoyuki%20Tanaka.jpg)
 * [Tone Bell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tone%20Bell.jpg)
 * [Toni Bryce](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Toni%20Bryce.jpg)

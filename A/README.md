@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - A (905 Images)
+# Kometa People Images - Rainier (rainier) - A (907 Images)
 ![Grid](grid.jpg)
 
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/A.%20Edward%20Sutherland.jpg)
@@ -138,6 +138,7 @@
 * [Ahn Jae-hong](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Ahn%20Jae-hong.jpg)
 * [Ahn So-hee](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Ahn%20So-hee.jpg)
 * [Ahna O'Reilly](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Ahna%20O%27Reilly.jpg)
+* [Ai Kakuma](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Ai%20Kakuma.jpg)
 * [Ai Kayano](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Ai%20Kayano.jpg)
 * [Aida Turturro](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aida%20Turturro.jpg)
 * [Aidan Bertola](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aidan%20Bertola.jpg)
@@ -906,3 +907,4 @@
 * [Azari Akbar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Azari%20Akbar.jpg)
 * [Azhar Usman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Azhar%20Usman.jpg)
 * [Aziz Ansari](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aziz%20Ansari.jpg)
+* [Azumi Waki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Azumi%20Waki.jpg)

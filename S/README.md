@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - S (790 Images)
+# Kometa People Images - Rainier (rainier) - S (791 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -175,6 +175,7 @@
 * [Sasha Roiz](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sasha%20Roiz.jpg)
 * [Sasheer Zamata](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sasheer%20Zamata.jpg)
 * [Satomi Hanamura](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Satomi%20Hanamura.jpg)
+* [Satomi Sato](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Satomi%20Sato.jpg)
 * [Satoshi Hino](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Satoshi%20Hino.jpg)
 * [Satoshi Kon](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Satoshi%20Kon.jpg)
 * [Satoshi Tajiri](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Satoshi%20Tajiri.jpg)
