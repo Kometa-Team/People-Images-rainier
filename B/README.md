@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - B (561 Images)
+# Kometa People Images - Rainier (rainier) - B (562 Images)
 ![Grid](grid.jpg)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.F.%20Blinn.jpg)
@@ -504,6 +504,7 @@
 * [Bruce A. Young](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bruce%20A.%20Young.jpg)
 * [Bruce Altman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bruce%20Altman.jpg)
 * [Bruce Anderson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bruce%20Anderson.jpg)
+* [Bruce Balden](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bruce%20Balden.jpg)
 * [Bruce Bundy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bruce%20Bundy.jpg)
 * [Bruce Cabot](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bruce%20Cabot.jpg)
 * [Bruce Campbell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bruce%20Campbell.jpg)
