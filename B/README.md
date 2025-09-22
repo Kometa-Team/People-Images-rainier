@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - B (563 Images)
+# Kometa People Images - Rainier (rainier) - B (564 Images)
 ![Grid](grid.jpg)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.F.%20Blinn.jpg)
@@ -549,6 +549,7 @@
 * [Burn Gorman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Burn%20Gorman.jpg)
 * [Burny Mattinson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Burny%20Mattinson.jpg)
 * [Burr Steers](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Burr%20Steers.jpg)
+* [Burt Gillett](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Burt%20Gillett.jpg)
 * [Burt Kwouk](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Burt%20Kwouk.jpg)
 * [Burt Lancaster](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Burt%20Lancaster.jpg)
 * [Burt Reynolds](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Burt%20Reynolds.jpg)
