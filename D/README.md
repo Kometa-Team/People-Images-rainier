@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - D (712 Images)
+# Kometa People Images - Rainier (rainier) - D (713 Images)
 ![Grid](grid.jpg)
 
 * [D. David Morin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D.%20David%20Morin.jpg)
@@ -563,6 +563,7 @@
 * [Diogo Morgado](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Diogo%20Morgado.jpg)
 * [Dion Graham](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dion%20Graham.jpg)
 * [Diora Baird](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Diora%20Baird.jpg)
+* [Dirch Passer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dirch%20Passer.jpg)
 * [Dirk Benedict](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dirk%20Benedict.jpg)
 * [Dirk Blocker](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dirk%20Blocker.jpg)
 * [Divian Ladwa](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Divian%20Ladwa.jpg)

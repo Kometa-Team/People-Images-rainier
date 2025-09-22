@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - K (540 Images)
+# Kometa People Images - Rainier (rainier) - K (541 Images)
 ![Grid](grid.jpg)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K%20Raghavendra%20Rao.jpg)
@@ -66,6 +66,7 @@
 * [Karl Glusman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Karl%20Glusman.jpg)
 * [Karl Johnson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Karl%20Johnson.jpg)
 * [Karl Makinen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Karl%20Makinen.jpg)
+* [Karl Stegger](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Karl%20Stegger.jpg)
 * [Karl Urban](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Karl%20Urban.jpg)
 * [Karl Werleman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Karl%20Werleman.jpg)
 * [Karl Yune](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Karl%20Yune.jpg)
