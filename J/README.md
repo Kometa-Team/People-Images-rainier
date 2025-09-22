@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - J (1379 Images)
+# Kometa People Images - Rainier (rainier) - J (1380 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J%27Dvonte.jpg)
@@ -1289,6 +1289,7 @@
 * [Julian Hilliard](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Julian%20Hilliard.jpg)
 * [Julian McMahon](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Julian%20McMahon.jpg)
 * [Julian Morris](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Julian%20Morris.jpg)
+* [Julian Rhind-Tutt](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Julian%20Rhind-Tutt.jpg)
 * [Julian Richings](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Julian%20Richings.jpg)
 * [Julian Sands](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Julian%20Sands.jpg)
 * [Juliana Harkavy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Juliana%20Harkavy.jpg)

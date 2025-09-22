@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - T (545 Images)
+# Kometa People Images - Rainier (rainier) - T (546 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T.%20J.%20Miller.jpg)
@@ -166,6 +166,7 @@
 * [Thea Gill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Thea%20Gill.jpg)
 * [Thea White](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Thea%20White.jpg)
 * [Theo Angelopoulos](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Theo%20Angelopoulos.jpg)
+* [Theo Barklem-Biggs](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Theo%20Barklem-Biggs.jpg)
 * [Theo James](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Theo%20James.jpg)
 * [Theo Rossi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Theo%20Rossi.jpg)
 * [Theo Von](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Theo%20Von.jpg)

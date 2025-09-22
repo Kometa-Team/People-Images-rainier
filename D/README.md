@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - D (713 Images)
+# Kometa People Images - Rainier (rainier) - D (714 Images)
 ![Grid](grid.jpg)
 
 * [D. David Morin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D.%20David%20Morin.jpg)
@@ -20,6 +20,7 @@
 * [Daisuke Namikawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Daisuke%20Namikawa.jpg)
 * [Daisuke Nishio](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Daisuke%20Nishio.jpg)
 * [Daisuke Ono](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Daisuke%20Ono.jpg)
+* [Daisy Beaumont](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Daisy%20Beaumont.jpg)
 * [Daisy Earles](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Daisy%20Earles.jpg)
 * [Daisy Haggard](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Daisy%20Haggard.jpg)
 * [Daisy May Cooper](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Daisy%20May%20Cooper.jpg)
