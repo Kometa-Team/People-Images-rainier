@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - M (1047 Images)
+# Kometa People Images - Rainier (rainier) - M (1048 Images)
 ![Grid](grid.jpg)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
@@ -915,6 +915,7 @@
 * [Mikhail Gorevoy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Mikhail%20Gorevoy.jpg)
 * [Miki Esparbé](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Miki%20Esparb%C3%A9.jpg)
 * [Miki Manojlović](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Miki%20Manojlovi%C4%87.jpg)
+* [Mikio Naruse](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Mikio%20Naruse.jpg)
 * [Mikkel Boe Følsgaard](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Mikkel%20Boe%20F%C3%B8lsgaard.jpg)
 * [Mila Kunis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Mila%20Kunis.jpg)
 * [Milena Vukotić](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Milena%20Vukoti%C4%87.jpg)

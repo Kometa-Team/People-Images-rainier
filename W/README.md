@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - W (195 Images)
+# Kometa People Images - Rainier (rainier) - W (196 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/W.%20Bruce%20Cameron.jpg)
@@ -8,6 +8,7 @@
 * [Wade Williams](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wade%20Williams.jpg)
 * [Wagner Moura](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wagner%20Moura.jpg)
 * [Wai Ching Ho](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wai%20Ching%20Ho.jpg)
+* [Wakana Yamazaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wakana%20Yamazaki.jpg)
 * [Wale Ojo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wale%20Ojo.jpg)
 * [Wallace Shawn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wallace%20Shawn.jpg)
 * [Wallace Wolodarsky](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wallace%20Wolodarsky.jpg)
