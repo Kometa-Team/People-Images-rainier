@@ -7607,6 +7607,7 @@
 * [Michiko Nishiwaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Michiko%20Nishiwaki.jpg)
 * [Michiyo Yanagisawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Michiyo%20Yanagisawa.jpg)
 * [Mick Ebeling](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Mick%20Ebeling.jpg)
+* [Mick Jagger](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Mick%20Jagger.jpg)
 * [Mick Szal](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Mick%20Szal.jpg)
 * [Mick Wingert](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Mick%20Wingert.jpg)
 * [Mick Øgendahl](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Mick%20%C3%98gendahl.jpg)
