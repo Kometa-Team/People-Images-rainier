@@ -569,7 +569,6 @@
 * [Andy Dick](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Andy%20Dick.jpg)
 * [Andy Fickman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Andy%20Fickman.jpg)
 * [Andy García](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Andy%20Garc%C3%ADa.jpg)
-* [Andy Griffith](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Andy%20Griffith.jpg)
 * [Andy Hoff](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Andy%20Hoff.jpg)
 * [Andy Le](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Andy%20Le.jpg)
 * [Andy Muschietti](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Andy%20Muschietti.jpg)
