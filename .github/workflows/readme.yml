@@ -10,12 +10,12 @@ jobs:
     steps:
 
       - name: Check Out Auto Readme Repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: Kometa-Team/People-Auto-Readme
 
       - name: Check Out Images Repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           path: imagerepo
 
