@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - D (722 Images)
+# Kometa People Images - Rainier (rainier) - D (723 Images)
 ![Grid](grid.jpg)
 
 * [D. David Morin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D.%20David%20Morin.jpg)
@@ -422,6 +422,7 @@
 * [Dean O'Gorman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dean%20O%27Gorman.jpg)
 * [Dean Parisot](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dean%20Parisot.jpg)
 * [Dean Paul Martin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dean%20Paul%20Martin.jpg)
+* [Dean R. Koontz](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dean%20R.%20Koontz.jpg)
 * [Dean S. Jagger](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dean%20S.%20Jagger.jpg)
 * [Dean Stockwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dean%20Stockwell.jpg)
 * [Dean Winters](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dean%20Winters.jpg)

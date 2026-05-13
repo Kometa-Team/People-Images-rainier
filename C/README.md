@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - C (722 Images)
+# Kometa People Images - Rainier (rainier) - C (723 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -414,6 +414,7 @@
 * [Christian Clavier](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christian%20Clavier.jpg)
 * [Christian Colson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christian%20Colson.jpg)
 * [Christian De Sica](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christian%20De%20Sica.jpg)
+* [Christian Gudegast](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christian%20Gudegast.jpg)
 * [Christian Hutcherson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christian%20Hutcherson.jpg)
 * [Christian Isaiah](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christian%20Isaiah.jpg)
 * [Christian Kane](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christian%20Kane.jpg)
