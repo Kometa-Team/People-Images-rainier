@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) (11394 Images)
+# Kometa People Images - Rainier (rainier) (11393 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -6366,7 +6366,7 @@
 * [Kyung Soo-jin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kyung%20Soo-jin.jpg)
 * [Kō Nakahira](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K%C5%8D%20Nakahira.jpg)
 </details>
-<details><summary><a href="L">L (512 Images)</a></summary>
+<details><summary><a href="L">L (511 Images)</a></summary>
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/L.%20Q.%20Jones.jpg)
 * [L. Scott Caldwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/L.%20Scott%20Caldwell.jpg)
@@ -6525,7 +6525,6 @@
 * [Lee Jung-eun](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lee%20Jung-eun.jpg)
 * [Lee Jung-jae](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lee%20Jung-jae.jpg)
 * [Lee Kwang-hoon](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lee%20Kwang-hoon.jpg)
-* [Lee Kwang-hoon_pushed](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lee%20Kwang-hoon_pushed.jpg)
 * [Lee Latchford](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lee%20Latchford.jpg)
 * [Lee Lik-chi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lee%20Lik-chi.jpg)
 * [Lee Mack](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lee%20Mack.jpg)
