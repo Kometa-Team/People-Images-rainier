@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - B (575 Images)
+# Kometa People Images - Rainier (rainier) - B (577 Images)
 ![Grid](grid.jpg)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.F.%20Blinn.jpg)
@@ -214,6 +214,7 @@
 * [Bill Irwin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bill%20Irwin.jpg)
 * [Bill Johnson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bill%20Johnson.jpg)
 * [Bill Kelly](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bill%20Kelly.jpg)
+* [Bill Kopp](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bill%20Kopp.jpg)
 * [Bill Macy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bill%20Macy.jpg)
 * [Bill Maher](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bill%20Maher.jpg)
 * [Bill Melendez](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bill%20Melendez.jpg)
@@ -568,6 +569,7 @@
 * [Busby Berkeley](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Busby%20Berkeley.jpg)
 * [Buster Keaton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Buster%20Keaton.jpg)
 * [Buster Reeves](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Buster%20Reeves.jpg)
+* [Buzz Aldrin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Buzz%20Aldrin.jpg)
 * [Byron Howard](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Byron%20Howard.jpg)
 * [Byron Mann](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Byron%20Mann.jpg)
 * [Bzhaun Rhoden](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bzhaun%20Rhoden.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - W (198 Images)
+# Kometa People Images - Rainier (rainier) - W (199 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/W.%20Bruce%20Cameron.jpg)
@@ -19,6 +19,7 @@
 * [Walt Flanagan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Walt%20Flanagan.jpg)
 * [Walter Brooke](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Walter%20Brooke.jpg)
 * [Walter Connolly](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Walter%20Connolly.jpg)
+* [Walter Cronkite](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Walter%20Cronkite.jpg)
 * [Walter F. Parkes](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Walter%20F.%20Parkes.jpg)
 * [Walter Gotell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Walter%20Gotell.jpg)
 * [Walter Hill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Walter%20Hill.jpg)

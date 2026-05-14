@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - R (712 Images)
+# Kometa People Images - Rainier (rainier) - R (713 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -340,6 +340,7 @@
 * [Rio Hackford](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rio%20Hackford.jpg)
 * [Rip Taylor](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rip%20Taylor.jpg)
 * [Rip Torn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rip%20Torn.jpg)
+* [Risa Hayamizu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Risa%20Hayamizu.jpg)
 * [Risa Mizuno](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Risa%20Mizuno.jpg)
 * [Risa Taneda](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Risa%20Taneda.jpg)
 * [Rish Shah](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rish%20Shah.jpg)
