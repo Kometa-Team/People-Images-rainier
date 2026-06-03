@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - C (728 Images)
+# Kometa People Images - Rainier (rainier) - C (729 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -693,6 +693,7 @@
 * [Courtney Henggeler](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Courtney%20Henggeler.jpg)
 * [Courtney Lauren Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Courtney%20Lauren%20Penn.jpg)
 * [Craig Austin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Craig%20Austin.jpg)
+* [Craig Brewer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Craig%20Brewer.jpg)
 * [Craig Ferguson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Craig%20Ferguson.jpg)
 * [Craig Gillespie](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Craig%20Gillespie.jpg)
 * [Craig Henningsen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Craig%20Henningsen.jpg)

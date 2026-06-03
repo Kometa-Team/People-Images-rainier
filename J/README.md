@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - J (1405 Images)
+# Kometa People Images - Rainier (rainier) - J (1406 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J%27Dvonte.jpg)
@@ -1122,6 +1122,7 @@
 * [Jonathan Kasdan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jonathan%20Kasdan.jpg)
 * [Jonathan Liebesman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jonathan%20Liebesman.jpg)
 * [Jonathan Loughran](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jonathan%20Loughran.jpg)
+* [Jonathan Lynn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jonathan%20Lynn.jpg)
 * [Jonathan M. Goldstein](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jonathan%20M.%20Goldstein.jpg)
 * [Jonathan Majors](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jonathan%20Majors.jpg)
 * [Jonathan Mangum](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jonathan%20Mangum.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - R (713 Images)
+# Kometa People Images - Rainier (rainier) - R (714 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -643,6 +643,7 @@
 * [Rupert Grint](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rupert%20Grint.jpg)
 * [Rupert Penry-Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rupert%20Penry-Jones.jpg)
 * [Rupert Vansittart](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rupert%20Vansittart.jpg)
+* [Rupert Wyatt](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rupert%20Wyatt.jpg)
 * [Rus Blackwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rus%20Blackwell.jpg)
 * [Russ Fega](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Russ%20Fega.jpg)
 * [Russ Meyer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Russ%20Meyer.jpg)
