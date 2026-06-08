@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - A (928 Images)
+# Kometa People Images - Rainier (rainier) - A (929 Images)
 ![Grid](grid.jpg)
 
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/A.%20Edward%20Sutherland.jpg)
@@ -255,6 +255,7 @@
 * [Aleisha Allen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aleisha%20Allen.jpg)
 * [Alejandra Gollas](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alejandra%20Gollas.jpg)
 * [Alejandro Amenábar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alejandro%20Amen%C3%A1bar.jpg)
+* [Alejandro G. Iñárritu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alejandro%20G.%20I%C3%B1%C3%A1rritu.jpg)
 * [Alejandro González Iñárritu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alejandro%20Gonz%C3%A1lez%20I%C3%B1%C3%A1rritu.jpg)
 * [Alejandro Jodorowsky](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alejandro%20Jodorowsky.jpg)
 * [Aleks Paunovic](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aleks%20Paunovic.jpg)
