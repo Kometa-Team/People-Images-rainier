@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - Y (103 Images)
+# Kometa People Images - Rainier (rainier) - Y (105 Images)
 ![Grid](grid.jpg)
 
 * [Y. Ravi Shankar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Y.%20Ravi%20Shankar.jpg)
@@ -54,6 +54,7 @@
 * [Yoshimasa Hosoya](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yoshimasa%20Hosoya.jpg)
 * [Yoshimi Kondou](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yoshimi%20Kondou.jpg)
 * [Yoshitsugu Matsuoka](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yoshitsugu%20Matsuoka.jpg)
+* [Yoshiyuki Kishi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yoshiyuki%20Kishi.jpg)
 * [Yoson An](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yoson%20An.jpg)
 * [You Seong-joo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/You%20Seong-joo.jpg)
 * [Youji Matsuda](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Youji%20Matsuda.jpg)
@@ -87,6 +88,7 @@
 * [Yun Seung-hun](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yun%20Seung-hun.jpg)
 * [Yuri Kolokolnikov](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yuri%20Kolokolnikov.jpg)
 * [Yuri Lowenthal](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yuri%20Lowenthal.jpg)
+* [Yuri Norstein](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yuri%20Norstein.jpg)
 * [Yuriko Ishida](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yuriko%20Ishida.jpg)
 * [Yusuke Kobayashi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yusuke%20Kobayashi.jpg)
 * [Yuta Kobayashi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yuta%20Kobayashi.jpg)

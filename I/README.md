@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - I (138 Images)
+# Kometa People Images - Rainier (rainier) - I (139 Images)
 ![Grid](grid.jpg)
 
 * [IU](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/IU.jpg)
@@ -113,6 +113,7 @@
 * [Isabelle Huppert](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Isabelle%20Huppert.jpg)
 * [Isao Takahata](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Isao%20Takahata.jpg)
 * [Ishirō Honda](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Ishir%C5%8D%20Honda.jpg)
+* [Ishu Patel](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Ishu%20Patel.jpg)
 * [Isiah Thomas](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Isiah%20Thomas.jpg)
 * [Isiah Whitlock Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Isiah%20Whitlock%20Jr..jpg)
 * [Isidora Goreshter](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Isidora%20Goreshter.jpg)

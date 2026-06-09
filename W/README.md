@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - W (199 Images)
+# Kometa People Images - Rainier (rainier) - W (200 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/W.%20Bruce%20Cameron.jpg)
@@ -182,6 +182,7 @@
 * [Wladyslaw Szpilman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wladyslaw%20Szpilman.jpg)
 * [Wolf Kahler](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wolf%20Kahler.jpg)
 * [Wolf Roth](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wolf%20Roth.jpg)
+* [Wolfgang Lauenstein](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wolfgang%20Lauenstein.jpg)
 * [Wolfgang Petersen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wolfgang%20Petersen.jpg)
 * [Wolfgang Reitherman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wolfgang%20Reitherman.jpg)
 * [Wolfman Jack](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wolfman%20Jack.jpg)
