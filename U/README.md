@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - U (19 Images)
+# Kometa People Images - Rainier (rainier) - U (21 Images)
 ![Grid](grid.jpg)
 
 * [Uday Krishna](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Uday%20Krishna.jpg)
@@ -6,6 +6,8 @@
 * [Udo Samel](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Udo%20Samel.jpg)
 * [Ugo Tognazzi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Ugo%20Tognazzi.jpg)
 * [Ukweli Roach](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Ukweli%20Roach.jpg)
+* [Uli Edel](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Uli%20Edel.jpg)
+* [Ulrich Noethen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Ulrich%20Noethen.jpg)
 * [Ulrich Seidl](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Ulrich%20Seidl.jpg)
 * [Ulrich Thomsen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Ulrich%20Thomsen.jpg)
 * [Uma Thurman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Uma%20Thurman.jpg)
