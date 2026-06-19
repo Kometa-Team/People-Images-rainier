@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - E (457 Images)
+# Kometa People Images - Rainier (rainier) - E (459 Images)
 ![Grid](grid.jpg)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/E.G.%20Marshall.jpg)
@@ -38,6 +38,7 @@
 * [Eddie Griffin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eddie%20Griffin.jpg)
 * [Eddie Izzard](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eddie%20Izzard.jpg)
 * [Eddie J. Fernandez](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eddie%20J.%20Fernandez.jpg)
+* [Eddie Kaye Thomas](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eddie%20Kaye%20Thomas.jpg)
 * [Eddie Mariano](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eddie%20Mariano.jpg)
 * [Eddie Marsan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eddie%20Marsan.jpg)
 * [Eddie Martinez](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eddie%20Martinez.jpg)
@@ -373,6 +374,7 @@
 * [Ernesto Gastaldi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Ernesto%20Gastaldi.jpg)
 * [Ernie Barbarash](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Ernie%20Barbarash.jpg)
 * [Ernie Hudson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Ernie%20Hudson.jpg)
+* [Ernie Lee Banks](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Ernie%20Lee%20Banks.jpg)
 * [Ernie Reyes Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Ernie%20Reyes%20Jr..jpg)
 * [Ernst Lubitsch](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Ernst%20Lubitsch.jpg)
 * [Ernst von Salomon](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Ernst%20von%20Salomon.jpg)

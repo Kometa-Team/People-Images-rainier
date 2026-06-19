@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - H (344 Images)
+# Kometa People Images - Rainier (rainier) - H (345 Images)
 ![Grid](grid.jpg)
 
 * [H. C. Potter](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/H.%20C.%20Potter.jpg)
@@ -136,6 +136,7 @@
 * [Hasan Minhaj](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hasan%20Minhaj.jpg)
 * [Hassani Shapi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hassani%20Shapi.jpg)
 * [Hattie Kragten](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hattie%20Kragten.jpg)
+* [Hayami Saori](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hayami%20Saori.jpg)
 * [Hayao Miyazaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hayao%20Miyazaki.jpg)
 * [Hayashibara Megumi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hayashibara%20Megumi.jpg)
 * [Hayden Christensen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hayden%20Christensen.jpg)

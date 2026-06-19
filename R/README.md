@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - R (821 Images)
+# Kometa People Images - Rainier (rainier) - R (822 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -156,6 +156,7 @@
 * [Raymond Lee](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Raymond%20Lee.jpg)
 * [Raymond S. Persi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Raymond%20S.%20Persi.jpg)
 * [Rayner Bourton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rayner%20Bourton.jpg)
+* [Raynor Scheine](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Raynor%20Scheine.jpg)
 * [Rayver Cruz](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rayver%20Cruz.jpg)
 * [Raúl Castro](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ra%C3%BAl%20Castro.jpg)
 * [Raúl Esparza](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ra%C3%BAl%20Esparza.jpg)

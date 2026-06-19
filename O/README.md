@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - O (122 Images)
+# Kometa People Images - Rainier (rainier) - O (123 Images)
 ![Grid](grid.jpg)
 
 * [O'Shea Jackson Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/O/Images/O%27Shea%20Jackson%20Jr..jpg)
@@ -80,6 +80,7 @@
 * [Ono Kenshou](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/O/Images/Ono%20Kenshou.jpg)
 * [Oohara Sayaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/O/Images/Oohara%20Sayaka.jpg)
 * [Oonishi Saori](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/O/Images/Oonishi%20Saori.jpg)
+* [Oosaka Ryouta](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/O/Images/Oosaka%20Ryouta.jpg)
 * [Ootsuka Akio](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/O/Images/Ootsuka%20Akio.jpg)
 * [Ophelia Lovibond](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/O/Images/Ophelia%20Lovibond.jpg)
 * [Oprah Winfrey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/O/Images/Oprah%20Winfrey.jpg)
