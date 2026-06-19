@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - B (654 Images)
+# Kometa People Images - Rainier (rainier) - B (655 Images)
 ![Grid](grid.jpg)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.F.%20Blinn.jpg)
@@ -515,6 +515,7 @@
 * [Brian Schaeffer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brian%20Schaeffer.jpg)
 * [Brian Simpson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brian%20Simpson.jpg)
 * [Brian Smyj](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brian%20Smyj.jpg)
+* [Brian Steele](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brian%20Steele.jpg)
 * [Brian Taylor](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brian%20Taylor.jpg)
 * [Brian Trenchard-Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brian%20Trenchard-Smith.jpg)
 * [Brian Tyree Henry](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brian%20Tyree%20Henry.jpg)
