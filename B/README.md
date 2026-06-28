@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - B (655 Images)
+# Kometa People Images - Rainier (rainier) - B (656 Images)
 ![Grid](grid.jpg)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.F.%20Blinn.jpg)
@@ -23,6 +23,7 @@
 * [Bam Margera](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bam%20Margera.jpg)
 * [Bambadjan Bamba](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bambadjan%20Bamba.jpg)
 * [Banksy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Banksy.jpg)
+* [Baptiste Gilliéron](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Baptiste%20Gilli%C3%A9ron.jpg)
 * [Bar Paly](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bar%20Paly.jpg)
 * [Barack Obama](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Barack%20Obama.jpg)
 * [Barbara Beall](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Barbara%20Beall.jpg)

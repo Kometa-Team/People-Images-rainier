@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) (13005 Images)
+# Kometa People Images - Rainier (rainier) (13007 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -1071,7 +1071,7 @@
 * [Aziz Ansari](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aziz%20Ansari.jpg)
 * [Azumi Waki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Azumi%20Waki.jpg)
 </details>
-<details><summary><a href="B">B (655 Images)</a></summary>
+<details><summary><a href="B">B (656 Images)</a></summary>
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.F.%20Blinn.jpg)
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.J.%20Penn.jpg)
@@ -1095,6 +1095,7 @@
 * [Bam Margera](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bam%20Margera.jpg)
 * [Bambadjan Bamba](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bambadjan%20Bamba.jpg)
 * [Banksy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Banksy.jpg)
+* [Baptiste Gilliéron](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Baptiste%20Gilli%C3%A9ron.jpg)
 * [Bar Paly](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bar%20Paly.jpg)
 * [Barack Obama](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Barack%20Obama.jpg)
 * [Barbara Beall](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Barbara%20Beall.jpg)
@@ -1729,7 +1730,7 @@
 * [Børge Ring](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B%C3%B8rge%20Ring.jpg)
 * [Břetislav Pojar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B%C5%99etislav%20Pojar.jpg)
 </details>
-<details><summary><a href="C">C (816 Images)</a></summary>
+<details><summary><a href="C">C (817 Images)</a></summary>
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
 * [C. S. Forester](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20S.%20Forester.jpg)
@@ -2054,6 +2055,7 @@
 * [Chaske Spencer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chaske%20Spencer.jpg)
 * [Chazz Palminteri](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chazz%20Palminteri.jpg)
 * [Checco Zalone](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Checco%20Zalone.jpg)
+* [Cheech & Chong](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Cheech%20%26%20Chong.jpg)
 * [Cheech Marin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Cheech%20Marin.jpg)
 * [Chekesha Van Putten](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chekesha%20Van%20Putten.jpg)
 * [Chelcie Ross](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chelcie%20Ross.jpg)
