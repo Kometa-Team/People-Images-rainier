@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) (13008 Images)
+# Kometa People Images - Rainier (rainier) (13009 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -1730,7 +1730,7 @@
 * [Børge Ring](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B%C3%B8rge%20Ring.jpg)
 * [Břetislav Pojar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B%C5%99etislav%20Pojar.jpg)
 </details>
-<details><summary><a href="C">C (817 Images)</a></summary>
+<details><summary><a href="C">C (818 Images)</a></summary>
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
 * [C. S. Forester](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20S.%20Forester.jpg)
@@ -2111,6 +2111,7 @@
 * [Choi Min-sik](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Choi%20Min-sik.jpg)
 * [Choi Sung-eun](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Choi%20Sung-eun.jpg)
 * [Choi Won-young](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Choi%20Won-young.jpg)
+* [Choji Yoshikawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Choji%20Yoshikawa.jpg)
 * [Chord Overstreet](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chord%20Overstreet.jpg)
 * [Chow Yun-Fat](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chow%20Yun-Fat.jpg)
 * [Chris Addison](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chris%20Addison.jpg)

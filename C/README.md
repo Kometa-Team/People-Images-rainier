@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - C (817 Images)
+# Kometa People Images - Rainier (rainier) - C (818 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -380,6 +380,7 @@
 * [Choi Min-sik](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Choi%20Min-sik.jpg)
 * [Choi Sung-eun](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Choi%20Sung-eun.jpg)
 * [Choi Won-young](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Choi%20Won-young.jpg)
+* [Choji Yoshikawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Choji%20Yoshikawa.jpg)
 * [Chord Overstreet](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chord%20Overstreet.jpg)
 * [Chow Yun-Fat](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chow%20Yun-Fat.jpg)
 * [Chris Addison](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chris%20Addison.jpg)
