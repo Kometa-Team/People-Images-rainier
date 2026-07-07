@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - R (822 Images)
+# Kometa People Images - Rainier (rainier) - R (824 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -8,6 +8,8 @@
 * [R.H. Norman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.H.%20Norman.jpg)
 * [RAJINIKANTH SK](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/RAJINIKANTH%20SK.jpg)
 * [RJ Mitte](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/RJ%20Mitte.jpg)
+* [RM. Babu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/RM.%20Babu.jpg)
+* [RM](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/RM.jpg)
 * [RZA](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/RZA.jpg)
 * [Rachael Harris](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rachael%20Harris.jpg)
 * [Rachael Leigh Cook](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rachael%20Leigh%20Cook.jpg)
