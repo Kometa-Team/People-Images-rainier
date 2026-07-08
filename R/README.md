@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - R (824 Images)
+# Kometa People Images - Rainier (rainier) - R (825 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -200,6 +200,7 @@
 * [Reid Scott](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Reid%20Scott.jpg)
 * [Reina Ueda](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Reina%20Ueda.jpg)
 * [Reinaldo Marcus Green](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Reinaldo%20Marcus%20Green.jpg)
+* [Rekha Shankar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rekha%20Shankar.jpg)
 * [Remo D'Souza](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Remo%20D%27Souza.jpg)
 * [Remo Girone](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Remo%20Girone.jpg)
 * [Remy Hii](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Remy%20Hii.jpg)

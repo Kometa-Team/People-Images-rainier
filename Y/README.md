@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - Y (123 Images)
+# Kometa People Images - Rainier (rainier) - Y (124 Images)
 ![Grid](grid.jpg)
 
 * [Y. Ravi Shankar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Y.%20Ravi%20Shankar.jpg)
@@ -44,6 +44,7 @@
 * [Yoo Yeon-seok](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yoo%20Yeon-seok.jpg)
 * [Yook Sung-jae](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yook%20Sung-jae.jpg)
 * [Yoon Jae-hyun](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yoon%20Jae-hyun.jpg)
+* [Yoon Ji-min](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yoon%20Ji-min.jpg)
 * [Yoon Park](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yoon%20Park.jpg)
 * [Yoon Sang-hyun](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yoon%20Sang-hyun.jpg)
 * [Yoram Globus](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yoram%20Globus.jpg)
