@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - A (1065 Images)
+# Kometa People Images - Rainier (rainier) - A (1066 Images)
 ![Grid](grid.jpg)
 
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/A.%20Edward%20Sutherland.jpg)
@@ -329,6 +329,7 @@
 * [Alex Proyas](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alex%20Proyas.jpg)
 * [Alex Rocco](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alex%20Rocco.jpg)
 * [Alex Ross Perry](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alex%20Ross%20Perry.jpg)
+* [Alex Rudzinski](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alex%20Rudzinski.jpg)
 * [Alex Russell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alex%20Russell.jpg)
 * [Alex Sharp](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alex%20Sharp.jpg)
 * [Alex Sharpe](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alex%20Sharpe.jpg)

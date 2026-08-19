@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - L (572 Images)
+# Kometa People Images - Rainier (rainier) - L (573 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/L.%20Q.%20Jones.jpg)
@@ -160,6 +160,7 @@
 * [Lee Do-hyung](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lee%20Do-hyung.jpg)
 * [Lee Dong-wook](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lee%20Dong-wook.jpg)
 * [Lee Evans](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lee%20Evans.jpg)
+* [Lee Hak-ju](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lee%20Hak-ju.jpg)
 * [Lee Hong-nae](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lee%20Hong-nae.jpg)
 * [Lee Horsley](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lee%20Horsley.jpg)
 * [Lee Ingleby](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lee%20Ingleby.jpg)
