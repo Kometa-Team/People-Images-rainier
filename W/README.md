@@ -1,5 +1,4 @@
 # Kometa People Images - Rainier (rainier) - W (232 Images)
-![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/W.%20Bruce%20Cameron.jpg)
 * [W. Earl Brown](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/W.%20Earl%20Brown.jpg)

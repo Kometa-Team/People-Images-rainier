@@ -1,5 +1,4 @@
 # Kometa People Images - Rainier (rainier) - M (1224 Images)
-![Grid](grid.jpg)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
 * [M. Emmet Walsh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/M.%20Emmet%20Walsh.jpg)

@@ -1,5 +1,4 @@
 # Kometa People Images - Rainier (rainier) - V (148 Images)
-![Grid](grid.jpg)
 
 * [V.J. Foster](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/V.J.%20Foster.jpg)
 * [Vaibhav Sethia](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vaibhav%20Sethia.jpg)

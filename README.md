@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) (13034 Images)
+# Kometa People Images - Rainier (rainier) (13033 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -13038,9 +13038,8 @@
 * [Yūkichi Kobayashi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Y%C5%ABkichi%20Kobayashi.jpg)
 * [Yūsuke Iseya](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Y%C5%ABsuke%20Iseya.jpg)
 </details>
-<details><summary><a href="Z">Z (63 Images)</a></summary>
+<details><summary><a href="Z">Z (62 Images)</a></summary>
 
-* [ZZZFontProbeSample](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Z/Images/ZZZFontProbeSample.jpg)
 * [Zac Efron](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Z/Images/Zac%20Efron.jpg)
 * [Zach Baylin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Z/Images/Zach%20Baylin.jpg)
 * [Zach Braff](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Z/Images/Zach%20Braff.jpg)

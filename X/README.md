@@ -1,5 +1,4 @@
 # Kometa People Images - Rainier (rainier) - X (7 Images)
-![Grid](grid.jpg)
 
 * [Xander Berkeley](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/X/Images/Xander%20Berkeley.jpg)
 * [Xavier Gens](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/X/Images/Xavier%20Gens.jpg)

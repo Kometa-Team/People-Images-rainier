@@ -1,5 +1,4 @@
 # Kometa People Images - Rainier (rainier) - Y (124 Images)
-![Grid](grid.jpg)
 
 * [Y. Ravi Shankar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Y.%20Ravi%20Shankar.jpg)
 * [Yahya Abdul-Mateen II](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yahya%20Abdul-Mateen%20II.jpg)

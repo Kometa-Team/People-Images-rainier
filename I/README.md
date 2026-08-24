@@ -1,5 +1,4 @@
 # Kometa People Images - Rainier (rainier) - I (158 Images)
-![Grid](grid.jpg)
 
 * [I. A. L. Diamond](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/I.%20A.%20L.%20Diamond.jpg)
 * [IU](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/IU.jpg)
