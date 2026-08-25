@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - A (1066 Images)
+# Kometa People Images - Rainier (rainier) - A (1067 Images)
 
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/A.%20Edward%20Sutherland.jpg)
 * [A. Michael Baldwin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/A.%20Michael%20Baldwin.jpg)
@@ -568,6 +568,7 @@
 * [Anamaria Marinca](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Anamaria%20Marinca.jpg)
 * [Anamaria Vartolomei](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Anamaria%20Vartolomei.jpg)
 * [Anastasia Hille](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Anastasia%20Hille.jpg)
+* [Anastasia Shestakova](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Anastasia%20Shestakova.jpg)
 * [Anatole Dauman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Anatole%20Dauman.jpg)
 * [Anatole Litvak](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Anatole%20Litvak.jpg)
 * [Anatole Taubman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Anatole%20Taubman.jpg)
