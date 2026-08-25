@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - U (33 Images)
+# Kometa People Images - Rainier (rainier) - U (34 Images)
 
 * [Uchida Maaya](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Uchida%20Maaya.jpg)
 * [Uchida Yuuma](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Uchida%20Yuuma.jpg)
@@ -10,6 +10,7 @@
 * [Ueda Reina](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Ueda%20Reina.jpg)
 * [Uesaka Sumire](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Uesaka%20Sumire.jpg)
 * [Ugo Tognazzi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Ugo%20Tognazzi.jpg)
+* [Ui Mihara](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Ui%20Mihara.jpg)
 * [Ukweli Roach](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Ukweli%20Roach.jpg)
 * [Uli Edel](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Uli%20Edel.jpg)
 * [Ulrich Noethen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Ulrich%20Noethen.jpg)

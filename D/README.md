@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - D (801 Images)
+# Kometa People Images - Rainier (rainier) - D (803 Images)
 
 * [D. A. Pennebaker](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D.%20A.%20Pennebaker.jpg)
 * [D. David Morin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D.%20David%20Morin.jpg)
@@ -173,6 +173,7 @@
 * [Daniela Melchior](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Daniela%20Melchior.jpg)
 * [Daniela Taplin Lundberg](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Daniela%20Taplin%20Lundberg.jpg)
 * [Daniella Pineda](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Daniella%20Pineda.jpg)
+* [Daniella Wang](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Daniella%20Wang.jpg)
 * [Danielle Brooks](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Danielle%20Brooks.jpg)
 * [Danielle Harris](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Danielle%20Harris.jpg)
 * [Danielle Jalade](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Danielle%20Jalade.jpg)
@@ -450,6 +451,7 @@
 * [David-Paul Grove](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/David-Paul%20Grove.jpg)
 * [Dawn Dininger](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dawn%20Dininger.jpg)
 * [Dawn French](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dawn%20French.jpg)
+* [Dawn Olivieri](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dawn%20Olivieri.jpg)
 * [Dawnn Lewis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dawnn%20Lewis.jpg)
 * [Daws Butler](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Daws%20Butler.jpg)
 * [Dax Flame](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dax%20Flame.jpg)

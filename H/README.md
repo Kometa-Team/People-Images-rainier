@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - H (345 Images)
+# Kometa People Images - Rainier (rainier) - H (347 Images)
 
 * [H. C. Potter](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/H.%20C.%20Potter.jpg)
 * [H. G. Wells](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/H.%20G.%20Wells.jpg)
@@ -126,6 +126,7 @@
 * [Haruka Shiraishi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Haruka%20Shiraishi.jpg)
 * [Haruka Tomatsu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Haruka%20Tomatsu.jpg)
 * [Haruna Mikawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Haruna%20Mikawa.jpg)
+* [Harutoki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Harutoki.jpg)
 * [Harve Bennett](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Harve%20Bennett.jpg)
 * [Harvey Guillén](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Harvey%20Guill%C3%A9n.jpg)
 * [Harvey Kahn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Harvey%20Kahn.jpg)
@@ -139,6 +140,7 @@
 * [Hayao Miyazaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hayao%20Miyazaki.jpg)
 * [Hayashibara Megumi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hayashibara%20Megumi.jpg)
 * [Hayden Christensen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hayden%20Christensen.jpg)
+* [Hayden Panettiere](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hayden%20Panettiere.jpg)
 * [Hayes MacArthur](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hayes%20MacArthur.jpg)
 * [Hayley Atwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hayley%20Atwell.jpg)
 * [Hayley Gagner](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hayley%20Gagner.jpg)

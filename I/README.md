@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - I (158 Images)
+# Kometa People Images - Rainier (rainier) - I (159 Images)
 
 * [I. A. L. Diamond](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/I.%20A.%20L.%20Diamond.jpg)
 * [IU](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/IU.jpg)
@@ -68,6 +68,7 @@
 * [Imelda Staunton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Imelda%20Staunton.jpg)
 * [Imogen Poots](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Imogen%20Poots.jpg)
 * [Inbar Lavi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Inbar%20Lavi.jpg)
+* [Inde Navarrette](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Inde%20Navarrette.jpg)
 * [Indie DesRoches](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Indie%20DesRoches.jpg)
 * [Indira Varma](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Indira%20Varma.jpg)
 * [Indya Bussey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Indya%20Bussey.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - J (1565 Images)
+# Kometa People Images - Rainier (rainier) - J (1567 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -1441,9 +1441,11 @@
 * [Jules Furthman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jules%20Furthman.jpg)
 * [Jules Sitruk](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jules%20Sitruk.jpg)
 * [Julia Butters](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Julia%20Butters.jpg)
+* [Julia Cheng Yim-Lai](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Julia%20Cheng%20Yim-Lai.jpg)
 * [Julia Cho](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Julia%20Cho.jpg)
 * [Julia Davis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Julia%20Davis.jpg)
 * [Julia Donaldson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Julia%20Donaldson.jpg)
+* [Julia Doyle](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Julia%20Doyle.jpg)
 * [Julia Ducournau](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Julia%20Ducournau.jpg)
 * [Julia Garner](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Julia%20Garner.jpg)
 * [Julia Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Julia%20Jones.jpg)
