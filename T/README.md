@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - T (645 Images)
+# Kometa People Images - Rainier (rainier) - T (648 Images)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T.%20J.%20Miller.jpg)
 * [T. Love](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T.%20Love.jpg)
@@ -29,6 +29,7 @@
 * [Takayuki Hirao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takayuki%20Hirao.jpg)
 * [Takayuki Yamada](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takayuki%20Yamada.jpg)
 * [Takehito Koyasu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takehito%20Koyasu.jpg)
+* [Takeo Otsuka](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takeo%20Otsuka.jpg)
 * [Takeru Satoh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takeru%20Satoh.jpg)
 * [Takeshi Kitano](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takeshi%20Kitano.jpg)
 * [Takeshi Kusao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takeshi%20Kusao.jpg)
@@ -258,6 +259,7 @@
 * [Tiffany Denise Hobbs](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tiffany%20Denise%20Hobbs.jpg)
 * [Tiffany Espensen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tiffany%20Espensen.jpg)
 * [Tiffany Haddish](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tiffany%20Haddish.jpg)
+* [Tiffany Lau Yuk-Ting](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tiffany%20Lau%20Yuk-Ting.jpg)
 * [Tiffany Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tiffany%20Smith.jpg)
 * [Tig Notaro](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tig%20Notaro.jpg)
 * [Tiger Hu Chen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tiger%20Hu%20Chen.jpg)
@@ -645,3 +647,4 @@
 * [Tzu-Chiang Wang](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tzu-Chiang%20Wang.jpg)
 * [Téa Leoni](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T%C3%A9a%20Leoni.jpg)
 * [Tómas Lemarquis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T%C3%B3mas%20Lemarquis.jpg)
+* [Tōi Kojima](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T%C5%8Di%20Kojima.jpg)

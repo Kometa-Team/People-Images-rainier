@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - I (159 Images)
+# Kometa People Images - Rainier (rainier) - I (160 Images)
 
 * [I. A. L. Diamond](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/I.%20A.%20L.%20Diamond.jpg)
 * [IU](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/IU.jpg)
@@ -33,6 +33,7 @@
 * [Ian Pirie](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Ian%20Pirie.jpg)
 * [Ian Puleston](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Ian%20Puleston.jpg)
 * [Ian Richardson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Ian%20Richardson.jpg)
+* [Ian Somerhalder](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Ian%20Somerhalder.jpg)
 * [Ian Tracey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Ian%20Tracey.jpg)
 * [Ian Wolfe](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Ian%20Wolfe.jpg)
 * [Ian Ziering](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Ian%20Ziering.jpg)

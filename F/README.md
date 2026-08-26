@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - F (259 Images)
+# Kometa People Images - Rainier (rainier) - F (261 Images)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/F.%20Gary%20Gray.jpg)
 * [F. Murray Abraham](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/F.%20Murray%20Abraham.jpg)
@@ -25,6 +25,7 @@
 * [Falk Hentschel](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Falk%20Hentschel.jpg)
 * [Famke Janssen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Famke%20Janssen.jpg)
 * [Fan Bingbing](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fan%20Bingbing.jpg)
+* [Fang Jin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fang%20Jin.jpg)
 * [Faran Tahir](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Faran%20Tahir.jpg)
 * [Fares Fares](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fares%20Fares.jpg)
 * [Fares Rahoma](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fares%20Rahoma.jpg)
@@ -68,6 +69,7 @@
 * [Fernando Chien](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fernando%20Chien.jpg)
 * [Fernando Di Leo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fernando%20Di%20Leo.jpg)
 * [Fernando Gil](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fernando%20Gil.jpg)
+* [Fernando Lindez](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fernando%20Lindez.jpg)
 * [Fernando Meirelles](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fernando%20Meirelles.jpg)
 * [Fernando Rey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fernando%20Rey.jpg)
 * [Fernando Soto](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fernando%20Soto.jpg)
