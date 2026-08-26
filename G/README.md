@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - G (432 Images)
+# Kometa People Images - Rainier (rainier) - G (433 Images)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/G-Eazy.jpg)
 * [G. D. Spradlin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/G.%20D.%20Spradlin.jpg)
@@ -328,6 +328,7 @@
 * [Grace Gummer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Grace%20Gummer.jpg)
 * [Grace Kaufman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Grace%20Kaufman.jpg)
 * [Grace Kelly](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Grace%20Kelly.jpg)
+* [Grace Lam Nga-Si](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Grace%20Lam%20Nga-Si.jpg)
 * [Grace Lee Whitney](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Grace%20Lee%20Whitney.jpg)
 * [Grace Park](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Grace%20Park.jpg)
 * [Grace Rex](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Grace%20Rex.jpg)

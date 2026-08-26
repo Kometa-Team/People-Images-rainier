@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - B (656 Images)
+# Kometa People Images - Rainier (rainier) - B (658 Images)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.F.%20Blinn.jpg)
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.J.%20Penn.jpg)
@@ -360,6 +360,7 @@
 * [Bobby Nish](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bobby%20Nish.jpg)
 * [Bobby Schofield](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bobby%20Schofield.jpg)
 * [Bobcat Goldthwait](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bobcat%20Goldthwait.jpg)
+* [Bodhi Rae Breathnach](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bodhi%20Rae%20Breathnach.jpg)
 * [Bojana Novakovic](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bojana%20Novakovic.jpg)
 * [Bojana Novaković](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bojana%20Novakovi%C4%87.jpg)
 * [Bokeem Woodbine](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bokeem%20Woodbine.jpg)
@@ -530,6 +531,7 @@
 * [Bridget Fonda](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bridget%20Fonda.jpg)
 * [Bridget Hoffman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bridget%20Hoffman.jpg)
 * [Bridget Moynahan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bridget%20Moynahan.jpg)
+* [Bridget Regan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bridget%20Regan.jpg)
 * [Brie Larson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brie%20Larson.jpg)
 * [Brighton Sharbino](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brighton%20Sharbino.jpg)
 * [Brigitte Millar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brigitte%20Millar.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - W (232 Images)
+# Kometa People Images - Rainier (rainier) - W (235 Images)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/W.%20Bruce%20Cameron.jpg)
 * [W. Earl Brown](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/W.%20Earl%20Brown.jpg)
@@ -45,6 +45,8 @@
 * [Walton Goggins](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Walton%20Goggins.jpg)
 * [Wanda Sykes](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wanda%20Sykes.jpg)
 * [Wang Bing](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wang%20Bing.jpg)
+* [Wang Churan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wang%20Churan.jpg)
+* [Wang Xingwei](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wang%20Xingwei.jpg)
 * [Wang Xueqi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wang%20Xueqi.jpg)
 * [Ward Bond](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Ward%20Bond.jpg)
 * [Warren Beatty](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Warren%20Beatty.jpg)
@@ -88,6 +90,7 @@
 * [Wesley Kimmel](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wesley%20Kimmel.jpg)
 * [Wesley Snipes](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wesley%20Snipes.jpg)
 * [Whit Bissell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Whit%20Bissell.jpg)
+* [White Sugar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/White%20Sugar.jpg)
 * [Whitney Cummings](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Whitney%20Cummings.jpg)
 * [Whitney Houston](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Whitney%20Houston.jpg)
 * [Whoopi Goldberg](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Whoopi%20Goldberg.jpg)

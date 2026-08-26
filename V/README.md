@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - V (148 Images)
+# Kometa People Images - Rainier (rainier) - V (150 Images)
 
 * [V.J. Foster](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/V.J.%20Foster.jpg)
 * [Vaibhav Sethia](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vaibhav%20Sethia.jpg)
@@ -44,6 +44,7 @@
 * [Vernon Dobtcheff](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vernon%20Dobtcheff.jpg)
 * [Veronica Cartwright](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Veronica%20Cartwright.jpg)
 * [Veronica Falcón](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Veronica%20Falc%C3%B3n.jpg)
+* [Veronika Zhuravleva](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Veronika%20Zhuravleva.jpg)
 * [Veryl Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Veryl%20Jones.jpg)
 * [Verónica Echegui](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Ver%C3%B3nica%20Echegui.jpg)
 * [Vetrimaaran](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vetrimaaran.jpg)
@@ -88,6 +89,7 @@
 * [Vikram](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vikram.jpg)
 * [Vikrant Massey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vikrant%20Massey.jpg)
 * [Vin Diesel](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vin%20Diesel.jpg)
+* [Vina Asiki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vina%20Asiki.jpg)
 * [Vinani Mwazanzale](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vinani%20Mwazanzale.jpg)
 * [Vinay Pathak](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vinay%20Pathak.jpg)
 * [Vince McMahon Sr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vince%20McMahon%20Sr..jpg)
