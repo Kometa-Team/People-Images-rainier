@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - O (124 Images)
+# Kometa People Images - Rainier (rainier) - O (125 Images)
 
 * [O'Shea Jackson Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/O/Images/O%27Shea%20Jackson%20Jr..jpg)
 * [O-T Fagbenle](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/O/Images/O-T%20Fagbenle.jpg)
@@ -109,6 +109,7 @@
 * [Ossie Davis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/O/Images/Ossie%20Davis.jpg)
 * [Osy Ikhile](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/O/Images/Osy%20Ikhile.jpg)
 * [Otar Saralidze](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/O/Images/Otar%20Saralidze.jpg)
+* [Otomo Rena](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/O/Images/Otomo%20Rena.jpg)
 * [Ottaviano Dell'Acqua](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/O/Images/Ottaviano%20Dell%27Acqua.jpg)
 * [Otto Farrant](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/O/Images/Otto%20Farrant.jpg)
 * [Otto Preminger](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/O/Images/Otto%20Preminger.jpg)

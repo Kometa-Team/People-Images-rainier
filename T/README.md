@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - T (642 Images)
+# Kometa People Images - Rainier (rainier) - T (644 Images)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T.%20J.%20Miller.jpg)
 * [T. Love](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T.%20Love.jpg)
@@ -253,6 +253,7 @@
 * [Théodore Pellerin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Th%C3%A9odore%20Pellerin.jpg)
 * [Ti West](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Ti%20West.jpg)
 * [Tian Xiwei](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tian%20Xiwei.jpg)
+* [Tien Niu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tien%20Niu.jpg)
 * [Tiera Skovbye](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tiera%20Skovbye.jpg)
 * [Tiffany Denise Hobbs](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tiffany%20Denise%20Hobbs.jpg)
 * [Tiffany Espensen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tiffany%20Espensen.jpg)
@@ -475,6 +476,7 @@
 * [Tomoyo Kurosawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tomoyo%20Kurosawa.jpg)
 * [Tomoyuki Tanaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tomoyuki%20Tanaka.jpg)
 * [Tone Bell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tone%20Bell.jpg)
+* [Tong Liya](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tong%20Liya.jpg)
 * [Toni Bryce](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Toni%20Bryce.jpg)
 * [Toni Collette](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Toni%20Collette.jpg)
 * [Toni Servillo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Toni%20Servillo.jpg)

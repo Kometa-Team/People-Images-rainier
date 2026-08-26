@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - F (258 Images)
+# Kometa People Images - Rainier (rainier) - F (259 Images)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/F.%20Gary%20Gray.jpg)
 * [F. Murray Abraham](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/F.%20Murray%20Abraham.jpg)
@@ -85,6 +85,7 @@
 * [Fiona Dourif](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fiona%20Dourif.jpg)
 * [Fiona Glascott](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fiona%20Glascott.jpg)
 * [Fiona O'Shaughnessy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fiona%20O%27Shaughnessy.jpg)
+* [Fiona Palomo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fiona%20Palomo.jpg)
 * [Fiona Rene](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fiona%20Rene.jpg)
 * [Fiona Shaw](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fiona%20Shaw.jpg)
 * [Fionnula Flanagan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fionnula%20Flanagan.jpg)

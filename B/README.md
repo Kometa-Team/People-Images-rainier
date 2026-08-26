@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - B (658 Images)
+# Kometa People Images - Rainier (rainier) - B (660 Images)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.F.%20Blinn.jpg)
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.J.%20Penn.jpg)
@@ -17,6 +17,7 @@
 * [Bae Sung-woo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bae%20Sung-woo.jpg)
 * [Bae Suzy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bae%20Suzy.jpg)
 * [Baek Min-hyun](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Baek%20Min-hyun.jpg)
+* [Baek Se-ri](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Baek%20Se-ri.jpg)
 * [Bailee Madison](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bailee%20Madison.jpg)
 * [Baltasar Kormákur](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Baltasar%20Korm%C3%A1kur.jpg)
 * [Bam Margera](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bam%20Margera.jpg)
@@ -518,6 +519,7 @@
 * [Brian Smyj](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brian%20Smyj.jpg)
 * [Brian Steele](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brian%20Steele.jpg)
 * [Brian Taylor](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brian%20Taylor.jpg)
+* [Brian Tee](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brian%20Tee.jpg)
 * [Brian Trenchard-Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brian%20Trenchard-Smith.jpg)
 * [Brian Tyree Henry](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brian%20Tyree%20Henry.jpg)
 * [Brian Van Holt](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brian%20Van%20Holt.jpg)

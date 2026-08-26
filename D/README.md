@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - D (807 Images)
+# Kometa People Images - Rainier (rainier) - D (809 Images)
 
 * [D. A. Pennebaker](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D.%20A.%20Pennebaker.jpg)
 * [D. David Morin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D.%20David%20Morin.jpg)
@@ -596,6 +596,7 @@
 * [Diana García](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Diana%20Garc%C3%ADa.jpg)
 * [Diana Kaarina](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Diana%20Kaarina.jpg)
 * [Diana Lee Inosanto](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Diana%20Lee%20Inosanto.jpg)
+* [Diana Pang Dan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Diana%20Pang%20Dan.jpg)
 * [Diane Guerrero](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Diane%20Guerrero.jpg)
 * [Diane Keaton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Diane%20Keaton.jpg)
 * [Diane Kruger](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Diane%20Kruger.jpg)
@@ -631,6 +632,7 @@
 * [Dina Morrone](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dina%20Morrone.jpg)
 * [Dina Shihabi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dina%20Shihabi.jpg)
 * [Dinesh D'Souza](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dinesh%20D%27Souza.jpg)
+* [Ding Yuxi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Ding%20Yuxi.jpg)
 * [Dino De Laurentiis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dino%20De%20Laurentiis.jpg)
 * [Dino Risi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dino%20Risi.jpg)
 * [Diogo Morgado](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Diogo%20Morgado.jpg)
