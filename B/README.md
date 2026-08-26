@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - B (660 Images)
+# Kometa People Images - Rainier (rainier) - B (661 Images)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.F.%20Blinn.jpg)
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.J.%20Penn.jpg)
@@ -437,6 +437,7 @@
 * [Brenda Blethyn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brenda%20Blethyn.jpg)
 * [Brenda Chapman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brenda%20Chapman.jpg)
 * [Brenda Fricker](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brenda%20Fricker.jpg)
+* [Brenda Strong](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brenda%20Strong.jpg)
 * [Brendan Conroy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brendan%20Conroy.jpg)
 * [Brendan Fraser](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brendan%20Fraser.jpg)
 * [Brendan Gleeson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Brendan%20Gleeson.jpg)

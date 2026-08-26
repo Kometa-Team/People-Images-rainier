@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - A (1087 Images)
+# Kometa People Images - Rainier (rainier) - A (1088 Images)
 
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/A.%20Edward%20Sutherland.jpg)
 * [A. Michael Baldwin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/A.%20Michael%20Baldwin.jpg)
@@ -1016,6 +1016,7 @@
 * [Asier Etxeandia](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Asier%20Etxeandia.jpg)
 * [Asif Ali](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Asif%20Ali.jpg)
 * [Asim Chaudhry](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Asim%20Chaudhry.jpg)
+* [Astrid Lee](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Astrid%20Lee.jpg)
 * [Atanas Srebrev](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Atanas%20Srebrev.jpg)
 * [Atlee Smallman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Atlee%20Smallman.jpg)
 * [Atlee](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Atlee.jpg)
