@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - L (628 Images)
+# Kometa People Images - Rainier (rainier) - L (630 Images)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/L.%20Q.%20Jones.jpg)
 * [L. Scott Caldwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/L.%20Scott%20Caldwell.jpg)
@@ -285,6 +285,7 @@
 * [Leslie Carrara-Rudolph](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Leslie%20Carrara-Rudolph.jpg)
 * [Leslie Dixon](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Leslie%20Dixon.jpg)
 * [Leslie Grossman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Leslie%20Grossman.jpg)
+* [Leslie Hope](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Leslie%20Hope.jpg)
 * [Leslie Howard](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Leslie%20Howard.jpg)
 * [Leslie Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Leslie%20Jones.jpg)
 * [Leslie Mann](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Leslie%20Mann.jpg)
@@ -451,6 +452,7 @@
 * [Lois Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lois%20Smith.jpg)
 * [Lokesh Kanagaraj](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lokesh%20Kanagaraj.jpg)
 * [Lola Forner](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lola%20Forner.jpg)
+* [Lola Petticrew](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lola%20Petticrew.jpg)
 * [Loletta Lee Lai-Chun](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Loletta%20Lee%20Lai-Chun.jpg)
 * [Lombardo Boyar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lombardo%20Boyar.jpg)
 * [Lon Chaney Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lon%20Chaney%20Jr..jpg)

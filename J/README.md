@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - J (1636 Images)
+# Kometa People Images - Rainier (rainier) - J (1637 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -121,6 +121,7 @@
 * [Jacob Tomuri](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jacob%20Tomuri.jpg)
 * [Jacob Tremblay](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jacob%20Tremblay.jpg)
 * [Jacob Vargas](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jacob%20Vargas.jpg)
+* [Jacob Whiteduck-Lavoie](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jacob%20Whiteduck-Lavoie.jpg)
 * [Jacqueline Bassett](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jacqueline%20Bassett.jpg)
 * [Jacqueline Bisset](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jacqueline%20Bisset.jpg)
 * [Jacqueline Ng Suet-Man](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jacqueline%20Ng%20Suet-Man.jpg)

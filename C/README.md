@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - C (871 Images)
+# Kometa People Images - Rainier (rainier) - C (872 Images)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
 * [C. S. Forester](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20S.%20Forester.jpg)
@@ -559,6 +559,7 @@
 * [Christoph Waltz](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christoph%20Waltz.jpg)
 * [Christoph von Friedl](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christoph%20von%20Friedl.jpg)
 * [Christophe Gans](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christophe%20Gans.jpg)
+* [Christopher Abbott](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christopher%20Abbott.jpg)
 * [Christopher Berry](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christopher%20Berry.jpg)
 * [Christopher Connelly](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christopher%20Connelly.jpg)
 * [Christopher Convery](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Christopher%20Convery.jpg)

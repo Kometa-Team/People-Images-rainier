@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - T (672 Images)
+# Kometa People Images - Rainier (rainier) - T (674 Images)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T.%20J.%20Miller.jpg)
 * [T. Love](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T.%20Love.jpg)
@@ -64,6 +64,7 @@
 * [Tan Songyun](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tan%20Songyun.jpg)
 * [Tan Yanyan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tan%20Yanyan.jpg)
 * [Tanezaki Atsumi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tanezaki%20Atsumi.jpg)
+* [Tang Yixin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tang%20Yixin.jpg)
 * [Tania Mallet](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tania%20Mallet.jpg)
 * [Tania Raymonde](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tania%20Raymonde.jpg)
 * [Tania Verafield](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tania%20Verafield.jpg)
@@ -125,6 +126,7 @@
 * [Taylor Tomlinson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Taylor%20Tomlinson.jpg)
 * [Tchéky Karyo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tch%C3%A9ky%20Karyo.jpg)
 * [Te Kohe Tuhaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Te%20Kohe%20Tuhaka.jpg)
+* [Teagan Croft](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Teagan%20Croft.jpg)
 * [Teal Marchande](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Teal%20Marchande.jpg)
 * [Ted Alexandro](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Ted%20Alexandro.jpg)
 * [Ted Billings](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Ted%20Billings.jpg)

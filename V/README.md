@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - V (156 Images)
+# Kometa People Images - Rainier (rainier) - V (157 Images)
 
 * [V.J. Foster](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/V.J.%20Foster.jpg)
 * [Vaibhav Sethia](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vaibhav%20Sethia.jpg)
@@ -17,6 +17,7 @@
 * [Valerie Wildman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Valerie%20Wildman.jpg)
 * [Valerio Aprea](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Valerio%20Aprea.jpg)
 * [Valerio Mastandrea](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Valerio%20Mastandrea.jpg)
+* [Valorie Curry](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Valorie%20Curry.jpg)
 * [Van Quattro](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Van%20Quattro.jpg)
 * [Vance Gerry](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vance%20Gerry.jpg)
 * [Vanessa Aspillaga](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vanessa%20Aspillaga.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - S (1015 Images)
+# Kometa People Images - Rainier (rainier) - S (1017 Images)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20S.%20Rajamouli.jpg)
 * [SUGA](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/SUGA.jpg)
@@ -632,6 +632,7 @@
 * [Sofia Boutella](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sofia%20Boutella.jpg)
 * [Sofia Carson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sofia%20Carson.jpg)
 * [Sofia Coppola](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sofia%20Coppola.jpg)
+* [Sofia Hasmik](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sofia%20Hasmik.jpg)
 * [Sofia Helin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sofia%20Helin.jpg)
 * [Sofia Hublitz](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sofia%20Hublitz.jpg)
 * [Sofia Lesaffre](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sofia%20Lesaffre.jpg)
@@ -855,6 +856,7 @@
 * [Steve Tisch](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Steve%20Tisch.jpg)
 * [Steve Toussaint](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Steve%20Toussaint.jpg)
 * [Steve Trevino](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Steve%20Trevino.jpg)
+* [Steve Way](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Steve%20Way.jpg)
 * [Steve Whitmire](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Steve%20Whitmire.jpg)
 * [Steve Zahn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Steve%20Zahn.jpg)
 * [Steve Zissis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Steve%20Zissis.jpg)
