@@ -6,7 +6,7 @@ on:
 
 concurrency:
   group: readme-${{ github.repository }}
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   Update-Readmes:
@@ -110,3 +110,4 @@ jobs:
           avatar_url: ${{ vars.BOT_IMAGE }}
           author: ${{ vars.GIT_NAME }}
           author_icon_url: ${{ vars.GIT_IMAGE }}
+
