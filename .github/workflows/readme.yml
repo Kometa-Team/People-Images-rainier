@@ -8,6 +8,9 @@ concurrency:
   group: readme-${{ github.repository }}
   cancel-in-progress: true
 
+permissions:
+  contents: write
+
 jobs:
   Update-Readmes:
     runs-on: ubuntu-latest
@@ -51,29 +54,42 @@ jobs:
           head_sha = ref_data["object"]["sha"]
           commit = api(f"/repos/{repo}/git/commits/{head_sha}")
           base_tree = commit["tree"]["sha"]
-          tree_data = api(f"/repos/{repo}/git/trees/{base_tree}?recursive=1")
-          if tree_data.get("truncated"):
-              raise SystemExit("GitHub tree response was truncated; README generation cannot be trusted")
+          root_tree = api(f"/repos/{repo}/git/trees/{base_tree}")
+          if root_tree.get("truncated"):
+              raise SystemExit("GitHub root tree response was truncated; README generation cannot be trusted")
 
-          root = Path("readmeinput")
-          root.mkdir()
+          input_root = Path("readmeinput")
+          input_root.mkdir()
           readmes = {}
           image_count = 0
-          for item in tree_data["tree"]:
-              if item.get("type") != "blob":
+
+          for item in root_tree["tree"]:
+              if item.get("type") == "blob" and item["path"] == "README.md":
+                  readmes["README.md"] = item["sha"]
                   continue
-              path = item["path"]
-              lower = path.lower()
-              if path == "README.md" or path.endswith("/README.md"):
-                  readmes[path] = item["sha"]
-              if "/images/" not in lower:
+              if item.get("type") != "tree":
                   continue
-              if not lower.endswith((".jpg", ".jpeg", ".png")):
-                  continue
-              image_path = root / path
-              image_path.parent.mkdir(parents=True, exist_ok=True)
-              image_path.touch()
-              image_count += 1
+
+              prefix = item["path"]
+              subtree = api(f"/repos/{repo}/git/trees/{item['sha']}?recursive=1")
+              if subtree.get("truncated"):
+                  raise SystemExit(f"GitHub tree response was truncated for {prefix}; README generation cannot be trusted")
+
+              for entry in subtree["tree"]:
+                  if entry.get("type") != "blob":
+                      continue
+                  rel = f"{prefix}/{entry['path']}"
+                  lower = rel.lower()
+                  if rel.endswith("README.md"):
+                      readmes[rel] = entry["sha"]
+                  if "/images/" not in lower:
+                      continue
+                  if not lower.endswith((".jpg", ".jpeg", ".png")):
+                      continue
+                  image_path = input_root / rel
+                  image_path.parent.mkdir(parents=True, exist_ok=True)
+                  image_path.touch()
+                  image_count += 1
 
           Path("readme_manifest.json").write_text(
               json.dumps({"head_sha": head_sha, "base_tree": base_tree, "readmes": readmes}, indent=2),
