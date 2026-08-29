@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - G (446 Images)
+# Kometa People Images - Rainier (rainier) - G (448 Images)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/G-Eazy.jpg)
 * [G. D. Spradlin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/G.%20D.%20Spradlin.jpg)
@@ -36,6 +36,7 @@
 * [Gale Anne Hurd](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gale%20Anne%20Hurd.jpg)
 * [Galen Howard](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Galen%20Howard.jpg)
 * [Galyn Susman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Galyn%20Susman.jpg)
+* [Gan Tingting](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gan%20Tingting.jpg)
 * [Gao Ye](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gao%20Ye.jpg)
 * [Gareth Dunnet-Alcocer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gareth%20Dunnet-Alcocer.jpg)
 * [Gareth Edwards](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gareth%20Edwards.jpg)
@@ -243,6 +244,7 @@
 * [Gilbert R. Hill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gilbert%20R.%20Hill.jpg)
 * [Gill Dennis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gill%20Dennis.jpg)
 * [Gilles Marini](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gilles%20Marini.jpg)
+* [Gilles Sandoz](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gilles%20Sandoz.jpg)
 * [Gillian Anderson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gillian%20Anderson.jpg)
 * [Gillian Jacobs](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gillian%20Jacobs.jpg)
 * [Gillian Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gillian%20Jones.jpg)

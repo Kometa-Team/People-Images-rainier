@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - S (1017 Images)
+# Kometa People Images - Rainier (rainier) - S (1018 Images)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20S.%20Rajamouli.jpg)
 * [SUGA](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/SUGA.jpg)
@@ -924,6 +924,7 @@
 * [Sumeet Vyas](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sumeet%20Vyas.jpg)
 * [Sumi Shimamoto](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sumi%20Shimamoto.jpg)
 * [Sumire Uesaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sumire%20Uesaka.jpg)
+* [Sun Qian](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sun%20Qian.jpg)
 * [Sun Tianyu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sun%20Tianyu.jpg)
 * [Sung Dong-il](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sung%20Dong-il.jpg)
 * [Sung Kang](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sung%20Kang.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - C (872 Images)
+# Kometa People Images - Rainier (rainier) - C (873 Images)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
 * [C. S. Forester](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20S.%20Forester.jpg)
@@ -403,6 +403,7 @@
 * [Chloe Lea](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chloe%20Lea.jpg)
 * [Chloe Pirrie](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chloe%20Pirrie.jpg)
 * [Chloe Van Landschoot](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chloe%20Van%20Landschoot.jpg)
+* [Chloé Sweetlove](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chlo%C3%A9%20Sweetlove.jpg)
 * [Chloé Zhao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chlo%C3%A9%20Zhao.jpg)
 * [Chloë Grace Moretz](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chlo%C3%AB%20Grace%20Moretz.jpg)
 * [Chloë Sevigny](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chlo%C3%AB%20Sevigny.jpg)
