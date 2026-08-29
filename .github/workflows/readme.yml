@@ -2,6 +2,7 @@ name: Update-Readmes
 
 on:
   workflow_dispatch:
+  push:
 
 concurrency:
   group: readme-${{ github.repository }}
@@ -12,6 +13,7 @@ permissions:
 
 jobs:
   Update-Readmes:
+    if: ${{ github.event_name != 'push' || (!contains(github.event.head_commit.message, '[skip readme]') && github.event.head_commit.message != 'Readme Update') }}
     runs-on: ubuntu-latest
     steps:
 
@@ -197,4 +199,5 @@ jobs:
           avatar_url: ${{ vars.BOT_IMAGE }}
           author: ${{ vars.GIT_NAME }}
           author_icon_url: ${{ vars.GIT_IMAGE }}
+
 
