@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - K (697 Images)
+# Kometa People Images - Rainier (rainier) - K (698 Images)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K%20Raghavendra%20Rao.jpg)
 * [K. S. Ravikumar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K.%20S.%20Ravikumar.jpg)
@@ -608,6 +608,7 @@
 * [Koyama Rikiya](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Koyama%20Rikiya.jpg)
 * [Koyasu Takehito](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Koyasu%20Takehito.jpg)
 * [Koyu Rankin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Koyu%20Rankin.jpg)
+* [Kozue Tanaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kozue%20Tanaka.jpg)
 * [Kris Hitchen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kris%20Hitchen.jpg)
 * [Kris Kristofferson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kris%20Kristofferson.jpg)
 * [Kris Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kris%20Marshall.jpg)
