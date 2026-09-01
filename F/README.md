@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - F (268 Images)
+# Kometa People Images - Rainier (rainier) - F (269 Images)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/F.%20Gary%20Gray.jpg)
 * [F. Murray Abraham](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/F.%20Murray%20Abraham.jpg)
@@ -245,6 +245,7 @@
 * [Freddie Highmore](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Freddie%20Highmore.jpg)
 * [Freddie Stroma](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Freddie%20Stroma.jpg)
 * [Frederic Forrest](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Frederic%20Forrest.jpg)
+* [Frederick Burlingham](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Frederick%20Burlingham.jpg)
 * [Frederick Lau](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Frederick%20Lau.jpg)
 * [Frederick Weller](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Frederick%20Weller.jpg)
 * [Frederick Wiseman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Frederick%20Wiseman.jpg)

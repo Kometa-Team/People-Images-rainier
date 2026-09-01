@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - I (167 Images)
+# Kometa People Images - Rainier (rainier) - I (168 Images)
 
 * [I. A. L. Diamond](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/I.%20A.%20L.%20Diamond.jpg)
 * [IU](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/IU.jpg)
@@ -153,6 +153,7 @@
 * [Iuri Saraiva](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Iuri%20Saraiva.jpg)
 * [Iurie Darie](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Iurie%20Darie.jpg)
 * [Ivan Atkinson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Ivan%20Atkinson.jpg)
+* [Ivan Lapikov](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Ivan%20Lapikov.jpg)
 * [Ivan Mbakop](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Ivan%20Mbakop.jpg)
 * [Ivan Rassimov](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Ivan%20Rassimov.jpg)
 * [Ivan Reitman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Ivan%20Reitman.jpg)

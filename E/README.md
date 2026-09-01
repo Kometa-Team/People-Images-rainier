@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - E (489 Images)
+# Kometa People Images - Rainier (rainier) - E (491 Images)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/E.G.%20Marshall.jpg)
 * [E.J. Bonilla](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/E.J.%20Bonilla.jpg)
@@ -168,6 +168,7 @@
 * [Elizabeth Tulloch](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Elizabeth%20Tulloch.jpg)
 * [Elizabeth Wilson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Elizabeth%20Wilson.jpg)
 * [Elizabeth Yu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Elizabeth%20Yu.jpg)
+* [Elizaveta Neretin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Elizaveta%20Neretin.jpg)
 * [Ella Bright](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Ella%20Bright.jpg)
 * [Ella Hunt](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Ella%20Hunt.jpg)
 * [Ella Jay Basco](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Ella%20Jay%20Basco.jpg)
@@ -224,6 +225,7 @@
 * [Emilie de Ravin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Emilie%20de%20Ravin.jpg)
 * [Emilio Echevarría](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Emilio%20Echevarr%C3%ADa.jpg)
 * [Emilio Estevez](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Emilio%20Estevez.jpg)
+* [Emily Alatalo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Emily%20Alatalo.jpg)
 * [Emily Baldoni](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Emily%20Baldoni.jpg)
 * [Emily Beecham](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Emily%20Beecham.jpg)
 * [Emily Bergl](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Emily%20Bergl.jpg)

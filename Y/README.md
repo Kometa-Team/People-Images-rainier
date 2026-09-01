@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - Y (158 Images)
+# Kometa People Images - Rainier (rainier) - Y (159 Images)
 
 * [Y. Ravi Shankar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Y.%20Ravi%20Shankar.jpg)
 * [Yahya Abdul-Mateen II](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yahya%20Abdul-Mateen%20II.jpg)
@@ -24,6 +24,7 @@
 * [Yasujiro Ozu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yasujiro%20Ozu.jpg)
 * [Yasujirō Ozu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yasujir%C5%8D%20Ozu.jpg)
 * [Yasumoto Hiroki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yasumoto%20Hiroki.jpg)
+* [Yasuo Furuhata](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yasuo%20Furuhata.jpg)
 * [Yaya DaCosta](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yaya%20DaCosta.jpg)
 * [Yda Manzano](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yda%20Manzano.jpg)
 * [Yeo Jin-goo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yeo%20Jin-goo.jpg)
