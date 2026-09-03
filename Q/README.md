@@ -1,6 +1,10 @@
-# Kometa People Images - Rainier (rainier) - Q (13 Images)
+# Kometa People Images - Rainier (rainier) - Q (17 Images)
 
+* [Qi Sijun](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Q/Images/Qi%20Sijun.jpg)
 * [Qi Tianqing](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Q/Images/Qi%20Tianqing.jpg)
+* [Qin Hailu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Q/Images/Qin%20Hailu.jpg)
+* [Qin Hao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Q/Images/Qin%20Hao.jpg)
+* [Qin Lan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Q/Images/Qin%20Lan.jpg)
 * [Queen Latifah](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Q/Images/Queen%20Latifah.jpg)
 * [Quentin Dupieux](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Q/Images/Quentin%20Dupieux.jpg)
 * [Quentin Tarantino Movies](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Q/Images/Quentin%20Tarantino%20Movies.jpg)

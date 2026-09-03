@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - U (35 Images)
+# Kometa People Images - Rainier (rainier) - U (36 Images)
 
 * [Uchida Maaya](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Uchida%20Maaya.jpg)
 * [Uchida Yuuma](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Uchida%20Yuuma.jpg)
@@ -32,6 +32,7 @@
 * [Uri Gavriel](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Uri%20Gavriel.jpg)
 * [Ursula Andress](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Ursula%20Andress.jpg)
 * [Uta Erickson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Uta%20Erickson.jpg)
+* [Uta Hagen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Uta%20Hagen.jpg)
 * [Utkarsh Ambudkar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Utkarsh%20Ambudkar.jpg)
 * [Uwe Boll](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Uwe%20Boll.jpg)
 * [Uzo Aduba](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/U/Images/Uzo%20Aduba.jpg)
