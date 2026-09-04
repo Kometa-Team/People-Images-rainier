@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - J (1740 Images)
+# Kometa People Images - Rainier (rainier) - J (1741 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -8,6 +8,7 @@
 * [J. Lee Thompson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J.%20Lee%20Thompson.jpg)
 * [J. Michael Hunter](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J.%20Michael%20Hunter.jpg)
 * [J. Michael Straczynski](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J.%20Michael%20Straczynski.jpg)
+* [J. Miles Dale](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J.%20Miles%20Dale.jpg)
 * [J. Neilson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J.%20Neilson.jpg)
 * [J. Pat O'Malley](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J.%20Pat%20O%27Malley.jpg)
 * [J. R. R. Tolkien](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J.%20R.%20R.%20Tolkien.jpg)

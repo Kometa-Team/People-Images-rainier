@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - D (885 Images)
+# Kometa People Images - Rainier (rainier) - D (887 Images)
 
 * [D'Arcy Carden](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D%27Arcy%20Carden.jpg)
 * [D'Mile](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D%27Mile.jpg)
@@ -389,6 +389,7 @@
 * [David Hornsby](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/David%20Hornsby.jpg)
 * [David Hugh Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/David%20Hugh%20Jones.jpg)
 * [David Hyde Pierce](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/David%20Hyde%20Pierce.jpg)
+* [David Janssen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/David%20Janssen.jpg)
 * [David Jason](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/David%20Jason.jpg)
 * [David Kallaway](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/David%20Kallaway.jpg)
 * [David Kaye](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/David%20Kaye.jpg)
@@ -428,6 +429,7 @@
 * [David Nykl](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/David%20Nykl.jpg)
 * [David O'Hara](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/David%20O%27Hara.jpg)
 * [David O. Russell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/David%20O.%20Russell.jpg)
+* [David O. Selznick](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/David%20O.%20Selznick.jpg)
 * [David Ogden Stiers](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/David%20Ogden%20Stiers.jpg)
 * [David Ondříček](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/David%20Ond%C5%99%C3%AD%C4%8Dek.jpg)
 * [David Otunga](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/David%20Otunga.jpg)

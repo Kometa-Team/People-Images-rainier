@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - C (932 Images)
+# Kometa People Images - Rainier (rainier) - C (934 Images)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
 * [C. S. Forester](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20S.%20Forester.jpg)
@@ -379,6 +379,7 @@
 * [Chen Heyi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chen%20Heyi.jpg)
 * [Chen Hsin-I](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chen%20Hsin-I.jpg)
 * [Chen Kaige](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chen%20Kaige.jpg)
+* [Chen Kuan-Tai](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chen%20Kuan-Tai.jpg)
 * [Chen Kun](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chen%20Kun.jpg)
 * [Chen Xiaoyun](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chen%20Xiaoyun.jpg)
 * [Chen Xingxu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chen%20Xingxu.jpg)
@@ -876,6 +877,7 @@
 * [Courtney Eaton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Courtney%20Eaton.jpg)
 * [Courtney Henggeler](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Courtney%20Henggeler.jpg)
 * [Courtney Lauren Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Courtney%20Lauren%20Penn.jpg)
+* [Courtney Love](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Courtney%20Love.jpg)
 * [Courtney Thorne-Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Courtney%20Thorne-Smith.jpg)
 * [Craig Austin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Craig%20Austin.jpg)
 * [Craig Brewer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Craig%20Brewer.jpg)
