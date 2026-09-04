@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - R (912 Images)
+# Kometa People Images - Rainier (rainier) - R (913 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Lee%20Ermey.jpg)
 * [R. Madhavan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Madhavan.jpg)
@@ -672,6 +672,7 @@
 * [Roland Emmerich](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Roland%20Emmerich.jpg)
 * [Roland Kibbee](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Roland%20Kibbee.jpg)
 * [Roland Møller](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Roland%20M%C3%B8ller.jpg)
+* [Roland Winters](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Roland%20Winters.jpg)
 * [Rolando Boyce](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rolando%20Boyce.jpg)
 * [Rolf Lassgård](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rolf%20Lassg%C3%A5rd.jpg)
 * [Rolf de Heer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rolf%20de%20Heer.jpg)
