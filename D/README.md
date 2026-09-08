@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - D (887 Images)
+# Kometa People Images - Rainier (rainier) - D (889 Images)
 
 * [D'Arcy Carden](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D%27Arcy%20Carden.jpg)
 * [D'Mile](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D%27Mile.jpg)
@@ -547,6 +547,7 @@
 * [Dee Bradley Baker](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dee%20Bradley%20Baker.jpg)
 * [Dee Wallace](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dee%20Wallace.jpg)
 * [Deep Roy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Deep%20Roy.jpg)
+* [Deidre Hall](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Deidre%20Hall.jpg)
 * [Deirdre O'Connell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Deirdre%20O%27Connell.jpg)
 * [Del Close](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Del%20Close.jpg)
 * [Delane Matthews](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Delane%20Matthews.jpg)
@@ -647,6 +648,7 @@
 * [Dhanush](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dhanush.jpg)
 * [Dhanushka Gunathilake](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dhanushka%20Gunathilake.jpg)
 * [Dharmadasa Kuruppu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dharmadasa%20Kuruppu.jpg)
+* [Dharmajan Bolgatty](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dharmajan%20Bolgatty.jpg)
 * [Di Zhu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Di%20Zhu.jpg)
 * [Diana Coupland](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Diana%20Coupland.jpg)
 * [Diana Darrin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Diana%20Darrin.jpg)
