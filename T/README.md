@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - T (729 Images)
+# Kometa People Images - Rainier (rainier) - T (731 Images)
 
 * [T Bone Burnett](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T%20Bone%20Burnett.jpg)
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T.%20J.%20Miller.jpg)
@@ -165,8 +165,10 @@
 * [Teeradon Supapunpinyo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Teeradon%20Supapunpinyo.jpg)
 * [Telly Savalas](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Telly%20Savalas.jpg)
 * [Telma Hopkins](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Telma%20Hopkins.jpg)
+* [Temper Vamsi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Temper%20Vamsi.jpg)
 * [Temuera Morrison](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Temuera%20Morrison.jpg)
 * [Tendo Nagenda](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tendo%20Nagenda.jpg)
+* [Tenika Davis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tenika%20Davis.jpg)
 * [Tennessee Williams](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tennessee%20Williams.jpg)
 * [Tenoch Huerta Mejía](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tenoch%20Huerta%20Mej%C3%ADa.jpg)
 * [Tensai Okamura](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tensai%20Okamura.jpg)

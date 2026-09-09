@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - C (937 Images)
+# Kometa People Images - Rainier (rainier) - C (939 Images)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
 * [C. S. Forester](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20S.%20Forester.jpg)
@@ -461,6 +461,7 @@
 * [Chris Bender](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chris%20Bender.jpg)
 * [Chris Brinker](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chris%20Brinker.jpg)
 * [Chris Buck](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chris%20Buck.jpg)
+* [Chris Caldovino](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chris%20Caldovino.jpg)
 * [Chris Cavener](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chris%20Cavener.jpg)
 * [Chris Chalk](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chris%20Chalk.jpg)
 * [Chris Claremont](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chris%20Claremont.jpg)
@@ -712,6 +713,7 @@
 * [Claude Berri](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Claude%20Berri.jpg)
 * [Claude Chabrol](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Claude%20Chabrol.jpg)
 * [Claude Lelouch](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Claude%20Lelouch.jpg)
+* [Claude Nougaro](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Claude%20Nougaro.jpg)
 * [Claude Poirier](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Claude%20Poirier.jpg)
 * [Claude Sautet](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Claude%20Sautet.jpg)
 * [Claude Starling](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Claude%20Starling.jpg)

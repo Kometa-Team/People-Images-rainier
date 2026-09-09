@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - S (1113 Images)
+# Kometa People Images - Rainier (rainier) - S (1114 Images)
 
 * [S. Epatha Merkerson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20Epatha%20Merkerson.jpg)
 * [S. N. Lakshmi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20N.%20Lakshmi.jpg)
@@ -888,6 +888,7 @@
 * [Stephen Tompkinson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Stephen%20Tompkinson.jpg)
 * [Stephen Ure](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Stephen%20Ure.jpg)
 * [Stephen Williams](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Stephen%20Williams.jpg)
+* [Stephenie McMillan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Stephenie%20McMillan.jpg)
 * [Stephenie Meyer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Stephenie%20Meyer.jpg)
 * [Sterling Hayden](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sterling%20Hayden.jpg)
 * [Sterling Holloway](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sterling%20Holloway.jpg)

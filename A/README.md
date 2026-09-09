@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - A (1248 Images)
+# Kometa People Images - Rainier (rainier) - A (1250 Images)
 
 * [A Martinez](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/A%20Martinez.jpg)
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/A.%20Edward%20Sutherland.jpg)
@@ -347,6 +347,7 @@
 * [Alejandro Jodorowsky](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alejandro%20Jodorowsky.jpg)
 * [Aleks Paunovic](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aleks%20Paunovic.jpg)
 * [Aleksandr Kuznetsov](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aleksandr%20Kuznetsov.jpg)
+* [Aleksandr Rogozhkin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aleksandr%20Rogozhkin.jpg)
 * [Aleksey Serebryakov](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aleksey%20Serebryakov.jpg)
 * [Aleksey Sharanin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aleksey%20Sharanin.jpg)
 * [Alena Mihulová](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alena%20Mihulov%C3%A1.jpg)
@@ -1106,6 +1107,7 @@
 * [Arthur Tovey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Arthur%20Tovey.jpg)
 * [Artie Lange](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Artie%20Lange.jpg)
 * [Artur Brauner](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Artur%20Brauner.jpg)
+* [Arturo Brachetti](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Arturo%20Brachetti.jpg)
 * [Arturo Castro](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Arturo%20Castro.jpg)
 * [Arturo Dominici](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Arturo%20Dominici.jpg)
 * [Arturo Valls](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Arturo%20Valls.jpg)

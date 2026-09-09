@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - J (1744 Images)
+# Kometa People Images - Rainier (rainier) - J (1745 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -210,6 +210,7 @@
 * [James Dean](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/James%20Dean.jpg)
 * [James Denton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/James%20Denton.jpg)
 * [James Doohan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/James%20Doohan.jpg)
+* [James Drury](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/James%20Drury.jpg)
 * [James Earl Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/James%20Earl%20Jones.jpg)
 * [James Edward Grant](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/James%20Edward%20Grant.jpg)
 * [James Faulkner](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/James%20Faulkner.jpg)
