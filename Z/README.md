@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - Z (99 Images)
+# Kometa People Images - Rainier (rainier) - Z (100 Images)
 
 * [Zac Efron](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Z/Images/Zac%20Efron.jpg)
 * [Zach Baylin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Z/Images/Zach%20Baylin.jpg)
@@ -89,6 +89,7 @@
 * [Zoe Saldana](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Z/Images/Zoe%20Saldana.jpg)
 * [Zoe Saldaña](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Z/Images/Zoe%20Salda%C3%B1a.jpg)
 * [Zoey Deutch](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Z/Images/Zoey%20Deutch.jpg)
+* [Zoie Palmer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Z/Images/Zoie%20Palmer.jpg)
 * [Zola Williams](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Z/Images/Zola%20Williams.jpg)
 * [Zoltan Korda](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Z/Images/Zoltan%20Korda.jpg)
 * [Zooey Deschanel](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Z/Images/Zooey%20Deschanel.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - Y (197 Images)
+# Kometa People Images - Rainier (rainier) - Y (199 Images)
 
 * [Y. Ravi Shankar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Y.%20Ravi%20Shankar.jpg)
 * [Y. Vijaya](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Y.%20Vijaya.jpg)
@@ -52,6 +52,7 @@
 * [Yogi Babu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yogi%20Babu.jpg)
 * [Yoji Tanaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yoji%20Tanaka.jpg)
 * [Yoji Yamada](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yoji%20Yamada.jpg)
+* [Yoko Fujita](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yoko%20Fujita.jpg)
 * [Yoko Hikasa](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yoko%20Hikasa.jpg)
 * [Yoko Honna](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yoko%20Honna.jpg)
 * [Yoko Kawanami](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yoko%20Kawanami.jpg)
@@ -136,6 +137,7 @@
 * [Yuki Kazamatsuri](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yuki%20Kazamatsuri.jpg)
 * [Yuki Mamiya](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yuki%20Mamiya.jpg)
 * [Yuki Ono](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yuki%20Ono.jpg)
+* [Yuki Sakurai](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yuki%20Sakurai.jpg)
 * [Yuki Uchida](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yuki%20Uchida.jpg)
 * [Yukie Nakama](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yukie%20Nakama.jpg)
 * [Yuko Araki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yuko%20Araki.jpg)

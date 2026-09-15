@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - K (768 Images)
+# Kometa People Images - Rainier (rainier) - K (770 Images)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K%20Raghavendra%20Rao.jpg)
 * [K. S. Ravikumar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K.%20S.%20Ravikumar.jpg)
@@ -217,6 +217,7 @@
 * [Katsuhiro Otomo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Katsuhiro%20Otomo.jpg)
 * [Katsuhiro Takei](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Katsuhiro%20Takei.jpg)
 * [Katsuhisa Houki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Katsuhisa%20Houki.jpg)
+* [Katsuyori Shibata](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Katsuyori%20Shibata.jpg)
 * [Katsuyuki Konishi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Katsuyuki%20Konishi.jpg)
 * [Katt Williams](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Katt%20Williams.jpg)
 * [Katy Breier](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Katy%20Breier.jpg)
@@ -747,6 +748,7 @@
 * [Kyle Bornheimer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kyle%20Bornheimer.jpg)
 * [Kyle Cassie](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kyle%20Cassie.jpg)
 * [Kyle Chandler](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kyle%20Chandler.jpg)
+* [Kyle Clark](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kyle%20Clark.jpg)
 * [Kyle Gallner](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kyle%20Gallner.jpg)
 * [Kyle Gass](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kyle%20Gass.jpg)
 * [Kyle Glenn Thomas](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kyle%20Glenn%20Thomas.jpg)

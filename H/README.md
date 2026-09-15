@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - H (419 Images)
+# Kometa People Images - Rainier (rainier) - H (421 Images)
 
 * [H. C. Potter](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/H.%20C.%20Potter.jpg)
 * [H. G. Wells](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/H.%20G.%20Wells.jpg)
@@ -117,6 +117,7 @@
 * [Harry Earles](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Harry%20Earles.jpg)
 * [Harry Enfield](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Harry%20Enfield.jpg)
 * [Harry Goaz](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Harry%20Goaz.jpg)
+* [Harry Goodwins](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Harry%20Goodwins.jpg)
 * [Harry Gregson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Harry%20Gregson.jpg)
 * [Harry Hadden-Paton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Harry%20Hadden-Paton.jpg)
 * [Harry Holland](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Harry%20Holland.jpg)
@@ -372,6 +373,7 @@
 * [Hoyte van Hoytema](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hoyte%20van%20Hoytema.jpg)
 * [Hrithik Roshan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hrithik%20Roshan.jpg)
 * [Hu Jun](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hu%20Jun.jpg)
+* [Hu Xianxu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hu%20Xianxu.jpg)
 * [Hu Yaozhi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hu%20Yaozhi.jpg)
 * [Hu Yitian](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hu%20Yitian.jpg)
 * [Hualālai Chung](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hual%C4%81lai%20Chung.jpg)

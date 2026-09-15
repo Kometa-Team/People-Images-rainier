@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - E (531 Images)
+# Kometa People Images - Rainier (rainier) - E (533 Images)
 
 * [E. G. Daily](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/E.%20G.%20Daily.jpg)
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/E.G.%20Marshall.jpg)
@@ -166,6 +166,7 @@
 * [Elizabeth Gracen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Elizabeth%20Gracen.jpg)
 * [Elizabeth Gwynne Wilson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Elizabeth%20Gwynne%20Wilson.jpg)
 * [Elizabeth Healey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Elizabeth%20Healey.jpg)
+* [Elizabeth Holmes](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Elizabeth%20Holmes.jpg)
 * [Elizabeth Hurley](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Elizabeth%20Hurley.jpg)
 * [Elizabeth Judd](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Elizabeth%20Judd.jpg)
 * [Elizabeth Lail](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Elizabeth%20Lail.jpg)
@@ -176,6 +177,7 @@
 * [Elizabeth Mitchell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Elizabeth%20Mitchell.jpg)
 * [Elizabeth Olsen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Elizabeth%20Olsen.jpg)
 * [Elizabeth Pan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Elizabeth%20Pan.jpg)
+* [Elizabeth Patterson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Elizabeth%20Patterson.jpg)
 * [Elizabeth Perkins](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Elizabeth%20Perkins.jpg)
 * [Elizabeth Regen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Elizabeth%20Regen.jpg)
 * [Elizabeth Rodriguez](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Elizabeth%20Rodriguez.jpg)

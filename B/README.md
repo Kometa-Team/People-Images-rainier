@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - B (725 Images)
+# Kometa People Images - Rainier (rainier) - B (727 Images)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.F.%20Blinn.jpg)
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.J.%20Penn.jpg)
@@ -274,6 +274,7 @@
 * [Bill Johnson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bill%20Johnson.jpg)
 * [Bill Kelly](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bill%20Kelly.jpg)
 * [Bill Kopp](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bill%20Kopp.jpg)
+* [Bill Kurtis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bill%20Kurtis.jpg)
 * [Bill Macy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bill%20Macy.jpg)
 * [Bill Maher](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bill%20Maher.jpg)
 * [Bill Melendez](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bill%20Melendez.jpg)
@@ -329,6 +330,7 @@
 * [Billy Zane](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Billy%20Zane.jpg)
 * [Bing Crosby](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bing%20Crosby.jpg)
 * [Bing Wang](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bing%20Wang.jpg)
+* [Binnie Barnes](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Binnie%20Barnes.jpg)
 * [Binnur Kaya](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Binnur%20Kaya.jpg)
 * [Birce Akalay](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Birce%20Akalay.jpg)
 * [Birgit Minichmayr](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Birgit%20Minichmayr.jpg)

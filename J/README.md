@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - J (1745 Images)
+# Kometa People Images - Rainier (rainier) - J (1747 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -382,6 +382,7 @@
 * [Jarod Joseph](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jarod%20Joseph.jpg)
 * [Jarred Blancard](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jarred%20Blancard.jpg)
 * [Jasmin Lawrence](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jasmin%20Lawrence.jpg)
+* [Jasmine Blackborow](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jasmine%20Blackborow.jpg)
 * [Jasmine Cephas Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jasmine%20Cephas%20Jones.jpg)
 * [Jasmine Trinca](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jasmine%20Trinca.jpg)
 * [Jasmyn Rae](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jasmyn%20Rae.jpg)
@@ -1124,6 +1125,7 @@
 * [John Fusco](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/John%20Fusco.jpg)
 * [John G. Avildsen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/John%20G.%20Avildsen.jpg)
 * [John Gallagher Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/John%20Gallagher%20Jr..jpg)
+* [John Galliano](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/John%20Galliano.jpg)
 * [John Gatins](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/John%20Gatins.jpg)
 * [John Gay](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/John%20Gay.jpg)
 * [John George](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/John%20George.jpg)

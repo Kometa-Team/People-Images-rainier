@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - D (892 Images)
+# Kometa People Images - Rainier (rainier) - D (893 Images)
 
 * [D'Arcy Carden](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D%27Arcy%20Carden.jpg)
 * [D'Mile](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D%27Mile.jpg)
@@ -153,6 +153,7 @@
 * [Daniel Gerson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Daniel%20Gerson.jpg)
 * [Daniel Grao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Daniel%20Grao.jpg)
 * [Daniel Henney](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Daniel%20Henney.jpg)
+* [Daniel Ings](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Daniel%20Ings.jpg)
 * [Daniel Kaluuya](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Daniel%20Kaluuya.jpg)
 * [Daniel Kash](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Daniel%20Kash.jpg)
 * [Daniel Kehlmann](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Daniel%20Kehlmann.jpg)

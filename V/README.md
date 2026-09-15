@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - V (174 Images)
+# Kometa People Images - Rainier (rainier) - V (175 Images)
 
 * [V.J. Foster](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/V.J.%20Foster.jpg)
 * [Vadivelu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vadivelu.jpg)
@@ -85,6 +85,7 @@
 * [Victoria Justice](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Victoria%20Justice.jpg)
 * [Victoria Luengo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Victoria%20Luengo.jpg)
 * [Victoria Pedretti](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Victoria%20Pedretti.jpg)
+* [Victoria Song](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Victoria%20Song.jpg)
 * [Victoria Yeates](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Victoria%20Yeates.jpg)
 * [Vidhu Vinod Chopra](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vidhu%20Vinod%20Chopra.jpg)
 * [Vidya Balan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vidya%20Balan.jpg)

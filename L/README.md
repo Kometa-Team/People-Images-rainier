@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - L (693 Images)
+# Kometa People Images - Rainier (rainier) - L (695 Images)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/L.%20Q.%20Jones.jpg)
 * [L. Scott Caldwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/L.%20Scott%20Caldwell.jpg)
@@ -39,6 +39,7 @@
 * [Lance E. Nichols](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lance%20E.%20Nichols.jpg)
 * [Lance Gross](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lance%20Gross.jpg)
 * [Lance Henriksen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lance%20Henriksen.jpg)
+* [Lance Oppenheim](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lance%20Oppenheim.jpg)
 * [Lance Reddick](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lance%20Reddick.jpg)
 * [Lance Woods](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lance%20Woods.jpg)
 * [Lane Edwards](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lane%20Edwards.jpg)
@@ -579,6 +580,7 @@
 * [Lowell Dean](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lowell%20Dean.jpg)
 * [Lowell Ganz](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lowell%20Ganz.jpg)
 * [Loyiso Gola](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Loyiso%20Gola.jpg)
+* [Loïc Corbery](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lo%C3%AFc%20Corbery.jpg)
 * [Lu Han](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lu%20Han.jpg)
 * [Lu Wei](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lu%20Wei.jpg)
 * [Lu Yuxiao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lu%20Yuxiao.jpg)

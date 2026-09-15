@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - F (284 Images)
+# Kometa People Images - Rainier (rainier) - F (285 Images)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/F.%20Gary%20Gray.jpg)
 * [F. Murray Abraham](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/F.%20Murray%20Abraham.jpg)
@@ -139,6 +139,7 @@
 * [Frances Turner](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Frances%20Turner.jpg)
 * [Frances de la Tour](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Frances%20de%20la%20Tour.jpg)
 * [Francesca Xuereb](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Francesca%20Xuereb.jpg)
+* [Francesco Anniballi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Francesco%20Anniballi.jpg)
 * [Francesco Barilli](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Francesco%20Barilli.jpg)
 * [Francesco Bauco](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Francesco%20Bauco.jpg)
 * [Francesco Munzi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Francesco%20Munzi.jpg)
