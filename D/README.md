@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - D (893 Images)
+# Kometa People Images - Rainier (rainier) - D (894 Images)
 
 * [D'Arcy Carden](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D%27Arcy%20Carden.jpg)
 * [D'Mile](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D%27Mile.jpg)
@@ -207,6 +207,7 @@
 * [Danielle Rose Russell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Danielle%20Rose%20Russell.jpg)
 * [Danielle Sanchez-Witzel](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Danielle%20Sanchez-Witzel.jpg)
 * [Danielle Tabor](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Danielle%20Tabor.jpg)
+* [Danila Kozlovsky](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Danila%20Kozlovsky.jpg)
 * [Danishka Esterhazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Danishka%20Esterhazy.jpg)
 * [Danièle Huillet](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dani%C3%A8le%20Huillet.jpg)
 * [Danny Aiello](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Danny%20Aiello.jpg)

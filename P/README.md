@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - P (581 Images)
+# Kometa People Images - Rainier (rainier) - P (582 Images)
 
 * [P. D. James](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/P.%20D.%20James.jpg)
 * [P.H. Moriarty](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/P.H.%20Moriarty.jpg)
@@ -518,6 +518,7 @@
 * [Pierre Taki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Pierre%20Taki.jpg)
 * [Pierre Tchernia](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Pierre%20Tchernia.jpg)
 * [Pierre Tornade](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Pierre%20Tornade.jpg)
+* [Pierre Vaneck](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Pierre%20Vaneck.jpg)
 * [Piers Morgan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Piers%20Morgan.jpg)
 * [Pietro De Silva](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Pietro%20De%20Silva.jpg)
 * [Pilar Savone](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Pilar%20Savone.jpg)

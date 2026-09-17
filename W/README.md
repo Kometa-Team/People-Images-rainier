@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - W (265 Images)
+# Kometa People Images - Rainier (rainier) - W (266 Images)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/W.%20Bruce%20Cameron.jpg)
 * [W. Earl Brown](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/W.%20Earl%20Brown.jpg)
@@ -203,6 +203,7 @@
 * [William Mueller](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20Mueller.jpg)
 * [William Nadylam](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20Nadylam.jpg)
 * [William Nicholson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20Nicholson.jpg)
+* [William Powell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20Powell.jpg)
 * [William Roberts](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20Roberts.jpg)
 * [William Rose](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20Rose.jpg)
 * [William Russ](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/William%20Russ.jpg)

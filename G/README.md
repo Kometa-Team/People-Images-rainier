@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - G (480 Images)
+# Kometa People Images - Rainier (rainier) - G (481 Images)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/G-Eazy.jpg)
 * [G. D. Spradlin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/G.%20D.%20Spradlin.jpg)
@@ -7,6 +7,7 @@
 * [Gabourey Sidibe](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gabourey%20Sidibe.jpg)
 * [Gabriel Akuwudike](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gabriel%20Akuwudike.jpg)
 * [Gabriel Basso](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gabriel%20Basso.jpg)
+* [Gabriel Beristain](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gabriel%20Beristain.jpg)
 * [Gabriel Byrne](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gabriel%20Byrne.jpg)
 * [Gabriel Casseus](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gabriel%20Casseus.jpg)
 * [Gabriel Chavarria](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gabriel%20Chavarria.jpg)

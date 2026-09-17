@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - F (285 Images)
+# Kometa People Images - Rainier (rainier) - F (286 Images)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/F.%20Gary%20Gray.jpg)
 * [F. Murray Abraham](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/F.%20Murray%20Abraham.jpg)
@@ -189,6 +189,7 @@
 * [Frank Lloyd Wright](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Frank%20Lloyd%20Wright.jpg)
 * [Frank Lloyd de Guzman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Frank%20Lloyd%20de%20Guzman.jpg)
 * [Frank Lloyd](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Frank%20Lloyd.jpg)
+* [Frank Lovejoy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Frank%20Lovejoy.jpg)
 * [Frank Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Frank%20Marshall.jpg)
 * [Frank McLure](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Frank%20McLure.jpg)
 * [Frank McRae](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Frank%20McRae.jpg)

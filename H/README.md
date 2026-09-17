@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - H (421 Images)
+# Kometa People Images - Rainier (rainier) - H (422 Images)
 
 * [H. C. Potter](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/H.%20C.%20Potter.jpg)
 * [H. G. Wells](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/H.%20G.%20Wells.jpg)
@@ -345,6 +345,7 @@
 * [Honor Blackman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Honor%20Blackman.jpg)
 * [Honor Kneafsey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Honor%20Kneafsey.jpg)
 * [Hoon Lee](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hoon%20Lee.jpg)
+* [Hope Clarke](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hope%20Clarke.jpg)
 * [Hope Davis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hope%20Davis.jpg)
 * [Hope Easterbrook](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hope%20Easterbrook.jpg)
 * [Hope Levy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hope%20Levy.jpg)
