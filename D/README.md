@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - D (894 Images)
+# Kometa People Images - Rainier (rainier) - D (895 Images)
 
 * [D'Arcy Carden](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D%27Arcy%20Carden.jpg)
 * [D'Mile](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D%27Mile.jpg)
@@ -496,6 +496,7 @@
 * [Dawn Dininger](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dawn%20Dininger.jpg)
 * [Dawn French](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dawn%20French.jpg)
 * [Dawn Olivieri](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dawn%20Olivieri.jpg)
+* [Dawn Wells](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dawn%20Wells.jpg)
 * [Dawnn Lewis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dawnn%20Lewis.jpg)
 * [Daws Butler](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Daws%20Butler.jpg)
 * [Dax Flame](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dax%20Flame.jpg)

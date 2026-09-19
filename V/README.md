@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - V (175 Images)
+# Kometa People Images - Rainier (rainier) - V (177 Images)
 
 * [V.J. Foster](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/V.J.%20Foster.jpg)
 * [Vadivelu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vadivelu.jpg)
@@ -48,6 +48,7 @@
 * [Vera Farmiga](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vera%20Farmiga.jpg)
 * [Vera Glagoleva](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vera%20Glagoleva.jpg)
 * [Vera Vitali](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vera%20Vitali.jpg)
+* [Vera-Ellen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vera-Ellen.jpg)
 * [Verne Troyer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Verne%20Troyer.jpg)
 * [Vernon Dobtcheff](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vernon%20Dobtcheff.jpg)
 * [Veronica Cartwright](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Veronica%20Cartwright.jpg)
@@ -111,6 +112,7 @@
 * [Vince Vaughn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vince%20Vaughn.jpg)
 * [Vincent Cao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vincent%20Cao.jpg)
 * [Vincent Cassel](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vincent%20Cassel.jpg)
+* [Vincent Chansard](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vincent%20Chansard.jpg)
 * [Vincent Curatola](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vincent%20Curatola.jpg)
 * [Vincent D'Onofrio](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vincent%20D%27Onofrio.jpg)
 * [Vincent Fuentes](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vincent%20Fuentes.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - S (1120 Images)
+# Kometa People Images - Rainier (rainier) - S (1122 Images)
 
 * [S. Epatha Merkerson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20Epatha%20Merkerson.jpg)
 * [S. N. Lakshmi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20N.%20Lakshmi.jpg)
@@ -119,6 +119,7 @@
 * [Sammi Rotibi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sammi%20Rotibi.jpg)
 * [Sammo Hung Kam-Bo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sammo%20Hung%20Kam-Bo.jpg)
 * [Sammo Hung](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sammo%20Hung.jpg)
+* [Sammy Davis Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sammy%20Davis%20Jr..jpg)
 * [Samuel Adewunmi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Samuel%20Adewunmi.jpg)
 * [Samuel Anderson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Samuel%20Anderson.jpg)
 * [Samuel Blenkin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Samuel%20Blenkin.jpg)
@@ -623,6 +624,7 @@
 * [Sierra McClain](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sierra%20McClain.jpg)
 * [Sierra McCormick](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sierra%20McCormick.jpg)
 * [Sigourney Weaver](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sigourney%20Weaver.jpg)
+* [Sigrid Valdis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sigrid%20Valdis.jpg)
 * [Silambarasan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Silambarasan.jpg)
 * [Silas Carson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Silas%20Carson.jpg)
 * [Silence Wang](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Silence%20Wang.jpg)
