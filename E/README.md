@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - E (534 Images)
+# Kometa People Images - Rainier (rainier) - E (535 Images)
 
 * [E. G. Daily](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/E.%20G.%20Daily.jpg)
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/E.G.%20Marshall.jpg)
@@ -187,6 +187,7 @@
 * [Elizabeth Wilson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Elizabeth%20Wilson.jpg)
 * [Elizabeth Yu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Elizabeth%20Yu.jpg)
 * [Elizaveta Neretin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Elizaveta%20Neretin.jpg)
+* [Ella Beatty](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Ella%20Beatty.jpg)
 * [Ella Bright](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Ella%20Bright.jpg)
 * [Ella Hunt](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Ella%20Hunt.jpg)
 * [Ella Jay Basco](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Ella%20Jay%20Basco.jpg)

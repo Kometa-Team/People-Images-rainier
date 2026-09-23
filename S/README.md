@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - S (1122 Images)
+# Kometa People Images - Rainier (rainier) - S (1123 Images)
 
 * [S. Epatha Merkerson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20Epatha%20Merkerson.jpg)
 * [S. N. Lakshmi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20N.%20Lakshmi.jpg)
@@ -588,6 +588,7 @@
 * [Shree Troietta Crooks](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shree%20Troietta%20Crooks.jpg)
 * [Shriya Pilgaonkar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shriya%20Pilgaonkar.jpg)
 * [Shu Qi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shu%20Qi.jpg)
+* [Shuichi Ikeda](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shuichi%20Ikeda.jpg)
 * [Shuichi Okita](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shuichi%20Okita.jpg)
 * [Shuko Murase](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shuko%20Murase.jpg)
 * [Shun Oguri](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shun%20Oguri.jpg)

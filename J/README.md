@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - J (1751 Images)
+# Kometa People Images - Rainier (rainier) - J (1753 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -371,6 +371,7 @@
 * [Janina Faye](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Janina%20Faye.jpg)
 * [Jansen Panettiere](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jansen%20Panettiere.jpg)
 * [January Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/January%20Jones.jpg)
+* [Januel Mercado](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Januel%20Mercado.jpg)
 * [Jarand Herdal](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jarand%20Herdal.jpg)
 * [Jared Bush](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jared%20Bush.jpg)
 * [Jared Harris](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jared%20Harris.jpg)
@@ -763,6 +764,7 @@
 * [Jesse V. Johnson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jesse%20V.%20Johnson.jpg)
 * [Jesse White](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jesse%20White.jpg)
 * [Jessica Alba](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jessica%20Alba.jpg)
+* [Jessica Barden](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jessica%20Barden.jpg)
 * [Jessica Biel](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jessica%20Biel.jpg)
 * [Jessica Brown Findlay](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jessica%20Brown%20Findlay.jpg)
 * [Jessica Camacho](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jessica%20Camacho.jpg)

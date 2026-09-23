@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - O (147 Images)
+# Kometa People Images - Rainier (rainier) - O (148 Images)
 
 * [O'Shea Jackson Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/O/Images/O%27Shea%20Jackson%20Jr..jpg)
 * [O-T Fagbenle](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/O/Images/O-T%20Fagbenle.jpg)
@@ -15,6 +15,7 @@
 * [Oh Eui-sik](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/O/Images/Oh%20Eui-sik.jpg)
 * [Oh Joo-ha](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/O/Images/Oh%20Joo-ha.jpg)
 * [Oh Jung-hae](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/O/Images/Oh%20Jung-hae.jpg)
+* [Oh Jung-se](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/O/Images/Oh%20Jung-se.jpg)
 * [Oh Man-seok](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/O/Images/Oh%20Man-seok.jpg)
 * [Oh Na-ra](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/O/Images/Oh%20Na-ra.jpg)
 * [Oh San-ha](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/O/Images/Oh%20San-ha.jpg)
