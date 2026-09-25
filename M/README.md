@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - M (1414 Images)
+# Kometa People Images - Rainier (rainier) - M (1415 Images)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
 * [M. Emmet Walsh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/M.%20Emmet%20Walsh.jpg)
@@ -1216,6 +1216,7 @@
 * [Miki Nagasawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Miki%20Nagasawa.jpg)
 * [Miki Shin`ichirou](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Miki%20Shin%60ichirou.jpg)
 * [Miki Takakura](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Miki%20Takakura.jpg)
+* [Miki Yoshii](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Miki%20Yoshii.jpg)
 * [Mikio Naruse](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Mikio%20Naruse.jpg)
 * [Mikio Osawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Mikio%20Osawa.jpg)
 * [Mikkel Boe Følsgaard](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Mikkel%20Boe%20F%C3%B8lsgaard.jpg)

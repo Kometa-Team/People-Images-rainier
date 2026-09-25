@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - R (922 Images)
+# Kometa People Images - Rainier (rainier) - R (923 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Lee%20Ermey.jpg)
 * [R. Madhavan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Madhavan.jpg)
@@ -356,6 +356,7 @@
 * [Richard Moll](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Richard%20Moll.jpg)
 * [Richard N. Gladstein](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Richard%20N.%20Gladstein.jpg)
 * [Richard Ng Man-Tat](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Richard%20Ng%20Man-Tat.jpg)
+* [Richard Ng Yiu-Hon](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Richard%20Ng%20Yiu-Hon.jpg)
 * [Richard Nixon](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Richard%20Nixon.jpg)
 * [Richard O'Brien](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Richard%20O%27Brien.jpg)
 * [Richard Portnow](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Richard%20Portnow.jpg)
