@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - R (923 Images)
+# Kometa People Images - Rainier (rainier) - R (924 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Lee%20Ermey.jpg)
 * [R. Madhavan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Madhavan.jpg)
@@ -234,6 +234,7 @@
 * [Rena Takeda](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rena%20Takeda.jpg)
 * [Renate Reinsve](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Renate%20Reinsve.jpg)
 * [Renato Carpentieri](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Renato%20Carpentieri.jpg)
+* [Renato Castellani](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Renato%20Castellani.jpg)
 * [Renato Polselli](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Renato%20Polselli.jpg)
 * [Renato Rascel](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Renato%20Rascel.jpg)
 * [Renato Salvatori](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Renato%20Salvatori.jpg)

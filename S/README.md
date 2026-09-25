@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - S (1125 Images)
+# Kometa People Images - Rainier (rainier) - S (1126 Images)
 
 * [S. Epatha Merkerson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20Epatha%20Merkerson.jpg)
 * [S. N. Lakshmi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20N.%20Lakshmi.jpg)
@@ -480,6 +480,7 @@
 * [Sharon Osbourne](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sharon%20Osbourne.jpg)
 * [Sharon Stone](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sharon%20Stone.jpg)
 * [Sharon Washington](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sharon%20Washington.jpg)
+* [Shashank Yeleti](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shashank%20Yeleti.jpg)
 * [Shathiga](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shathiga.jpg)
 * [Shaun Benson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shaun%20Benson.jpg)
 * [Shaun McKee](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shaun%20McKee.jpg)
