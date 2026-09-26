@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - A (1257 Images)
+# Kometa People Images - Rainier (rainier) - A (1258 Images)
 
 * [A Martinez](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/A%20Martinez.jpg)
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/A.%20Edward%20Sutherland.jpg)
@@ -598,6 +598,7 @@
 * [Amber Stevens West](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Amber%20Stevens%20West.jpg)
 * [Amber Tamblyn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Amber%20Tamblyn.jpg)
 * [Ambika Mohan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Ambika%20Mohan.jpg)
+* [Ambika](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Ambika.jpg)
 * [Ambra Angiolini](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Ambra%20Angiolini.jpg)
 * [Ameenah Kaplan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Ameenah%20Kaplan.jpg)
 * [Amelia Bullmore](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Amelia%20Bullmore.jpg)
