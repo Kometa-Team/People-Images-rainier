@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - H (424 Images)
+# Kometa People Images - Rainier (rainier) - H (425 Images)
 
 * [H. C. Potter](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/H.%20C.%20Potter.jpg)
 * [H. G. Wells](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/H.%20G.%20Wells.jpg)
@@ -266,6 +266,7 @@
 * [Hichem Yacoubi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hichem%20Yacoubi.jpg)
 * [Hidaka Rina](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hidaka%20Rina.jpg)
 * [Hideaki Anno](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hideaki%20Anno.jpg)
+* [Hideko Takamine](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hideko%20Takamine.jpg)
 * [Hidenobu Kiuchi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hidenobu%20Kiuchi.jpg)
 * [Hideo Nakata](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hideo%20Nakata.jpg)
 * [Hideo Oguni](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hideo%20Oguni.jpg)

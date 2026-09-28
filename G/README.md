@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - G (483 Images)
+# Kometa People Images - Rainier (rainier) - G (484 Images)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/G-Eazy.jpg)
 * [G. D. Spradlin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/G.%20D.%20Spradlin.jpg)
@@ -336,6 +336,7 @@
 * [Goldie Hawn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Goldie%20Hawn.jpg)
 * [Golshifteh Farahani](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Golshifteh%20Farahani.jpg)
 * [Gong Li](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gong%20Li.jpg)
+* [Gong Xuehua](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gong%20Xuehua.jpg)
 * [Gong Yoo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gong%20Yoo.jpg)
 * [Goo Ga-Lau](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Goo%20Ga-Lau.jpg)
 * [Googie Withers](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Googie%20Withers.jpg)

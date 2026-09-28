@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - M (1416 Images)
+# Kometa People Images - Rainier (rainier) - M (1418 Images)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
 * [M. Emmet Walsh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/M.%20Emmet%20Walsh.jpg)
@@ -536,6 +536,7 @@
 * [Masami Nagasawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Masami%20Nagasawa.jpg)
 * [Masamune Shirow](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Masamune%20Shirow.jpg)
 * [Masanobu Ando](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Masanobu%20Ando.jpg)
+* [Masao Maruyama](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Masao%20Maruyama.jpg)
 * [Masashi Ando](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Masashi%20Ando.jpg)
 * [Masashi Kishimoto](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Masashi%20Kishimoto.jpg)
 * [Masataka Kubota](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Masataka%20Kubota.jpg)
@@ -1215,6 +1216,7 @@
 * [Miki Manojlović](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Miki%20Manojlovi%C4%87.jpg)
 * [Miki Mizuno](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Miki%20Mizuno.jpg)
 * [Miki Nagasawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Miki%20Nagasawa.jpg)
+* [Miki Odagiri](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Miki%20Odagiri.jpg)
 * [Miki Shin`ichirou](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Miki%20Shin%60ichirou.jpg)
 * [Miki Takakura](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Miki%20Takakura.jpg)
 * [Miki Yoshii](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Miki%20Yoshii.jpg)

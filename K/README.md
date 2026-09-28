@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - K (772 Images)
+# Kometa People Images - Rainier (rainier) - K (773 Images)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K%20Raghavendra%20Rao.jpg)
 * [K. S. Ravikumar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K.%20S.%20Ravikumar.jpg)
@@ -563,6 +563,7 @@
 * [Kim Tae-ri](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kim%20Tae-ri.jpg)
 * [Kim Won-hae](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kim%20Won-hae.jpg)
 * [Kim Woo-bin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kim%20Woo-bin.jpg)
+* [Kim Yeo-jin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kim%20Yeo-jin.jpg)
 * [Kim Yeong-ok](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kim%20Yeong-ok.jpg)
 * [Kim You-jung](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kim%20You-jung.jpg)
 * [Kim Young-dae](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kim%20Young-dae.jpg)
