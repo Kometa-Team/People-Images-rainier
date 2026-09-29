@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - C (940 Images)
+# Kometa People Images - Rainier (rainier) - C (941 Images)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
 * [C. S. Forester](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20S.%20Forester.jpg)
@@ -864,6 +864,7 @@
 * [Cormac Wibberley](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Cormac%20Wibberley.jpg)
 * [Cornell John](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Cornell%20John.jpg)
 * [Cornell Woolrich](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Cornell%20Woolrich.jpg)
+* [Cornell Young IV](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Cornell%20Young%20IV.jpg)
 * [Corrado Invernizzi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Corrado%20Invernizzi.jpg)
 * [Cory Booker](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Cory%20Booker.jpg)
 * [Cory DuVal](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Cory%20DuVal.jpg)

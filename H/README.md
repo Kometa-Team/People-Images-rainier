@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - H (425 Images)
+# Kometa People Images - Rainier (rainier) - H (426 Images)
 
 * [H. C. Potter](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/H.%20C.%20Potter.jpg)
 * [H. G. Wells](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/H.%20G.%20Wells.jpg)
@@ -59,6 +59,7 @@
 * [Hanna Hall](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hanna%20Hall.jpg)
 * [Hannah Berner](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hannah%20Berner.jpg)
 * [Hannah Cheramy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hannah%20Cheramy.jpg)
+* [Hannah Christine Shetler](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hannah%20Christine%20Shetler.jpg)
 * [Hannah Dodd](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hannah%20Dodd.jpg)
 * [Hannah Einbinder](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hannah%20Einbinder.jpg)
 * [Hannah Gordon](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hannah%20Gordon.jpg)

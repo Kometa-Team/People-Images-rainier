@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - D (897 Images)
+# Kometa People Images - Rainier (rainier) - D (899 Images)
 
 * [D'Arcy Carden](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D%27Arcy%20Carden.jpg)
 * [D'Mile](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D%27Mile.jpg)
@@ -700,6 +700,7 @@
 * [Dilraba Dilmurat](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dilraba%20Dilmurat.jpg)
 * [Dimiter D. Marinov](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dimiter%20D.%20Marinov.jpg)
 * [Dimitri Diatchenko](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dimitri%20Diatchenko.jpg)
+* [Dimple Kapadia](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dimple%20Kapadia.jpg)
 * [Dina Meyer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dina%20Meyer.jpg)
 * [Dina Morrone](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dina%20Morrone.jpg)
 * [Dina Shihabi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dina%20Shihabi.jpg)
@@ -831,6 +832,7 @@
 * [Doug Marcaida](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Doug%20Marcaida.jpg)
 * [Doug McGrath](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Doug%20McGrath.jpg)
 * [Doug Stanhope](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Doug%20Stanhope.jpg)
+* [Douglas Booth](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Douglas%20Booth.jpg)
 * [Douglas Gordon](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Douglas%20Gordon.jpg)
 * [Douglas Hodge](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Douglas%20Hodge.jpg)
 * [Douglas M. Griffin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Douglas%20M.%20Griffin.jpg)

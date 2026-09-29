@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - J (1753 Images)
+# Kometa People Images - Rainier (rainier) - J (1754 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -1051,6 +1051,7 @@
 * [Joey Lauren Adams](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Joey%20Lauren%20Adams.jpg)
 * [Joey Lawrence](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Joey%20Lawrence.jpg)
 * [Joey Perillo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Joey%20Perillo.jpg)
+* [Joey Pollari](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Joey%20Pollari.jpg)
 * [Joey Scarpellino](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Joey%20Scarpellino.jpg)
 * [Joey Simmrin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Joey%20Simmrin.jpg)
 * [Joey Vieira](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Joey%20Vieira.jpg)

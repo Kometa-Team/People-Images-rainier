@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - P (583 Images)
+# Kometa People Images - Rainier (rainier) - P (584 Images)
 
 * [P. D. James](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/P.%20D.%20James.jpg)
 * [P.H. Moriarty](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/P.H.%20Moriarty.jpg)
@@ -568,6 +568,7 @@
 * [Priyadarshan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Priyadarshan.jpg)
 * [Priyanga Burford](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Priyanga%20Burford.jpg)
 * [Priyanka Chopra Jonas](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Priyanka%20Chopra%20Jonas.jpg)
+* [Priyanka Kedia](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Priyanka%20Kedia.jpg)
 * [Professor Brian Cox](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Professor%20Brian%20Cox.jpg)
 * [Pruitt Taylor Vince](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Pruitt%20Taylor%20Vince.jpg)
 * [Prunella Scales](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Prunella%20Scales.jpg)

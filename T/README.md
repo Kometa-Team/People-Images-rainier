@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - T (738 Images)
+# Kometa People Images - Rainier (rainier) - T (740 Images)
 
 * [T Bone Burnett](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T%20Bone%20Burnett.jpg)
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T.%20J.%20Miller.jpg)
@@ -50,6 +50,7 @@
 * [Takeshi Kitano](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takeshi%20Kitano.jpg)
 * [Takeshi Koike](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takeshi%20Koike.jpg)
 * [Takeshi Kusao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takeshi%20Kusao.jpg)
+* [Takeshi Watabe](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takeshi%20Watabe.jpg)
 * [Taketatsu Ayana](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Taketatsu%20Ayana.jpg)
 * [Taku Yashiro](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Taku%20Yashiro.jpg)
 * [Takuya Eguchi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takuya%20Eguchi.jpg)
@@ -697,6 +698,7 @@
 * [Troy Roberts](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Troy%20Roberts.jpg)
 * [Truman Hanks](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Truman%20Hanks.jpg)
 * [Trystan Gravelle](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Trystan%20Gravelle.jpg)
+* [Tsahi Halevi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tsahi%20Halevi.jpg)
 * [Tsai Chin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tsai%20Chin.jpg)
 * [Tsai Ming-liang](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tsai%20Ming-liang.jpg)
 * [Tsianina Joelson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tsianina%20Joelson.jpg)
