@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - Y (206 Images)
+# Kometa People Images - Rainier (rainier) - Y (208 Images)
 
 * [Y. Ravi Shankar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Y.%20Ravi%20Shankar.jpg)
 * [Y. Vijaya](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Y.%20Vijaya.jpg)
@@ -29,6 +29,7 @@
 * [Yasuhiro Takemoto](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yasuhiro%20Takemoto.jpg)
 * [Yasujiro Ozu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yasujiro%20Ozu.jpg)
 * [Yasujirō Ozu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yasujir%C5%8D%20Ozu.jpg)
+* [Yasujirō Shimazu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yasujir%C5%8D%20Shimazu.jpg)
 * [Yasumoto Hiroki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yasumoto%20Hiroki.jpg)
 * [Yasuo Furuhata](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yasuo%20Furuhata.jpg)
 * [Yasuo Yamada](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yasuo%20Yamada.jpg)
@@ -142,6 +143,7 @@
 * [Yuki Kajiura](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yuki%20Kajiura.jpg)
 * [Yuki Kazamatsuri](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yuki%20Kazamatsuri.jpg)
 * [Yuki Mamiya](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yuki%20Mamiya.jpg)
+* [Yuki Ominami](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yuki%20Ominami.jpg)
 * [Yuki Ono](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yuki%20Ono.jpg)
 * [Yuki Sakurai](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yuki%20Sakurai.jpg)
 * [Yuki Uchida](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yuki%20Uchida.jpg)

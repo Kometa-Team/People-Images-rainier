@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - K (774 Images)
+# Kometa People Images - Rainier (rainier) - K (776 Images)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K%20Raghavendra%20Rao.jpg)
 * [K. S. Ravikumar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K.%20S.%20Ravikumar.jpg)
@@ -730,6 +730,7 @@
 * [Kunal Khemu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kunal%20Khemu.jpg)
 * [Kunal Nayyar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kunal%20Nayyar.jpg)
 * [Kunichi Nomura](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kunichi%20Nomura.jpg)
+* [Kunie Tanaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kunie%20Tanaka.jpg)
 * [Kunihiko Yuyama](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kunihiko%20Yuyama.jpg)
 * [Kuno Becker](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kuno%20Becker.jpg)
 * [Kurosawa Tomoyo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kurosawa%20Tomoyo.jpg)
@@ -773,4 +774,5 @@
 * [Kō Nakahira](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K%C5%8D%20Nakahira.jpg)
 * [Kōgo Noda](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K%C5%8Dgo%20Noda.jpg)
 * [Kōichi Imaizumi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K%C5%8Dichi%20Imaizumi.jpg)
+* [Kōji Shima](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K%C5%8Dji%20Shima.jpg)
 * [Kōji Wakamatsu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K%C5%8Dji%20Wakamatsu.jpg)

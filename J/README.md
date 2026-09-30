@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - J (1754 Images)
+# Kometa People Images - Rainier (rainier) - J (1756 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -1709,6 +1709,7 @@
 * [Juno Temple](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Juno%20Temple.jpg)
 * [Junya Enoki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Junya%20Enoki.jpg)
 * [Junya Ikeda](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Junya%20Ikeda.jpg)
+* [Junya Satō](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Junya%20Sat%C5%8D.jpg)
 * [Juri Sam Winkler](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Juri%20Sam%20Winkler.jpg)
 * [Jurnee Smollett-Bell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jurnee%20Smollett-Bell.jpg)
 * [Jurnee Smollett](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jurnee%20Smollett.jpg)
@@ -1742,6 +1743,7 @@
 * [Justine Triet](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Justine%20Triet.jpg)
 * [Justyn Shippelt](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Justyn%20Shippelt.jpg)
 * [Juwan Mass](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Juwan%20Mass.jpg)
+* [Jyothika](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jyothika.jpg)
 * [Jyoti Deshpande](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jyoti%20Deshpande.jpg)
 * [Jérôme Kircher](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J%C3%A9r%C3%B4me%20Kircher.jpg)
 * [Jóhann Jóhannsson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J%C3%B3hann%20J%C3%B3hannsson.jpg)

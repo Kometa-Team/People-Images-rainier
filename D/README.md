@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - D (900 Images)
+# Kometa People Images - Rainier (rainier) - D (901 Images)
 
 * [D'Arcy Carden](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D%27Arcy%20Carden.jpg)
 * [D'Mile](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D%27Mile.jpg)
@@ -33,6 +33,7 @@
 * [Daisuke Namikawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Daisuke%20Namikawa.jpg)
 * [Daisuke Nishio](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Daisuke%20Nishio.jpg)
 * [Daisuke Ono](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Daisuke%20Ono.jpg)
+* [Daisuke Ryū](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Daisuke%20Ry%C5%AB.jpg)
 * [Daisuke Tengan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Daisuke%20Tengan.jpg)
 * [Daisy Beaumont](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Daisy%20Beaumont.jpg)
 * [Daisy Earles](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Daisy%20Earles.jpg)
