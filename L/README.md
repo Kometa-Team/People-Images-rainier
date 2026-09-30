@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - L (697 Images)
+# Kometa People Images - Rainier (rainier) - L (698 Images)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/L.%20Q.%20Jones.jpg)
 * [L. Scott Caldwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/L.%20Scott%20Caldwell.jpg)
@@ -199,6 +199,7 @@
 * [Lee Jung-jae](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lee%20Jung-jae.jpg)
 * [Lee Kwang-hoon](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lee%20Kwang-hoon.jpg)
 * [Lee Kyoo-hyung](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lee%20Kyoo-hyung.jpg)
+* [Lee Kyung-young](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lee%20Kyung-young.jpg)
 * [Lee Latchford](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lee%20Latchford.jpg)
 * [Lee Lik-chi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lee%20Lik-chi.jpg)
 * [Lee Mack](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lee%20Mack.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - A (1261 Images)
+# Kometa People Images - Rainier (rainier) - A (1262 Images)
 
 * [A Martinez](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/A%20Martinez.jpg)
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/A.%20Edward%20Sutherland.jpg)
@@ -1140,6 +1140,7 @@
 * [Ashley Eckstein](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Ashley%20Eckstein.jpg)
 * [Ashley Edward Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Ashley%20Edward%20Miller.jpg)
 * [Ashley Fliehr](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Ashley%20Fliehr.jpg)
+* [Ashley French](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Ashley%20French.jpg)
 * [Ashley Greene](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Ashley%20Greene.jpg)
 * [Ashley Jensen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Ashley%20Jensen.jpg)
 * [Ashley Johnson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Ashley%20Johnson.jpg)

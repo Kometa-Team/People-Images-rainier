@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - D (899 Images)
+# Kometa People Images - Rainier (rainier) - D (900 Images)
 
 * [D'Arcy Carden](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D%27Arcy%20Carden.jpg)
 * [D'Mile](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D%27Mile.jpg)
@@ -896,6 +896,7 @@
 * [Dylan Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dylan%20Smith.jpg)
 * [Dylan Walsh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dylan%20Walsh.jpg)
 * [Dylan Wang](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dylan%20Wang.jpg)
+* [Dziga Vertov](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dziga%20Vertov.jpg)
 * [Débora Nascimento](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D%C3%A9bora%20Nascimento.jpg)
 * [Déborah Révy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D%C3%A9borah%20R%C3%A9vy.jpg)
 * [Díana Bermudez](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D%C3%ADana%20Bermudez.jpg)

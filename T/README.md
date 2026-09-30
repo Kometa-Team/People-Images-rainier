@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - T (740 Images)
+# Kometa People Images - Rainier (rainier) - T (741 Images)
 
 * [T Bone Burnett](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T%20Bone%20Burnett.jpg)
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T.%20J.%20Miller.jpg)
@@ -606,6 +606,7 @@
 * [Tony T. Roberts](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tony%20T.%20Roberts.jpg)
 * [Tony Todd](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tony%20Todd.jpg)
 * [Tony Walker](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tony%20Walker.jpg)
+* [Tony Ward](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tony%20Ward.jpg)
 * [Tony Way](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tony%20Way.jpg)
 * [Tony Wayne](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tony%20Wayne.jpg)
 * [Topher Grace](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Topher%20Grace.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - Y (205 Images)
+# Kometa People Images - Rainier (rainier) - Y (206 Images)
 
 * [Y. Ravi Shankar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Y.%20Ravi%20Shankar.jpg)
 * [Y. Vijaya](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Y.%20Vijaya.jpg)
@@ -87,6 +87,7 @@
 * [Yoshiaki Kobayashi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yoshiaki%20Kobayashi.jpg)
 * [Yoshibumi Tajima](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yoshibumi%20Tajima.jpg)
 * [Yoshifumi Kondo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yoshifumi%20Kondo.jpg)
+* [Yoshihiro Kato](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yoshihiro%20Kato.jpg)
 * [Yoshikatsu Fujiki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yoshikatsu%20Fujiki.jpg)
 * [Yoshikazu Yasuhiko](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yoshikazu%20Yasuhiko.jpg)
 * [Yoshiko Sakakibara](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yoshiko%20Sakakibara.jpg)
