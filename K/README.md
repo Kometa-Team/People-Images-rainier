@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - K (776 Images)
+# Kometa People Images - Rainier (rainier) - K (778 Images)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K%20Raghavendra%20Rao.jpg)
 * [K. S. Ravikumar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K.%20S.%20Ravikumar.jpg)
@@ -343,6 +343,7 @@
 * [Ken Takakura](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Ken%20Takakura.jpg)
 * [Ken Watanabe](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Ken%20Watanabe.jpg)
 * [Ken Yamauchi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Ken%20Yamauchi.jpg)
+* [Ken'ichi Fujiwara](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Ken%27ichi%20Fujiwara.jpg)
 * [Kenan Thompson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kenan%20Thompson.jpg)
 * [Kenda Henthorn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kenda%20Henthorn.jpg)
 * [Kenichi Matsuyama](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kenichi%20Matsuyama.jpg)
@@ -388,6 +389,7 @@
 * [Kent Faulcon](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kent%20Faulcon.jpg)
 * [Kenta Fukasaku](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kenta%20Fukasaku.jpg)
 * [Kenta Miyake](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kenta%20Miyake.jpg)
+* [Kento Hayashi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kento%20Hayashi.jpg)
 * [Kento Kaku](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kento%20Kaku.jpg)
 * [Kento Yamazaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kento%20Yamazaki.jpg)
 * [Kenya Barris](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kenya%20Barris.jpg)

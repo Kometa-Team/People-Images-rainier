@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - T (741 Images)
+# Kometa People Images - Rainier (rainier) - T (743 Images)
 
 * [T Bone Burnett](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T%20Bone%20Burnett.jpg)
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T.%20J.%20Miller.jpg)
@@ -39,6 +39,7 @@
 * [Takashi Shimizu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takashi%20Shimizu.jpg)
 * [Takashi Shimura](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takashi%20Shimura.jpg)
 * [Takashi Tsukamoto](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takashi%20Tsukamoto.jpg)
+* [Takashi Yamazaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takashi%20Yamazaki.jpg)
 * [Takayuki Hirao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takayuki%20Hirao.jpg)
 * [Takayuki Tsubaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takayuki%20Tsubaki.jpg)
 * [Takayuki Yamada](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takayuki%20Yamada.jpg)
@@ -107,6 +108,7 @@
 * [Tarik Saleh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tarik%20Saleh.jpg)
 * [Taron Egerton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Taron%20Egerton.jpg)
 * [Taryn Manning](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Taryn%20Manning.jpg)
+* [Tasos Leivaditis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tasos%20Leivaditis.jpg)
 * [Tasuku Emoto](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tasuku%20Emoto.jpg)
 * [Tasuku Hatanaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tasuku%20Hatanaka.jpg)
 * [Tate Donovan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tate%20Donovan.jpg)

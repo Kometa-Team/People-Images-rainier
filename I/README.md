@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - I (191 Images)
+# Kometa People Images - Rainier (rainier) - I (192 Images)
 
 * [I. A. L. Diamond](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/I.%20A.%20L.%20Diamond.jpg)
 * [IU](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/IU.jpg)
@@ -163,6 +163,7 @@
 * [Israel Broussard](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Israel%20Broussard.jpg)
 * [Issa Rae](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Issa%20Rae.jpg)
 * [Issey Takahashi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Issey%20Takahashi.jpg)
+* [Itaru Era](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Itaru%20Era.jpg)
 * [Ithamar Enriquez](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Ithamar%20Enriquez.jpg)
 * [Itou Shizuka](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Itou%20Shizuka.jpg)
 * [Itziar Ituño](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Itziar%20Itu%C3%B1o.jpg)

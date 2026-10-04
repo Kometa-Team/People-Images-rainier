@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - S (1133 Images)
+# Kometa People Images - Rainier (rainier) - S (1135 Images)
 
 * [S. Epatha Merkerson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20Epatha%20Merkerson.jpg)
 * [S. N. Lakshmi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20N.%20Lakshmi.jpg)
@@ -263,6 +263,7 @@
 * [Sayaka Ohara](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sayaka%20Ohara.jpg)
 * [Sayed Badreya](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sayed%20Badreya.jpg)
 * [Sayumi Suzushiro](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sayumi%20Suzushiro.jpg)
+* [Sayuri Hara](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sayuri%20Hara.jpg)
 * [Saïd Taghmaoui](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sa%C3%AFd%20Taghmaoui.jpg)
 * [Scaachi Koul](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Scaachi%20Koul.jpg)
 * [Scarlet Johansson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Scarlet%20Johansson.jpg)
@@ -600,6 +601,7 @@
 * [Shuichi Ikeda](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shuichi%20Ikeda.jpg)
 * [Shuichi Okita](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shuichi%20Okita.jpg)
 * [Shuko Murase](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shuko%20Murase.jpg)
+* [Shukou Murase](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shukou%20Murase.jpg)
 * [Shun Oguri](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shun%20Oguri.jpg)
 * [Shunji Iwai](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shunji%20Iwai.jpg)
 * [Shunsuke Daitoh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Shunsuke%20Daitoh.jpg)

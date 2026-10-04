@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - W (266 Images)
+# Kometa People Images - Rainier (rainier) - W (268 Images)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/W.%20Bruce%20Cameron.jpg)
 * [W. Earl Brown](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/W.%20Earl%20Brown.jpg)
@@ -51,7 +51,9 @@
 * [Wang Anyu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wang%20Anyu.jpg)
 * [Wang Bing](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wang%20Bing.jpg)
 * [Wang Churan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wang%20Churan.jpg)
+* [Wang Deshun](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wang%20Deshun.jpg)
 * [Wang Duo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wang%20Duo.jpg)
+* [Wang Gang](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wang%20Gang.jpg)
 * [Wang Haozhen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wang%20Haozhen.jpg)
 * [Wang Ou](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wang%20Ou.jpg)
 * [Wang Xingwei](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/W/Images/Wang%20Xingwei.jpg)

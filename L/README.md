@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - L (698 Images)
+# Kometa People Images - Rainier (rainier) - L (699 Images)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/L.%20Q.%20Jones.jpg)
 * [L. Scott Caldwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/L.%20Scott%20Caldwell.jpg)
@@ -265,6 +265,7 @@
 * [Lenny Kravitz](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lenny%20Kravitz.jpg)
 * [Lenny McLean](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lenny%20McLean.jpg)
 * [Lenny Montana](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lenny%20Montana.jpg)
+* [Lenny Rush](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lenny%20Rush.jpg)
 * [Lenora Crichlow](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lenora%20Crichlow.jpg)
 * [Lenore Aubert](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lenore%20Aubert.jpg)
 * [Leo Bill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Leo%20Bill.jpg)

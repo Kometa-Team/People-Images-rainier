@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - C (941 Images)
+# Kometa People Images - Rainier (rainier) - C (943 Images)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
 * [C. S. Forester](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20S.%20Forester.jpg)
@@ -258,6 +258,7 @@
 * [Chang Che-Hao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chang%20Che-Hao.jpg)
 * [Chang Cheh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chang%20Cheh.jpg)
 * [Chang Chen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chang%20Chen.jpg)
+* [Chang Ki-ha](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chang%20Ki-ha.jpg)
 * [Channing Tatum](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Channing%20Tatum.jpg)
 * [Chantal Akerman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chantal%20Akerman.jpg)
 * [Chao-Li Chi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chao-Li%20Chi.jpg)
@@ -425,6 +426,7 @@
 * [Chip Gaines](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chip%20Gaines.jpg)
 * [Chipo Chung](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chipo%20Chung.jpg)
 * [Chiranjeevi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chiranjeevi.jpg)
+* [Chisako Hara](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chisako%20Hara.jpg)
 * [Chishū Ryū](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chish%C5%AB%20Ry%C5%AB.jpg)
 * [Chiu Wai](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chiu%20Wai.jpg)
 * [Chiwetel Ejiofor](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chiwetel%20Ejiofor.jpg)

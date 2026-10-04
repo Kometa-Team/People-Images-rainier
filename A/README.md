@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - A (1266 Images)
+# Kometa People Images - Rainier (rainier) - A (1268 Images)
 
 * [A Martinez](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/A%20Martinez.jpg)
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/A.%20Edward%20Sutherland.jpg)
@@ -349,6 +349,7 @@
 * [Alejandro González Iñárritu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alejandro%20Gonz%C3%A1lez%20I%C3%B1%C3%A1rritu.jpg)
 * [Alejandro Jodorowsky](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alejandro%20Jodorowsky.jpg)
 * [Aleks Paunovic](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aleks%20Paunovic.jpg)
+* [Aleksandr Baluev](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aleksandr%20Baluev.jpg)
 * [Aleksandr Kaydanovskiy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aleksandr%20Kaydanovskiy.jpg)
 * [Aleksandr Kuznetsov](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aleksandr%20Kuznetsov.jpg)
 * [Aleksandr Rogozhkin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aleksandr%20Rogozhkin.jpg)
@@ -888,6 +889,7 @@
 * [Anna Maxwell Martin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Anna%20Maxwell%20Martin.jpg)
 * [Anna Mikami](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Anna%20Mikami.jpg)
 * [Anna Mucha](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Anna%20Mucha.jpg)
+* [Anna Nagase](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Anna%20Nagase.jpg)
 * [Anna Paquin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Anna%20Paquin.jpg)
 * [Anna Parmas](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Anna%20Parmas.jpg)
 * [Anna Popplewell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Anna%20Popplewell.jpg)

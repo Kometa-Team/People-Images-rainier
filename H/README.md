@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - H (427 Images)
+# Kometa People Images - Rainier (rainier) - H (428 Images)
 
 * [H. C. Potter](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/H.%20C.%20Potter.jpg)
 * [H. G. Wells](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/H.%20G.%20Wells.jpg)
@@ -193,6 +193,7 @@
 * [Hei Zi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hei%20Zi.jpg)
 * [Heidi Klum](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Heidi%20Klum.jpg)
 * [Heidi Moneymaker](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Heidi%20Moneymaker.jpg)
+* [Heihachirō Ōkawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Heihachir%C5%8D%20%C5%8Ckawa.jpg)
 * [Heiko Lange](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Heiko%20Lange.jpg)
 * [Heino Hansen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Heino%20Hansen.jpg)
 * [Heinz Erhardt](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Heinz%20Erhardt.jpg)
