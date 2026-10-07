@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - S (1139 Images)
+# Kometa People Images - Rainier (rainier) - S (1140 Images)
 
 * [S. Epatha Merkerson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20Epatha%20Merkerson.jpg)
 * [S. N. Lakshmi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20N.%20Lakshmi.jpg)
@@ -728,6 +728,7 @@
 * [Sofía Espinosa](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sof%C3%ADa%20Espinosa.jpg)
 * [Sofía Vergara](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sof%C3%ADa%20Vergara.jpg)
 * [Soichi Masui](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Soichi%20Masui.jpg)
+* [Soichiro Kitamura](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Soichiro%20Kitamura.jpg)
 * [Sol C. Siegel](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sol%20C.%20Siegel.jpg)
 * [Solomon Northup](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Solomon%20Northup.jpg)
 * [Solomon Sturges](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Solomon%20Sturges.jpg)
