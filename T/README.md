@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - T (743 Images)
+# Kometa People Images - Rainier (rainier) - T (745 Images)
 
 * [T Bone Burnett](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T%20Bone%20Burnett.jpg)
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T.%20J.%20Miller.jpg)
@@ -230,6 +230,7 @@
 * [Tetiana Gaidar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tetiana%20Gaidar.jpg)
 * [Tetsu Inada](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tetsu%20Inada.jpg)
 * [Tetsu Komai](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tetsu%20Komai.jpg)
+* [Tetsuo Shinohara](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tetsuo%20Shinohara.jpg)
 * [Tetsuro Kodama](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tetsuro%20Kodama.jpg)
 * [Tetsuya Kakihara](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tetsuya%20Kakihara.jpg)
 * [Tex Avery](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tex%20Avery.jpg)
@@ -543,6 +544,7 @@
 * [Tommy O'Haver](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tommy%20O%27Haver.jpg)
 * [Tommy Wirkola](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tommy%20Wirkola.jpg)
 * [Tomoaki Maeno](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tomoaki%20Maeno.jpg)
+* [Tomoharu Katsumata](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tomoharu%20Katsumata.jpg)
 * [Tomokazu Seki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tomokazu%20Seki.jpg)
 * [Tomokazu Sugita](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tomokazu%20Sugita.jpg)
 * [Tomoko Kawakami](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tomoko%20Kawakami.jpg)

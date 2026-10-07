@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - D (901 Images)
+# Kometa People Images - Rainier (rainier) - D (902 Images)
 
 * [D'Arcy Carden](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D%27Arcy%20Carden.jpg)
 * [D'Mile](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D%27Mile.jpg)
@@ -598,6 +598,7 @@
 * [Dennis Farina](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dennis%20Farina.jpg)
 * [Dennis Gaxiola](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dennis%20Gaxiola.jpg)
 * [Dennis Greene](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dennis%20Greene.jpg)
+* [Dennis Haskins](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dennis%20Haskins.jpg)
 * [Dennis Haysbert](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dennis%20Haysbert.jpg)
 * [Dennis Hopper](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dennis%20Hopper.jpg)
 * [Dennis Keiffer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dennis%20Keiffer.jpg)

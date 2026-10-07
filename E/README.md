@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - E (535 Images)
+# Kometa People Images - Rainier (rainier) - E (536 Images)
 
 * [E. G. Daily](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/E.%20G.%20Daily.jpg)
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/E.G.%20Marshall.jpg)
@@ -341,6 +341,7 @@
 * [Eoin Macken](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eoin%20Macken.jpg)
 * [Erana James](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Erana%20James.jpg)
 * [Erdem Şanlı](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Erdem%20%C5%9Eanl%C4%B1.jpg)
+* [Eri Fukatsu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eri%20Fukatsu.jpg)
 * [Eri Kitamura](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eri%20Kitamura.jpg)
 * [Eric André](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eric%20Andr%C3%A9.jpg)
 * [Eric Balfour](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eric%20Balfour.jpg)

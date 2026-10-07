@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - A (1268 Images)
+# Kometa People Images - Rainier (rainier) - A (1270 Images)
 
 * [A Martinez](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/A%20Martinez.jpg)
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/A.%20Edward%20Sutherland.jpg)
@@ -499,6 +499,7 @@
 * [Alicia Witt](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alicia%20Witt.jpg)
 * [Alida Valli](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alida%20Valli.jpg)
 * [Aliette Opheim](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aliette%20Opheim.jpg)
+* [Alijah Kai](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alijah%20Kai.jpg)
 * [Aline Brosh McKenna](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aline%20Brosh%20McKenna.jpg)
 * [Aline Mineiro](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aline%20Mineiro.jpg)
 * [Alireza Golafshan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Alireza%20Golafshan.jpg)
@@ -1232,6 +1233,7 @@
 * [Avi Arad](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Avi%20Arad.jpg)
 * [Avi Lerner](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Avi%20Lerner.jpg)
 * [Avi Nash](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Avi%20Nash.jpg)
+* [Avtandil Makharadze](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Avtandil%20Makharadze.jpg)
 * [Awkwafina](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Awkwafina.jpg)
 * [Aya Asahina](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aya%20Asahina.jpg)
 * [Aya Cash](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Aya%20Cash.jpg)

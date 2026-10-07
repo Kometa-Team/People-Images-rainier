@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - Z (100 Images)
+# Kometa People Images - Rainier (rainier) - Z (101 Images)
 
 * [Zac Efron](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Z/Images/Zac%20Efron.jpg)
 * [Zach Baylin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Z/Images/Zach%20Baylin.jpg)
@@ -83,6 +83,7 @@
 * [Zhou Yiran](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Z/Images/Zhou%20Yiran.jpg)
 * [Zhu Yilong](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Z/Images/Zhu%20Yilong.jpg)
 * [Zhu Zhu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Z/Images/Zhu%20Zhu.jpg)
+* [Zi Yu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Z/Images/Zi%20Yu.jpg)
 * [Zijiao Liu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Z/Images/Zijiao%20Liu.jpg)
 * [Zo In-sung](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Z/Images/Zo%20In-sung.jpg)
 * [Zoe Perry](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Z/Images/Zoe%20Perry.jpg)

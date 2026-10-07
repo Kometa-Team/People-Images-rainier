@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - C (943 Images)
+# Kometa People Images - Rainier (rainier) - C (944 Images)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
 * [C. S. Forester](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20S.%20Forester.jpg)
@@ -234,6 +234,7 @@
 * [Chad Hayes](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chad%20Hayes.jpg)
 * [Chad L. Coleman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chad%20L.%20Coleman.jpg)
 * [Chad Lindberg](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chad%20Lindberg.jpg)
+* [Chad Lowe](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chad%20Lowe.jpg)
 * [Chad Michael Collins](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chad%20Michael%20Collins.jpg)
 * [Chad Michael Murray](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chad%20Michael%20Murray.jpg)
 * [Chad Oman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chad%20Oman.jpg)

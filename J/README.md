@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - J (1757 Images)
+# Kometa People Images - Rainier (rainier) - J (1758 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -809,6 +809,7 @@
 * [Jharrel Jerome](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jharrel%20Jerome.jpg)
 * [Ji Chang-wook](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Ji%20Chang-wook.jpg)
 * [Ji Sung](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Ji%20Sung.jpg)
+* [Jia Zhangke](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jia%20Zhangke.jpg)
 * [Jiang Peiyao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jiang%20Peiyao.jpg)
 * [Jiang Qiming](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jiang%20Qiming.jpg)
 * [Jiang Yi Ting](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jiang%20Yi%20Ting.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - H (428 Images)
+# Kometa People Images - Rainier (rainier) - H (430 Images)
 
 * [H. C. Potter](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/H.%20C.%20Potter.jpg)
 * [H. G. Wells](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/H.%20G.%20Wells.jpg)
@@ -156,6 +156,7 @@
 * [Hasith Goli](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hasith%20Goli.jpg)
 * [Hassani Shapi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hassani%20Shapi.jpg)
 * [Hassie Harrison](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hassie%20Harrison.jpg)
+* [Hatsuki Tsuji](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hatsuki%20Tsuji.jpg)
 * [Hattie Kragten](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hattie%20Kragten.jpg)
 * [Hattie Morahan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hattie%20Morahan.jpg)
 * [Havana Rose Liu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Havana%20Rose%20Liu.jpg)
@@ -308,6 +309,7 @@
 * [Hiroko Maruyama](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hiroko%20Maruyama.jpg)
 * [Hiromasa Yonebayashi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hiromasa%20Yonebayashi.jpg)
 * [Hiromi Tsuru](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hiromi%20Tsuru.jpg)
+* [Hiromichi Horikawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hiromichi%20Horikawa.jpg)
 * [Hirona Yamazaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hirona%20Yamazaki.jpg)
 * [Hiroshi Abe](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hiroshi%20Abe.jpg)
 * [Hiroshi Kamiya](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hiroshi%20Kamiya.jpg)
