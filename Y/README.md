@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - Y (210 Images)
+# Kometa People Images - Rainier (rainier) - Y (212 Images)
 
 * [Y. Ravi Shankar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Y.%20Ravi%20Shankar.jpg)
 * [Y. Vijaya](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Y.%20Vijaya.jpg)
@@ -124,6 +124,7 @@
 * [Yuen Qiu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yuen%20Qiu.jpg)
 * [Yuhko Kaida](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yuhko%20Kaida.jpg)
 * [Yui Aragaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yui%20Aragaki.jpg)
+* [Yui Fukuo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yui%20Fukuo.jpg)
 * [Yui Hatano](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yui%20Hatano.jpg)
 * [Yui Horie](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yui%20Horie.jpg)
 * [Yui Ishikawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yui%20Ishikawa.jpg)
@@ -177,6 +178,7 @@
 * [Yuriko Hishimi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yuriko%20Hishimi.jpg)
 * [Yuriko Ishida](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yuriko%20Ishida.jpg)
 * [Yuriko Yoshitaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yuriko%20Yoshitaka.jpg)
+* [Yury Olesha](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yury%20Olesha.jpg)
 * [Yusei Yagi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yusei%20Yagi.jpg)
 * [Yusuke Kobayashi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yusuke%20Kobayashi.jpg)
 * [Yuta Kobayashi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Y/Images/Yuta%20Kobayashi.jpg)

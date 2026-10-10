@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - R (929 Images)
+# Kometa People Images - Rainier (rainier) - R (931 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Lee%20Ermey.jpg)
 * [R. Madhavan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Madhavan.jpg)
@@ -451,6 +451,7 @@
 * [Risa Hayamizu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Risa%20Hayamizu.jpg)
 * [Risa Mizuno](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Risa%20Mizuno.jpg)
 * [Risa Taneda](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Risa%20Taneda.jpg)
+* [Risa Tsumugi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Risa%20Tsumugi.jpg)
 * [Rish Shah](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rish%20Shah.jpg)
 * [Rishi Kapoor](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rishi%20Kapoor.jpg)
 * [Rishikanth](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rishikanth.jpg)
@@ -856,6 +857,7 @@
 * [Ruta Gedmintas](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ruta%20Gedmintas.jpg)
 * [Rutanya Alda](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rutanya%20Alda.jpg)
 * [Rutger Hauer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rutger%20Hauer.jpg)
+* [Ruth Bradley](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ruth%20Bradley.jpg)
 * [Ruth Gemmell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ruth%20Gemmell.jpg)
 * [Ruth Gordon](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ruth%20Gordon.jpg)
 * [Ruth Kobart](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ruth%20Kobart.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - S (1140 Images)
+# Kometa People Images - Rainier (rainier) - S (1141 Images)
 
 * [S. Epatha Merkerson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20Epatha%20Merkerson.jpg)
 * [S. N. Lakshmi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20N.%20Lakshmi.jpg)
@@ -1034,6 +1034,7 @@
 * [Sumi Shimamoto](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sumi%20Shimamoto.jpg)
 * [Sumire Uesaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sumire%20Uesaka.jpg)
 * [Summer Glau](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Summer%20Glau.jpg)
+* [Summer H. Howell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Summer%20H.%20Howell.jpg)
 * [Sun Qian](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sun%20Qian.jpg)
 * [Sun Tianyu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sun%20Tianyu.jpg)
 * [Sunao Katabuchi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Sunao%20Katabuchi.jpg)

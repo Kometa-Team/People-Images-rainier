@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - I (192 Images)
+# Kometa People Images - Rainier (rainier) - I (193 Images)
 
 * [I. A. L. Diamond](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/I.%20A.%20L.%20Diamond.jpg)
 * [IU](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/IU.jpg)
@@ -74,6 +74,7 @@
 * [Im Gi-hong](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Im%20Gi-hong.jpg)
 * [Im Ji-yeon](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Im%20Ji-yeon.jpg)
 * [Im Kwon-taek](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Im%20Kwon-taek.jpg)
+* [Im Se-joo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Im%20Se-joo.jpg)
 * [Im Tae-mok](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Im%20Tae-mok.jpg)
 * [Ima Caryl](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Ima%20Caryl.jpg)
 * [Iman Vellani](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Iman%20Vellani.jpg)

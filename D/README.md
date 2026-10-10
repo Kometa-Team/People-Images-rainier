@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - D (902 Images)
+# Kometa People Images - Rainier (rainier) - D (903 Images)
 
 * [D'Arcy Carden](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D%27Arcy%20Carden.jpg)
 * [D'Mile](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/D%27Mile.jpg)
@@ -526,6 +526,7 @@
 * [Dean Stockwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dean%20Stockwell.jpg)
 * [Dean Winters](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dean%20Winters.jpg)
 * [Dean-Charles Chapman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Dean-Charles%20Chapman.jpg)
+* [Deanie Ip](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Deanie%20Ip.jpg)
 * [Deanna Russo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Deanna%20Russo.jpg)
 * [Deb Adair](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Deb%20Adair.jpg)
 * [Debbie Isitt](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/D/Images/Debbie%20Isitt.jpg)
