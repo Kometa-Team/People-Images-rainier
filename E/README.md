@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - E (536 Images)
+# Kometa People Images - Rainier (rainier) - E (537 Images)
 
 * [E. G. Daily](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/E.%20G.%20Daily.jpg)
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/E.G.%20Marshall.jpg)
@@ -38,6 +38,7 @@
 * [Eddie Cahill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eddie%20Cahill.jpg)
 * [Eddie Cibrian](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eddie%20Cibrian.jpg)
 * [Eddie Constantine](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eddie%20Constantine.jpg)
+* [Eddie Garcia](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eddie%20Garcia.jpg)
 * [Eddie Griffin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eddie%20Griffin.jpg)
 * [Eddie Izzard](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eddie%20Izzard.jpg)
 * [Eddie J. Fernandez](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/E/Images/Eddie%20J.%20Fernandez.jpg)

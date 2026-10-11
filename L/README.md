@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - L (700 Images)
+# Kometa People Images - Rainier (rainier) - L (701 Images)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/L.%20Q.%20Jones.jpg)
 * [L. Scott Caldwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/L.%20Scott%20Caldwell.jpg)
@@ -147,6 +147,7 @@
 * [Laurie Faso](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Laurie%20Faso.jpg)
 * [Laurie MacDonald](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Laurie%20MacDonald.jpg)
 * [Laurie Metcalf](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Laurie%20Metcalf.jpg)
+* [Lauryn Hardy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lauryn%20Hardy.jpg)
 * [Lavell Crawford](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lavell%20Crawford.jpg)
 * [Lawrence Bender](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lawrence%20Bender.jpg)
 * [Lawrence Chou Chun-Wai](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lawrence%20Chou%20Chun-Wai.jpg)
