@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - R (931 Images)
+# Kometa People Images - Rainier (rainier) - R (933 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Lee%20Ermey.jpg)
 * [R. Madhavan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Madhavan.jpg)
@@ -552,6 +552,7 @@
 * [Robert K. Weiss](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Robert%20K.%20Weiss.jpg)
 * [Robert Katims](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Robert%20Katims.jpg)
 * [Robert Kazinsky](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Robert%20Kazinsky.jpg)
+* [Robert Kelker-Kelly](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Robert%20Kelker-Kelly.jpg)
 * [Robert Kelly](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Robert%20Kelly.jpg)
 * [Robert Klein](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Robert%20Klein.jpg)
 * [Robert Knepper](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Robert%20Knepper.jpg)
@@ -675,6 +676,7 @@
 * [Roger Vadim](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Roger%20Vadim.jpg)
 * [Roger Yuan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Roger%20Yuan.jpg)
 * [Roh Jeong-eui](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Roh%20Jeong-eui.jpg)
+* [Rohan Campbell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rohan%20Campbell.jpg)
 * [Rohini Hattangadi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rohini%20Hattangadi.jpg)
 * [Roisin Conaty](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Roisin%20Conaty.jpg)
 * [Roland Emmerich](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Roland%20Emmerich.jpg)

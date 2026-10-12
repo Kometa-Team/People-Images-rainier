@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - T (748 Images)
+# Kometa People Images - Rainier (rainier) - T (749 Images)
 
 * [T Bone Burnett](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T%20Bone%20Burnett.jpg)
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T.%20J.%20Miller.jpg)
@@ -394,6 +394,7 @@
 * [Tipper Seifert-Cleveland](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tipper%20Seifert-Cleveland.jpg)
 * [Tisa Farrow](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tisa%20Farrow.jpg)
 * [Tito Ortiz](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tito%20Ortiz.jpg)
+* [Titos Vandis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Titos%20Vandis.jpg)
 * [Titus Welliver](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Titus%20Welliver.jpg)
 * [Tiya Sircar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tiya%20Sircar.jpg)
 * [Toa Fraser](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Toa%20Fraser.jpg)
