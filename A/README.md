@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - A (1273 Images)
+# Kometa People Images - Rainier (rainier) - A (1274 Images)
 
 * [A Martinez](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/A%20Martinez.jpg)
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/A.%20Edward%20Sutherland.jpg)
@@ -730,6 +730,7 @@
 * [Andrew Eaton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Andrew%20Eaton.jpg)
 * [Andrew Erwin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Andrew%20Erwin.jpg)
 * [Andrew Form](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Andrew%20Form.jpg)
+* [Andrew Fung Chih-Chiang](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Andrew%20Fung%20Chih-Chiang.jpg)
 * [Andrew Garfield](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Andrew%20Garfield.jpg)
 * [Andrew Havill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Andrew%20Havill.jpg)
 * [Andrew Jack](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Andrew%20Jack.jpg)
