@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - R (933 Images)
+# Kometa People Images - Rainier (rainier) - R (935 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Lee%20Ermey.jpg)
 * [R. Madhavan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Madhavan.jpg)
@@ -221,6 +221,7 @@
 * [Regé-Jean Page](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Reg%C3%A9-Jean%20Page.jpg)
 * [Rei Sakuma](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rei%20Sakuma.jpg)
 * [Reid Scott](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Reid%20Scott.jpg)
+* [Reika Kirishima](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Reika%20Kirishima.jpg)
 * [Reiko Aylesworth](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Reiko%20Aylesworth.jpg)
 * [Reina Ueda](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Reina%20Ueda.jpg)
 * [Reinaldo Marcus Green](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Reinaldo%20Marcus%20Green.jpg)
@@ -834,6 +835,7 @@
 * [Rupert Penry-Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rupert%20Penry-Jones.jpg)
 * [Rupert Vansittart](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rupert%20Vansittart.jpg)
 * [Rupert Wyatt](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rupert%20Wyatt.jpg)
+* [Ruri Shinato](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ruri%20Shinato.jpg)
 * [Rus Blackwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rus%20Blackwell.jpg)
 * [Russ Fega](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Russ%20Fega.jpg)
 * [Russ Meyer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Russ%20Meyer.jpg)

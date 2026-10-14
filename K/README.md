@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - K (786 Images)
+# Kometa People Images - Rainier (rainier) - K (788 Images)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K%20Raghavendra%20Rao.jpg)
 * [K. S. Ravikumar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K.%20S.%20Ravikumar.jpg)
@@ -276,6 +276,7 @@
 * [Keira Knightley](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Keira%20Knightley.jpg)
 * [Keisha Castle-Hughes](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Keisha%20Castle-Hughes.jpg)
 * [Keisha Tucker](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Keisha%20Tucker.jpg)
+* [Keisuke Yoshida](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Keisuke%20Yoshida.jpg)
 * [Keith Buckley](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Keith%20Buckley.jpg)
 * [Keith Campbell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Keith%20Campbell.jpg)
 * [Keith Carradine](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Keith%20Carradine.jpg)
@@ -637,6 +638,7 @@
 * [Klaus Kinski](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Klaus%20Kinski.jpg)
 * [Klaus Maria Brandauer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Klaus%20Maria%20Brandauer.jpg)
 * [Knate Gwaltney](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Knate%20Gwaltney.jpg)
+* [Ko Asung](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Ko%20Asung.jpg)
 * [Ko Kyu-pil](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Ko%20Kyu-pil.jpg)
 * [Ko Matsuo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Ko%20Matsuo.jpg)
 * [Ko Shibasaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Ko%20Shibasaki.jpg)

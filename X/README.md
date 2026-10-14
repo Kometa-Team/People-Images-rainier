@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - X (22 Images)
+# Kometa People Images - Rainier (rainier) - X (23 Images)
 
 * [X Mayo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/X/Images/X%20Mayo.jpg)
 * [Xander Berkeley](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/X/Images/Xander%20Berkeley.jpg)
@@ -7,6 +7,7 @@
 * [Xavier Jiménez](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/X/Images/Xavier%20Jim%C3%A9nez.jpg)
 * [Xavyer Ureña](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/X/Images/Xavyer%20Ure%C3%B1a.jpg)
 * [Xenia Kalogeropoulou](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/X/Images/Xenia%20Kalogeropoulou.jpg)
+* [Xi Jinping](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/X/Images/Xi%20Jinping.jpg)
 * [Xiao Shenyang](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/X/Images/Xiao%20Shenyang.jpg)
 * [Xiao Shunyao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/X/Images/Xiao%20Shunyao.jpg)
 * [Xiao Zhan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/X/Images/Xiao%20Zhan.jpg)

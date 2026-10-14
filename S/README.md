@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - S (1143 Images)
+# Kometa People Images - Rainier (rainier) - S (1144 Images)
 
 * [S. Epatha Merkerson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20Epatha%20Merkerson.jpg)
 * [S. N. Lakshmi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20N.%20Lakshmi.jpg)
@@ -841,6 +841,7 @@
 * [Stany De Silva](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Stany%20De%20Silva.jpg)
 * [Star Slade](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Star%20Slade.jpg)
 * [Stavros Halkias](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Stavros%20Halkias.jpg)
+* [Stavros Tsoumanis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Stavros%20Tsoumanis.jpg)
 * [Stef Dawson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Stef%20Dawson.jpg)
 * [Stefan Arndt](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Stefan%20Arndt.jpg)
 * [Stefan Betz](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Stefan%20Betz.jpg)

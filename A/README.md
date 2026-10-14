@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - A (1272 Images)
+# Kometa People Images - Rainier (rainier) - A (1273 Images)
 
 * [A Martinez](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/A%20Martinez.jpg)
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/A.%20Edward%20Sutherland.jpg)
@@ -242,6 +242,7 @@
 * [Akiko Yodo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Akiko%20Yodo.jpg)
 * [Akim Tamiroff](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Akim%20Tamiroff.jpg)
 * [Akin Gazi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Akin%20Gazi.jpg)
+* [Akio Isono](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Akio%20Isono.jpg)
 * [Akio Otsuka](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Akio%20Otsuka.jpg)
 * [Akira Akbar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Akira%20Akbar.jpg)
 * [Akira Ishida](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Akira%20Ishida.jpg)

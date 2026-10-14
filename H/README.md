@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - H (432 Images)
+# Kometa People Images - Rainier (rainier) - H (433 Images)
 
 * [H. C. Potter](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/H.%20C.%20Potter.jpg)
 * [H. G. Wells](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/H.%20G.%20Wells.jpg)
@@ -144,6 +144,7 @@
 * [Haruka Shiraishi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Haruka%20Shiraishi.jpg)
 * [Haruka Tomatsu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Haruka%20Tomatsu.jpg)
 * [Haruna Mikawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Haruna%20Mikawa.jpg)
+* [Haruo Tanaka](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Haruo%20Tanaka.jpg)
 * [Harutoki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Harutoki.jpg)
 * [Harve Bennett](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Harve%20Bennett.jpg)
 * [Harvey Fierstein](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Harvey%20Fierstein.jpg)
