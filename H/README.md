@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - H (433 Images)
+# Kometa People Images - Rainier (rainier) - H (434 Images)
 
 * [H. C. Potter](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/H.%20C.%20Potter.jpg)
 * [H. G. Wells](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/H.%20G.%20Wells.jpg)
@@ -48,6 +48,7 @@
 * [Han So-hee](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Han%20So-hee.jpg)
 * [Han Tian-Lu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Han%20Tian-Lu.jpg)
 * [Han Yi-seul](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Han%20Yi-seul.jpg)
+* [Hana Hishikawa](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hana%20Hishikawa.jpg)
 * [Hana Hrzic](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hana%20Hrzic.jpg)
 * [Hana Mae Lee](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hana%20Mae%20Lee.jpg)
 * [Hanae Natsuki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/H/Images/Hanae%20Natsuki.jpg)
