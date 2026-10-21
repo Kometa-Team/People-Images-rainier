@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) (15341 Images)
+# Kometa People Images - Rainier (rainier) (15342 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -1288,7 +1288,7 @@
 * [Azucena Hernández](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Azucena%20Hern%C3%A1ndez.jpg)
 * [Azumi Waki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Azumi%20Waki.jpg)
 </details>
-<details><summary><a href="B">B (731 Images)</a></summary>
+<details><summary><a href="B">B (732 Images)</a></summary>
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.F.%20Blinn.jpg)
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.J.%20Penn.jpg)
@@ -1939,6 +1939,7 @@
 * [Bruce Glover](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bruce%20Glover.jpg)
 * [Bruce Greenwood](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bruce%20Greenwood.jpg)
 * [Bruce He](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bruce%20He.jpg)
+* [Bruce Langley](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bruce%20Langley.jpg)
 * [Bruce Lee](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bruce%20Lee.jpg)
 * [Bruce Leung Siu-Lung](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bruce%20Leung%20Siu-Lung.jpg)
 * [Bruce McGill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bruce%20McGill.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - B (731 Images)
+# Kometa People Images - Rainier (rainier) - B (732 Images)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.F.%20Blinn.jpg)
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.J.%20Penn.jpg)
@@ -649,6 +649,7 @@
 * [Bruce Glover](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bruce%20Glover.jpg)
 * [Bruce Greenwood](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bruce%20Greenwood.jpg)
 * [Bruce He](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bruce%20He.jpg)
+* [Bruce Langley](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bruce%20Langley.jpg)
 * [Bruce Lee](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bruce%20Lee.jpg)
 * [Bruce Leung Siu-Lung](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bruce%20Leung%20Siu-Lung.jpg)
 * [Bruce McGill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bruce%20McGill.jpg)
