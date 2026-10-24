@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - T (749 Images)
+# Kometa People Images - Rainier (rainier) - T (751 Images)
 
 * [T Bone Burnett](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T%20Bone%20Burnett.jpg)
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T.%20J.%20Miller.jpg)
@@ -261,6 +261,7 @@
 * [Theresa Rebeck](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Theresa%20Rebeck.jpg)
 * [Thiago Martins](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Thiago%20Martins.jpg)
 * [Thierry Wermuth](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Thierry%20Wermuth.jpg)
+* [Thinley Lhamo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Thinley%20Lhamo.jpg)
 * [Thom Barry](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Thom%20Barry.jpg)
 * [Thom Gossom Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Thom%20Gossom%20Jr..jpg)
 * [Thom Green](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Thom%20Green.jpg)
@@ -328,6 +329,7 @@
 * [Til Schweiger](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Til%20Schweiger.jpg)
 * [Tilda Swinton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tilda%20Swinton.jpg)
 * [Tim Allen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tim%20Allen.jpg)
+* [Tim Bagley](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tim%20Bagley.jpg)
 * [Tim Baltz](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tim%20Baltz.jpg)
 * [Tim Bevan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tim%20Bevan.jpg)
 * [Tim Blake Nelson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Tim%20Blake%20Nelson.jpg)

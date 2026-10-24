@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - N (427 Images)
+# Kometa People Images - Rainier (rainier) - N (428 Images)
 
 * [N. Linguswamy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/N.%20Linguswamy.jpg)
 * [N.T. Rama Rao Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/N.T.%20Rama%20Rao%20Jr..jpg)
@@ -86,6 +86,7 @@
 * [Natalie Wood](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Natalie%20Wood.jpg)
 * [Natalie Zea](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Natalie%20Zea.jpg)
 * [Natar Ungalaaq](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Natar%20Ungalaaq.jpg)
+* [Natasa Asiki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Natasa%20Asiki.jpg)
 * [Natascha McElhone](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Natascha%20McElhone.jpg)
 * [Natasha Culzac](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Natasha%20Culzac.jpg)
 * [Natasha Henstridge](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/N/Images/Natasha%20Henstridge.jpg)

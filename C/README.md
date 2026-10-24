@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - C (947 Images)
+# Kometa People Images - Rainier (rainier) - C (949 Images)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
 * [C. S. Forester](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20S.%20Forester.jpg)
@@ -23,6 +23,7 @@
 * [Caleb McLaughlin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Caleb%20McLaughlin.jpg)
 * [Calista Flockhart](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Calista%20Flockhart.jpg)
 * [Callan Mulvey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Callan%20Mulvey.jpg)
+* [Callina Liang](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Callina%20Liang.jpg)
 * [Callum Keith Rennie](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Callum%20Keith%20Rennie.jpg)
 * [Callum McDougall](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Callum%20McDougall.jpg)
 * [Callum Turner](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Callum%20Turner.jpg)
@@ -262,6 +263,7 @@
 * [Chang Cheh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chang%20Cheh.jpg)
 * [Chang Chen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chang%20Chen.jpg)
 * [Chang Ki-ha](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chang%20Ki-ha.jpg)
+* [Chang Yi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chang%20Yi.jpg)
 * [Channing Tatum](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Channing%20Tatum.jpg)
 * [Chantal Akerman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chantal%20Akerman.jpg)
 * [Chao-Li Chi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Chao-Li%20Chi.jpg)

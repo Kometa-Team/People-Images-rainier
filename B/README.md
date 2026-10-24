@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - B (732 Images)
+# Kometa People Images - Rainier (rainier) - B (733 Images)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.F.%20Blinn.jpg)
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/B.J.%20Penn.jpg)
@@ -334,6 +334,7 @@
 * [Bing Wang](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bing%20Wang.jpg)
 * [Binnie Barnes](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Binnie%20Barnes.jpg)
 * [Binnur Kaya](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Binnur%20Kaya.jpg)
+* [Bipasha Basu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Bipasha%20Basu.jpg)
 * [Birce Akalay](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Birce%20Akalay.jpg)
 * [Birgit Minichmayr](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Birgit%20Minichmayr.jpg)
 * [Birgitte Hjort Sørensen](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/B/Images/Birgitte%20Hjort%20S%C3%B8rensen.jpg)

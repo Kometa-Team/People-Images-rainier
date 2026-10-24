@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - J (1764 Images)
+# Kometa People Images - Rainier (rainier) - J (1766 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -1034,6 +1034,7 @@
 * [Joel McHale](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Joel%20McHale.jpg)
 * [Joel McKinnon Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Joel%20McKinnon%20Miller.jpg)
 * [Joel Murray](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Joel%20Murray.jpg)
+* [Joel Oulette](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Joel%20Oulette.jpg)
 * [Joel Schumacher](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Joel%20Schumacher.jpg)
 * [Joel Silver](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Joel%20Silver.jpg)
 * [Joel Silverstone](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Joel%20Silverstone.jpg)
@@ -1511,6 +1512,7 @@
 * [Josh Charles](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Josh%20Charles.jpg)
 * [Josh Cooley](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Josh%20Cooley.jpg)
 * [Josh Cowdery](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Josh%20Cowdery.jpg)
+* [Josh Cruddas](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Josh%20Cruddas.jpg)
 * [Josh Dallas](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Josh%20Dallas.jpg)
 * [Josh Duhamel](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Josh%20Duhamel.jpg)
 * [Josh Elliott](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Josh%20Elliott.jpg)
