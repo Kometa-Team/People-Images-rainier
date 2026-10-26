@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - J (1766 Images)
+# Kometa People Images - Rainier (rainier) - J (1767 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -1424,6 +1424,7 @@
 * [Jonny Lee Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jonny%20Lee%20Miller.jpg)
 * [Jono Bennett](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Jono%20Bennett.jpg)
 * [Joo Min-kyung](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Joo%20Min-kyung.jpg)
+* [Joo Sang-wook](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Joo%20Sang-wook.jpg)
 * [Joo Ye-bin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Joo%20Ye-bin.jpg)
 * [Joo Ye-rin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Joo%20Ye-rin.jpg)
 * [Joonas Suotamo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/J/Images/Joonas%20Suotamo.jpg)
