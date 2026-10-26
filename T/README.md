@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - T (751 Images)
+# Kometa People Images - Rainier (rainier) - T (752 Images)
 
 * [T Bone Burnett](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T%20Bone%20Burnett.jpg)
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/T.%20J.%20Miller.jpg)
@@ -47,6 +47,7 @@
 * [Takeo Otsuka](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takeo%20Otsuka.jpg)
 * [Takeo Ōtsuka](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takeo%20%C5%8Ctsuka.jpg)
 * [Takeru Satoh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takeru%20Satoh.jpg)
+* [Takeshi Kaga](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takeshi%20Kaga.jpg)
 * [Takeshi Kaneshiro](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takeshi%20Kaneshiro.jpg)
 * [Takeshi Kitano](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takeshi%20Kitano.jpg)
 * [Takeshi Koike](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/T/Images/Takeshi%20Koike.jpg)
