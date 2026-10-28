@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - K (788 Images)
+# Kometa People Images - Rainier (rainier) - K (790 Images)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K%20Raghavendra%20Rao.jpg)
 * [K. S. Ravikumar](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/K.%20S.%20Ravikumar.jpg)
@@ -242,6 +242,7 @@
 * [Kazuchika Kise](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kazuchika%20Kise.jpg)
 * [Kazue Fukiishi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kazue%20Fukiishi.jpg)
 * [Kazuhiko Inoue](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kazuhiko%20Inoue.jpg)
+* [Kazuhiro Yamaji](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kazuhiro%20Yamaji.jpg)
 * [Kazuki Kitamura](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kazuki%20Kitamura.jpg)
 * [Kazuki Yao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kazuki%20Yao.jpg)
 * [Kazuko Yanaga](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kazuko%20Yanaga.jpg)
@@ -758,6 +759,7 @@
 * [Kwak Sin-ae](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kwak%20Sin-ae.jpg)
 * [Kwesi Ameyaw](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kwesi%20Ameyaw.jpg)
 * [Kwesi Boakye](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kwesi%20Boakye.jpg)
+* [Kwong Wa](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kwong%20Wa.jpg)
 * [Kyan Khojandi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kyan%20Khojandi.jpg)
 * [Kyla Pratt](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kyla%20Pratt.jpg)
 * [Kyle Balda](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/K/Images/Kyle%20Balda.jpg)

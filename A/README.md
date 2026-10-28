@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - A (1281 Images)
+# Kometa People Images - Rainier (rainier) - A (1282 Images)
 
 * [A Martinez](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/A%20Martinez.jpg)
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/A.%20Edward%20Sutherland.jpg)
@@ -1095,6 +1095,7 @@
 * [Armida Lopez](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Armida%20Lopez.jpg)
 * [Armie Hammer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Armie%20Hammer.jpg)
 * [Armin Rohde](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Armin%20Rohde.jpg)
+* [Arnold Lucy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Arnold%20Lucy.jpg)
 * [Arnold Schwarzenegger](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Arnold%20Schwarzenegger.jpg)
 * [Arnold Vosloo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Arnold%20Vosloo.jpg)
 * [Arnon Milchan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/A/Images/Arnon%20Milchan.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - V (178 Images)
+# Kometa People Images - Rainier (rainier) - V (179 Images)
 
 * [V.J. Foster](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/V.J.%20Foster.jpg)
 * [Vadivelu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vadivelu.jpg)
@@ -172,6 +172,7 @@
 * [Vladek Sheybal](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vladek%20Sheybal.jpg)
 * [Vladimir Mashchenko](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vladimir%20Mashchenko.jpg)
 * [Vladislav Dvorzhetsky](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vladislav%20Dvorzhetsky.jpg)
+* [Vladislav Krapivin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vladislav%20Krapivin.jpg)
 * [Vlasta Pospíšilová](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Vlasta%20Posp%C3%AD%C5%A1ilov%C3%A1.jpg)
 * [Volker Bruch](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Volker%20Bruch.jpg)
 * [Volker Schlöndorff](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/V/Images/Volker%20Schl%C3%B6ndorff.jpg)

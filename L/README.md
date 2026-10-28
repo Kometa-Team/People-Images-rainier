@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - L (703 Images)
+# Kometa People Images - Rainier (rainier) - L (705 Images)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/L.%20Q.%20Jones.jpg)
 * [L. Scott Caldwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/L.%20Scott%20Caldwell.jpg)
@@ -288,6 +288,7 @@
 * [Leonard Mann](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Leonard%20Mann.jpg)
 * [Leonard Mudie](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Leonard%20Mudie.jpg)
 * [Leonard Nimoy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Leonard%20Nimoy.jpg)
+* [Leonard Rosenman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Leonard%20Rosenman.jpg)
 * [Leonardo Di Caprio](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Leonardo%20Di%20Caprio.jpg)
 * [Leonardo Di Costanzo](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Leonardo%20Di%20Costanzo.jpg)
 * [Leonardo DiCaprio](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Leonardo%20DiCaprio.jpg)
@@ -591,6 +592,7 @@
 * [Loïc Corbery](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lo%C3%AFc%20Corbery.jpg)
 * [Lu Han](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lu%20Han.jpg)
 * [Lu Wei](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lu%20Wei.jpg)
+* [Lu Yi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lu%20Yi.jpg)
 * [Lu Yuxiao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lu%20Yuxiao.jpg)
 * [Luan Yuanhui](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Luan%20Yuanhui.jpg)
 * [Luanne Roberts](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Luanne%20Roberts.jpg)

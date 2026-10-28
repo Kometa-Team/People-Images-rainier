@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - I (194 Images)
+# Kometa People Images - Rainier (rainier) - I (195 Images)
 
 * [I. A. L. Diamond](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/I.%20A.%20L.%20Diamond.jpg)
 * [IU](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/IU.jpg)
@@ -43,6 +43,7 @@
 * [Ibrahima Gueye](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Ibrahima%20Gueye.jpg)
 * [Ice Cube](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Ice%20Cube.jpg)
 * [Ice-T](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Ice-T.jpg)
+* [Ichirō Ryūzaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Ichir%C5%8D%20Ry%C5%ABzaki.jpg)
 * [Ichirō Zaitsu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Ichir%C5%8D%20Zaitsu.jpg)
 * [Ida Galli](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Ida%20Galli.jpg)
 * [Ida Lupino](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/I/Images/Ida%20Lupino.jpg)

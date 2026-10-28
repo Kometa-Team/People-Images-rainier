@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - C (949 Images)
+# Kometa People Images - Rainier (rainier) - C (950 Images)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
 * [C. S. Forester](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/C.%20S.%20Forester.jpg)
@@ -27,6 +27,7 @@
 * [Callum Keith Rennie](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Callum%20Keith%20Rennie.jpg)
 * [Callum McDougall](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Callum%20McDougall.jpg)
 * [Callum Turner](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Callum%20Turner.jpg)
+* [Callum Vinson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Callum%20Vinson.jpg)
 * [Calum Worthy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Calum%20Worthy.jpg)
 * [Cam Clarke](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Cam%20Clarke.jpg)
 * [Cam Gigandet](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/C/Images/Cam%20Gigandet.jpg)
