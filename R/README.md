@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - R (940 Images)
+# Kometa People Images - Rainier (rainier) - R (941 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Lee%20Ermey.jpg)
 * [R. Madhavan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Madhavan.jpg)
@@ -423,6 +423,7 @@
 * [Rieko Miura](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rieko%20Miura.jpg)
 * [Rieko Takahashi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rieko%20Takahashi.jpg)
 * [Rihanna](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rihanna.jpg)
+* [Rihito Itagaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rihito%20Itagaki.jpg)
 * [Riho Unt](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Riho%20Unt.jpg)
 * [Riho Yoshioka](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Riho%20Yoshioka.jpg)
 * [Rik Mayall](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rik%20Mayall.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - P (586 Images)
+# Kometa People Images - Rainier (rainier) - P (587 Images)
 
 * [P. D. James](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/P.%20D.%20James.jpg)
 * [P.H. Moriarty](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/P.H.%20Moriarty.jpg)
@@ -168,6 +168,7 @@
 * [Paul Calderon](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Paul%20Calderon.jpg)
 * [Paul Campbell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Paul%20Campbell.jpg)
 * [Paul Chowdhry](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Paul%20Chowdhry.jpg)
+* [Paul Chu Kong](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Paul%20Chu%20Kong.jpg)
 * [Paul Collett](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Paul%20Collett.jpg)
 * [Paul Dano](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Paul%20Dano.jpg)
 * [Paul Darnell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/P/Images/Paul%20Darnell.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - Z (104 Images)
+# Kometa People Images - Rainier (rainier) - Z (105 Images)
 
 * [Zac Efron](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Z/Images/Zac%20Efron.jpg)
 * [Zach Baylin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Z/Images/Zach%20Baylin.jpg)
@@ -38,6 +38,7 @@
 * [Zak Santiago](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Z/Images/Zak%20Santiago.jpg)
 * [Zakir Hussain](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Z/Images/Zakir%20Hussain.jpg)
 * [Zane Weiner](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Z/Images/Zane%20Weiner.jpg)
+* [Zara Larsson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Z/Images/Zara%20Larsson.jpg)
 * [Zara Phythian](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Z/Images/Zara%20Phythian.jpg)
 * [Zazie Beetz](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Z/Images/Zazie%20Beetz.jpg)
 * [Zeeko Zaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Z/Images/Zeeko%20Zaki.jpg)
