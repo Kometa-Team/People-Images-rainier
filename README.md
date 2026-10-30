@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) (15428 Images)
+# Kometa People Images - Rainier (rainier) (15422 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -15535,28 +15535,4 @@
 <details><summary><a href="Ž">Ž (1 Images)</a></summary>
 
 * [Željko Ivanek](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/Ž/Images/%C5%BDeljko%20Ivanek.jpg)
-</details>
-<details><summary><a href="吴">吴 (1 Images)</a></summary>
-
-* [吴 梦梦](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/吴/Images/%E5%90%B4%20%E6%A2%A6%E6%A2%A6.jpg)
-</details>
-<details><summary><a href="宋">宋 (1 Images)</a></summary>
-
-* [宋雨川](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/宋/Images/%E5%AE%8B%E9%9B%A8%E5%B7%9D.jpg)
-</details>
-<details><summary><a href="桜">桜 (1 Images)</a></summary>
-
-* [桜みお](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/桜/Images/%E6%A1%9C%E3%81%BF%E3%81%8A.jpg)
-</details>
-<details><summary><a href="梁">梁 (1 Images)</a></summary>
-
-* [梁佳芯](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/梁/Images/%E6%A2%81%E4%BD%B3%E8%8A%AF.jpg)
-</details>
-<details><summary><a href="温">温 (1 Images)</a></summary>
-
-* [温芮欣](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/温/Images/%E6%B8%A9%E8%8A%AE%E6%AC%A3.jpg)
-</details>
-<details><summary><a href="박">박 (1 Images)</a></summary>
-
-* [박지](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/박/Images/%EB%B0%95%EC%A7%80.jpg)
 </details>
