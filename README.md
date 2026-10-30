@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) (15422 Images)
+# Kometa People Images - Rainier (rainier) (15423 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -9135,7 +9135,7 @@
 * [Lúcio Andrey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/L%C3%BAcio%20Andrey.jpg)
 * [Lương Bích Hữu](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/L%C6%B0%C6%A1ng%20B%C3%ADch%20H%E1%BB%AFu.jpg)
 </details>
-<details><summary><a href="M">M (1434 Images)</a></summary>
+<details><summary><a href="M">M (1435 Images)</a></summary>
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
 * [M. Emmet Walsh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/M.%20Emmet%20Walsh.jpg)
@@ -10418,6 +10418,7 @@
 * [Minori Terada](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Minori%20Terada.jpg)
 * [Minoru Chiaki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Minoru%20Chiaki.jpg)
 * [Mio Imada](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Mio%20Imada.jpg)
+* [Mio Sakura](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Mio%20Sakura.jpg)
 * [Miquel Fernández](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Miquel%20Fern%C3%A1ndez.jpg)
 * [Mira Furlan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Mira%20Furlan.jpg)
 * [Mira Nair](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Mira%20Nair.jpg)
