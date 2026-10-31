@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - M (1435 Images)
+# Kometa People Images - Rainier (rainier) - M (1436 Images)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
 * [M. Emmet Walsh](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/M.%20Emmet%20Walsh.jpg)
@@ -330,6 +330,7 @@
 * [Mariya Isaeva](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Mariya%20Isaeva.jpg)
 * [Mariya Isak](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Mariya%20Isak.jpg)
 * [Mariya Ise](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Mariya%20Ise.jpg)
+* [Marjoe Gortner](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Marjoe%20Gortner.jpg)
 * [Mark A.Z. Dippé](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Mark%20A.Z.%20Dipp%C3%A9.jpg)
 * [Mark Acheson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Mark%20Acheson.jpg)
 * [Mark Adair-Rios](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/M/Images/Mark%20Adair-Rios.jpg)

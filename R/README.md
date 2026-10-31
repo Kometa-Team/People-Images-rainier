@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - R (941 Images)
+# Kometa People Images - Rainier (rainier) - R (943 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Lee%20Ermey.jpg)
 * [R. Madhavan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/R.%20Madhavan.jpg)
@@ -67,6 +67,7 @@
 * [Rajesh Khanna](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rajesh%20Khanna.jpg)
 * [Rajesh Sharma](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rajesh%20Sharma.jpg)
 * [Rajinikanth](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rajinikanth.jpg)
+* [Rajiv Gupta](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rajiv%20Gupta.jpg)
 * [Rajkumar Hirani](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rajkumar%20Hirani.jpg)
 * [Rajkummar Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rajkummar%20Rao.jpg)
 * [Rakesh Bedi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rakesh%20Bedi.jpg)
@@ -841,6 +842,7 @@
 * [Rupert Penry-Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rupert%20Penry-Jones.jpg)
 * [Rupert Vansittart](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rupert%20Vansittart.jpg)
 * [Rupert Wyatt](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rupert%20Wyatt.jpg)
+* [Ruri Arai](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ruri%20Arai.jpg)
 * [Ruri Shinato](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Ruri%20Shinato.jpg)
 * [Rus Blackwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Rus%20Blackwell.jpg)
 * [Russ Fega](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/R/Images/Russ%20Fega.jpg)

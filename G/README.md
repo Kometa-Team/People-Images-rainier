@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - G (491 Images)
+# Kometa People Images - Rainier (rainier) - G (492 Images)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/G-Eazy.jpg)
 * [G. D. Spradlin](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/G.%20D.%20Spradlin.jpg)
@@ -329,6 +329,7 @@
 * [Gloria Foster](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gloria%20Foster.jpg)
 * [Gloria Hendry](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gloria%20Hendry.jpg)
 * [Gloria Katz](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Gloria%20Katz.jpg)
+* [Glynis Johns](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Glynis%20Johns.jpg)
 * [Glynn Turman](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Glynn%20Turman.jpg)
 * [Go Joon-hee](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Go%20Joon-hee.jpg)
 * [Go Won-hee](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/G/Images/Go%20Won-hee.jpg)

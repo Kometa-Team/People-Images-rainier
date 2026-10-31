@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - S (1153 Images)
+# Kometa People Images - Rainier (rainier) - S (1154 Images)
 
 * [S. Epatha Merkerson](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20Epatha%20Merkerson.jpg)
 * [S. N. Lakshmi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/S.%20N.%20Lakshmi.jpg)
@@ -111,6 +111,7 @@
 * [Samantha Coughlan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Samantha%20Coughlan.jpg)
 * [Samantha Ferris](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Samantha%20Ferris.jpg)
 * [Samantha Mathis](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Samantha%20Mathis.jpg)
+* [Samantha Melanie Coates](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Samantha%20Melanie%20Coates.jpg)
 * [Samantha Morton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Samantha%20Morton.jpg)
 * [Samantha Russell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Samantha%20Russell.jpg)
 * [Samantha Sloyan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/S/Images/Samantha%20Sloyan.jpg)

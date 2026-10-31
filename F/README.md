@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - F (289 Images)
+# Kometa People Images - Rainier (rainier) - F (290 Images)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/F.%20Gary%20Gray.jpg)
 * [F. Murray Abraham](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/F.%20Murray%20Abraham.jpg)
@@ -285,6 +285,7 @@
 * [Fumihiko Tachiki](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fumihiko%20Tachiki.jpg)
 * [Fumiko Orikasa](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fumiko%20Orikasa.jpg)
 * [Fumio Ishimori](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fumio%20Ishimori.jpg)
+* [Fumiyo Kohinata](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Fumiyo%20Kohinata.jpg)
 * [Furio Scarpelli](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Furio%20Scarpelli.jpg)
 * [Furukawa Makoto](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Furukawa%20Makoto.jpg)
 * [Futoshi Nishiya](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/F/Images/Futoshi%20Nishiya.jpg)

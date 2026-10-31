@@ -1,4 +1,4 @@
-# Kometa People Images - Rainier (rainier) - L (705 Images)
+# Kometa People Images - Rainier (rainier) - L (707 Images)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/L.%20Q.%20Jones.jpg)
 * [L. Scott Caldwell](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/L.%20Scott%20Caldwell.jpg)
@@ -345,6 +345,7 @@
 * [Leythum](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Leythum.jpg)
 * [Li Bingbing](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Li%20Bingbing.jpg)
 * [Li Chuan](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Li%20Chuan.jpg)
+* [Li Gengxi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Li%20Gengxi.jpg)
 * [Li Guangjie](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Li%20Guangjie.jpg)
 * [Li Jing](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Li%20Jing.jpg)
 * [Li Keyi](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Li%20Keyi.jpg)
@@ -462,6 +463,7 @@
 * [Lisa Vicari](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lisa%20Vicari.jpg)
 * [Lisa Vischer](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lisa%20Vischer.jpg)
 * [Lisa Wilcox](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lisa%20Wilcox.jpg)
+* [Lisa-Marie Koroll](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lisa-Marie%20Koroll.jpg)
 * [LisaGay Hamilton](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/LisaGay%20Hamilton.jpg)
 * [Lisandro Boccacci](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lisandro%20Boccacci.jpg)
 * [Lisseth Chavez](https://raw.githubusercontent.com/Kometa-Team/People-Images-rainier/master/L/Images/Lisseth%20Chavez.jpg)
